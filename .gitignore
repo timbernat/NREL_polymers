@@ -3,3 +3,5 @@ polysaccharide/*
 
 # large data directories
 monomer_files/*
+pdb_files/*
+Collections/*
