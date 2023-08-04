@@ -5,3 +5,7 @@ polysaccharide/*
 monomer_files/*
 pdb_files/*
 Collections/*
+LAMMPS/*
+
+# stray files
+.model.pt
