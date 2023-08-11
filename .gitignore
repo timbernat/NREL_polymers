@@ -5,7 +5,13 @@ polysaccharide/*
 monomer_files/*
 pdb_files/*
 Collections/*
+
 LAMMPS/*
+OpenMM/*
+
+# testing dirs
+sdf_testing/*
 
 # stray files
 .model.pt
+tqdm_test.py
