@@ -9,6 +9,7 @@ Collections/*
 LAMMPS/*
 OpenMM/*
 OpenMM_unconstrained/*
+OpenMM_newest/*
 
 # testing dirs
 sdf_testing/*
