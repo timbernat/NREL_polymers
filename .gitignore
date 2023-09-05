@@ -15,5 +15,6 @@ OpenMM_newest/*
 sdf_testing/*
 
 # stray files
+**/__pycache__/*
 .model.pt
 tqdm_test.py
