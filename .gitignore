@@ -6,7 +6,7 @@ monomer_files/*
 pdb_files/*
 Collections/*
 
-LAMMPS/*
+# LAMMPS/*
 OpenMM/*
 OpenMM_unconstrained/*
 OpenMM_newest/*
