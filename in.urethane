@@ -4,15 +4,15 @@ atom_style full
 dimension 3
 boundary p p p
 
-pair_style lj/cut/coul/cut 19.99999 19.99999
-pair_modify mix geometric
+pair_style lj/cut/coul/cut 20.0 20.0
+pair_modify mix arithmetic
 
 bond_style hybrid harmonic
 angle_style hybrid harmonic
 dihedral_style hybrid fourier
 improper_style cvff
-special_bonds lj 0.0 0.0 0.5 coul 0.0 0.0 0.5
+special_bonds lj 0.0 0.0 0.5 coul 0.0 0.0 0.8333
 
-read_data LAMMPS/urethane/urethane_0.lammps
-thermo_style custom ebond eangle edihed eimp epair evdwl ecoul elong etail pe ke
+read_data $INP_FILE
+thermo_style yaml ebond eangle edihed eimp epair evdwl ecoul elong etail pe ke etotal
 run 0
