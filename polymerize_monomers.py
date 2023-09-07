@@ -1,10 +1,7 @@
 # Imports
 
 ## Custom Imports
-from polysaccharide import logutils
-
 from polysaccharide.molutils import reactions
-# from polysaccharide.molutils.rdmol.rdtypes import *
 from polysaccharide.molutils.rdmol import rdconvert, rdlabels
 
 from polysaccharide.polymer import monomer as monoutils
@@ -14,8 +11,6 @@ from polysaccharide.polymer.monomer import MonomerInfo
 import logging
 logging.basicConfig(
     level=logging.INFO,
-    format=logutils.LOG_FORMATTER._fmt,
-    datefmt=logutils.LOG_FORMATTER.datefmt,
     force=True
 )
 
