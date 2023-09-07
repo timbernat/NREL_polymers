@@ -12,7 +12,7 @@ special_bonds lj 0.0 0.0 0.5 coul 0.0 0.0 0.8333333333
 pair_style lj/cut/coul/long 9.0 9.0
 pair_modify mix arithmetic tail yes
 
-read_data urethane_1.lammps
+read_data LAMMPS/urethane/urethane_1/urethane_1.lammps
 
 thermo_style custom ebond eangle edihed eimp epair evdwl ecoul elong etail pe
 
