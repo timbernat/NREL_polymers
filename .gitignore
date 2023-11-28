@@ -1,5 +1,5 @@
 # module repositories
-polysaccharide/*
+polymerist/*
 
 # large data directories
 monomer_files/*
