@@ -1,6 +1,4 @@
 LAMMPS (2 Aug 2023)
-OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
-  using 1 OpenMP thread(s) per MPI task
 units real
 atom_style full
 
@@ -15,37 +13,37 @@ special_bonds lj 0.0 0.0 0.5 coul 0.0 0.0 0.8333333333
 pair_style lj/cut/coul/long 9.0 9.0
 pair_modify mix arithmetic tail yes
 
-read_data LAMMPS/urethane/urethane_12/urethane_12.lammps
+read_data out.lmp
 Reading data file ...
-  triclinic box = (-10.236 -41.955002 -2.7550001) to (89.764 58.044998 97.245) with tilt (0 0 0)
+  triclinic box = (-13.23 -21.931999 -12.884) to (86.77 78.068001 87.116) with tilt (0 0 0)
   1 by 1 by 1 MPI processor grid
   reading atoms ...
-  513 atoms
+  630 atoms
   scanning bonds ...
   3 = max bonds/atom
   scanning angles ...
   6 = max angles/atom
   scanning dihedrals ...
-  22 = max dihedrals/atom
+  14 = max dihedrals/atom
   scanning impropers ...
-  3 = max impropers/atom
+  2 = max impropers/atom
   reading bonds ...
-  539 bonds
+  629 bonds
   reading angles ...
-  905 angles
+  1202 angles
   reading dihedrals ...
-  1536 dihedrals
+  2244 dihedrals
   reading impropers ...
-  615 impropers
+  102 impropers
 Finding 1-2 1-3 1-4 neighbors ...
   special bond factors lj:    0        0        0.5     
   special bond factors coul:  0        0        0.8333333333
      4 = max # of 1-2 neighbors
-     8 = max # of 1-3 neighbors
-    18 = max # of 1-4 neighbors
-    21 = max # of special neighbors
-  special bonds CPU = 0.000 seconds
-  read_data CPU = 0.013 seconds
+     6 = max # of 1-3 neighbors
+    12 = max # of 1-4 neighbors
+    16 = max # of special neighbors
+  special bonds CPU = 0.001 seconds
+  read_data CPU = 0.036 seconds
 
 thermo_style custom ebond eangle edihed eimp epair evdwl ecoul elong etail pe
 
@@ -53,16 +51,15 @@ kspace_style pppm 1e-4
 run 0
 WARNING: No fixes with time integration, atoms won't move (src/verlet.cpp:60)
 PPPM initialization ...
-WARNING: System is not charge neutral, net charge = -6.0509e-05 (src/kspace.cpp:327)
   using 12-bit tables for long-range coulomb (src/kspace.cpp:342)
-  G vector (1/distance) = 0.2032519
-  grid = 24 24 24
+  G vector (1/distance) = 0.18372595
+  grid = 20 20 20
   stencil order = 5
-  estimated absolute RMS force accuracy = 0.024805961
-  estimated relative force accuracy = 7.4702414e-05
+  estimated absolute RMS force accuracy = 0.026996208
+  estimated relative force accuracy = 8.1298278e-05
   using double precision FFTW3
-  3d grid and FFT values/proc = 24389 13824
-Generated 66 of 66 mixed pair_coeff terms from arithmetic mixing rule
+  3d grid and FFT values/proc = 15625 8000
+Generated 55 of 55 mixed pair_coeff terms from arithmetic mixing rule
 Neighbor list info ...
   update: every = 1 steps, delay = 0 steps, check = yes
   max neighbors/atom: 2000, page size: 100000
@@ -75,12 +72,12 @@ Neighbor list info ...
       pair build: half/bin/newton/tri
       stencil: half/bin/3d/tri
       bin: standard
-Per MPI rank memory allocation (min/avg/max) = 20 | 20 | 20 Mbytes
+Per MPI rank memory allocation (min/avg/max) = 15.94 | 15.94 | 15.94 Mbytes
     E_bond        E_angle        E_dihed        E_impro         E_pair         E_vdwl         E_coul         E_long         E_tail         PotEng    
- 590.464        750.35041      201.59875      0.49333018     12114.072      13867.919      139.24166     -1893.0887     -0.19321674     13656.978    
-Loop time of 6.9237e-05 on 1 procs for 0 steps with 513 atoms
+ 628.29029      977.08558      187.69955      0.055417891    2.3988755e+10  2.3988755e+10  542.13387     -1112.7153     -0.18995741     2.3988756e+10
+Loop time of 2.088e-06 on 1 procs for 0 steps with 630 atoms
 
-192.1% CPU use with 1 MPI tasks x 1 OpenMP threads
+0.0% CPU use with 1 MPI tasks x no OpenMP threads
 
 MPI task timing breakdown:
 Section |  min time  |  avg time  |  max time  |%varavg| %total
@@ -92,18 +89,18 @@ Neigh   | 0          | 0          | 0          |   0.0 |  0.00
 Comm    | 0          | 0          | 0          |   0.0 |  0.00
 Output  | 0          | 0          | 0          |   0.0 |  0.00
 Modify  | 0          | 0          | 0          |   0.0 |  0.00
-Other   |            | 6.924e-05  |            |       |100.00
+Other   |            | 2.088e-06  |            |       |100.00
 
-Nlocal:            513 ave         513 max         513 min
+Nlocal:            630 ave         630 max         630 min
 Histogram: 1 0 0 0 0 0 0 0 0 0
-Nghost:            396 ave         396 max         396 min
+Nghost:            402 ave         402 max         402 min
 Histogram: 1 0 0 0 0 0 0 0 0 0
-Neighs:          28993 ave       28993 max       28993 min
+Neighs:          56289 ave       56289 max       56289 min
 Histogram: 1 0 0 0 0 0 0 0 0 0
 
-Total # of neighbors = 28993
-Ave neighs/atom = 56.516569
-Ave special neighs/atom = 10.339181
+Total # of neighbors = 56289
+Ave neighs/atom = 89.347619
+Ave special neighs/atom = 11.27619
 Neighbor list builds = 0
 Dangerous builds = 0
 Total wall time: 0:00:00
