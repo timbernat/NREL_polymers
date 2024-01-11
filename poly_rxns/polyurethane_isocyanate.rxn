@@ -4,7 +4,7 @@ $RXN
 
   2  1
 $MOL
-
+isocyanate
      RDKit          2D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
@@ -18,7 +18,7 @@ $MOL
 V    4 isocyanate
 M  END
 $MOL
-
+hydroxyl
      RDKit          2D
 
   3  2  0  0  0  0  0  0  0  0999 V2000

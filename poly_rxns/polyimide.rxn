@@ -4,7 +4,7 @@ $RXN
 
   2  1
 $MOL
-
+amine
      RDKit          2D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
@@ -18,7 +18,7 @@ $MOL
 V    2 amine
 M  END
 $MOL
-
+anhydride
      RDKit          2D
 
   7  6  0  0  0  0  0  0  0  0999 V2000

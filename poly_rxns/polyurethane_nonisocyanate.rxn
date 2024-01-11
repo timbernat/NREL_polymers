@@ -4,7 +4,7 @@ $RXN
 
   2  1
 $MOL
-
+cyclocarbonate
      RDKit          2D
 
  10 10  0  0  0  0  0  0  0  0999 V2000
@@ -31,7 +31,7 @@ $MOL
 V    1 cyclocarbonate
 M  END
 $MOL
-
+amine
      RDKit          2D
 
   4  3  0  0  0  0  0  0  0  0999 V2000

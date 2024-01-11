@@ -4,7 +4,7 @@ $RXN
 
   2  1
 $MOL
-
+vinyl
      RDKit          2D
 
   6  5  0  0  0  0  0  0  0  0999 V2000
@@ -22,7 +22,7 @@ $MOL
 V    1 vinyl
 M  END
 $MOL
-
+vinyl
      RDKit          2D
 
   6  5  0  0  0  0  0  0  0  0999 V2000
