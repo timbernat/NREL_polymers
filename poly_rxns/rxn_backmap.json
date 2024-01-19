@@ -1,0 +1,9 @@
+{
+    "amide": "polyamide",
+    "carbonate": "polycarbonate_phosgene",
+    "ester": "polyester",
+    "imide": "polyimide",
+    "urethane": "polyurethane_isocyanate",
+    "NIPU": "polyurethane_nonisocyanate",
+    "vinyl": "polyvinyl_head_tail"
+}
