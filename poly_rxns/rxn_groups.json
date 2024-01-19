@@ -1,0 +1,34 @@
+{
+    "polyester": [
+        "hydroxyl",
+        "carboxyl"
+    ],
+    "polyamide": [
+        "amine",
+        "carboxyl"
+    ],
+    "polyimide": [
+        "amine",
+        "anhydride"
+    ],
+    "polycarbonate_phosgene": [
+        "hydroxyl",
+        "acyl_chloride"
+    ],
+    "polycarbonate_nonphosgene": [
+        "hydroxyl",
+        "ester"
+    ],
+    "polyurethane_isocyanate": [
+        "isocyanate",
+        "hydroxyl"
+    ],
+    "polyurethane_nonisocyanate": [
+        "cyclocarbonate",
+        "amine"
+    ],
+    "polyvinyl_head_tail": [
+        "terminal_alkene",
+        "vinyl"
+    ]
+}
