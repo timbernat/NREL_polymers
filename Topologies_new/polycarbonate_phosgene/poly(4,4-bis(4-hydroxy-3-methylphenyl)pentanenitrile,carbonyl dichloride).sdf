@@ -1,0 +1,194 @@
+poly(4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile,carbonyl dichloride)
+  -OEChem-01192421023D
+
+ 88 91  0     1  0  0  0  0  0999 V2000
+    5.0850   -0.1610    1.7500 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8470   -0.2330    1.1100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7860   -0.6470    1.8070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8950   -0.9280    2.8470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4580   -0.7300    1.1740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6460   -1.1330    1.7660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2590   -0.3240   -0.1000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1320   -0.5050   -0.7610 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2920   -0.1840    0.2160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1910    0.8330    1.1010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2890    1.4260    1.1720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3070    1.1800    1.9980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1790    1.9800    2.7170 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4680    0.5230    1.9270 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4970    0.8820    2.7980 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6370   -0.5640    0.9230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9500   -1.2880    0.8030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1880   -1.7910    1.7630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7540   -0.5620    0.5590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9310   -2.0610    0.0050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6090   -0.8840    0.1140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7540   -1.6550   -0.6270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1680   -1.9980   -1.1820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2310   -2.6580   -0.2900 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7510   -2.2680   -1.7480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0210   -2.2290   -1.8540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3480    0.3490   -2.0620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5270    1.8730   -1.8940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6520    2.5480   -1.3420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5760    3.0910   -0.9070 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7270    2.3120   -2.8950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4110    2.1020   -1.2650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2890   -0.0030   -2.5420 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4310    0.1420   -2.8220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4670    0.0640   -0.8920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3770    0.3010   -1.9400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6870    0.1280   -0.3250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8810    0.5450   -1.1400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6130    0.7640   -2.1960 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6360   -0.2690   -1.1390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3280    1.4620   -0.7020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4310    0.4070    2.7940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4530    1.0710    2.7990 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9260    0.1440    1.2770 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0210    0.2160   -0.1130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1680    0.6300   -0.6570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0000    0.9120   -0.0240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3170    0.7140   -2.1210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2440    1.1170   -2.5070 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3310    0.3070   -2.9530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4890    0.4880   -4.4850 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.9260    0.1670   -4.9690 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6310   -0.8500   -4.4230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2220   -1.4430   -3.6150 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9770   -1.1970   -4.9110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5250   -1.9960   -4.4270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5190   -0.5390   -5.9390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7980   -0.8990   -6.3660 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2630   -0.4400   -7.1390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7490    0.5470   -6.6050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3280    1.2710   -7.7900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2720    1.7740   -7.4940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5370    0.5450   -8.6040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6360    2.0440   -8.1880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5240    0.8670   -6.1470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9650    1.6380   -6.6560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1480    1.9810   -4.7350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9430    2.6410   -4.3250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1870    2.2510   -4.2430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0170    2.2120   -5.8120 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4900   -0.3650   -5.3450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7260   -1.8900   -5.4110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5850   -2.5650   -4.1170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4770   -3.1080   -3.1010 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9750   -2.3290   -6.1020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7220   -2.1190   -5.8400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5690   -0.0140   -6.3990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4350   -0.1590   -5.0740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0270   -0.0810   -2.3320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1780   -0.3180   -2.9530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8780   -0.1450   -0.9950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5620   -0.5620   -0.3980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7990   -0.7810   -1.1750 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1710    0.2520    0.2480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7040   -1.4790    0.2120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4880   -0.6760    2.7850 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4700   -1.3400    2.6910 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0460   -1.4730    2.9070 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 44  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 37  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 35  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 42  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 21  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 23 26  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 33  1  0  0  0  0
+ 27 34  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 31  1  0  0  0  0
+ 28 32  1  0  0  0  0
+ 29 30  3  0  0  0  0
+ 35 36  1  0  0  0  0
+ 35 37  2  0  0  0  0
+ 37 38  1  0  0  0  0
+ 38 39  1  0  0  0  0
+ 38 40  1  0  0  0  0
+ 38 41  1  0  0  0  0
+ 42 43  2  0  0  0  0
+ 42 86  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 45 46  2  0  0  0  0
+ 45 81  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 48  1  0  0  0  0
+ 48 49  1  0  0  0  0
+ 48 50  2  0  0  0  0
+ 50 51  1  0  0  0  0
+ 50 79  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 67  1  0  0  0  0
+ 51 71  1  0  0  0  0
+ 52 53  2  0  0  0  0
+ 52 65  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  1  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 57  2  0  0  0  0
+ 57 58  1  0  0  0  0
+ 57 60  1  0  0  0  0
+ 58 59  1  0  0  0  0
+ 60 61  1  0  0  0  0
+ 60 65  2  0  0  0  0
+ 61 62  1  0  0  0  0
+ 61 63  1  0  0  0  0
+ 61 64  1  0  0  0  0
+ 65 66  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 69  1  0  0  0  0
+ 67 70  1  0  0  0  0
+ 71 72  1  0  0  0  0
+ 71 77  1  0  0  0  0
+ 71 78  1  0  0  0  0
+ 72 73  1  0  0  0  0
+ 72 75  1  0  0  0  0
+ 72 76  1  0  0  0  0
+ 73 74  3  0  0  0  0
+ 79 80  1  0  0  0  0
+ 79 81  2  0  0  0  0
+ 81 82  1  0  0  0  0
+ 82 83  1  0  0  0  0
+ 82 84  1  0  0  0  0
+ 82 85  1  0  0  0  0
+ 86 87  2  0  0  0  0
+ 86 88  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 15]}', 'substructure_query_id': 15}, 1: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 14]}', 'substructure_query_id': 14}, 2: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 12]}', 'substructure_query_id': 12}, 3: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 13]}', 'substructure_query_id': 13}, 4: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 10]}', 'substructure_query_id': 10}, 5: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 11]}', 'substructure_query_id': 11}, 6: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 9]}', 'substructure_query_id': 9}, 7: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 8]}', 'substructure_query_id': 8}, 8: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 7]}', 'substructure_query_id': 7}, 9: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 5]}', 'substructure_query_id': 5}, 10: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 6]}', 'substructure_query_id': 6}, 11: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 3]}', 'substructure_query_id': 3}, 12: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 4]}', 'substructure_query_id': 4}, 13: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 2]}', 'substructure_query_id': 2}, 14: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 1]}', 'substructure_query_id': 1}, 15: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 38]}', 'substructure_query_id': 38}, 16: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 39]}', 'substructure_query_id': 39}, 17: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 40]}', 'substructure_query_id': 40}, 18: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 41]}', 'substructure_query_id': 41}, 19: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 42]}', 'substructure_query_id': 42}, 20: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 36]}', 'substructure_query_id': 36}, 21: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 37]}', 'substructure_query_id': 37}, 22: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 24]}', 'substructure_query_id': 24}, 23: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 25]}', 'substructure_query_id': 25}, 24: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 26]}', 'substructure_query_id': 26}, 25: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 27]}', 'substructure_query_id': 27}, 26: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 28]}', 'substructure_query_id': 28}, 27: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 29]}', 'substructure_query_id': 29}, 28: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 30]}', 'substructure_query_id': 30}, 29: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 31]}', 'substructure_query_id': 31}, 30: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 32]}', 'substructure_query_id': 32}, 31: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 33]}', 'substructure_query_id': 33}, 32: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 34]}', 'substructure_query_id': 34}, 33: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 35]}', 'substructure_query_id': 35}, 34: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 22]}', 'substructure_query_id': 22}, 35: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 23]}', 'substructure_query_id': 23}, 36: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 17]}', 'substructure_query_id': 17}, 37: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 18]}', 'substructure_query_id': 18}, 38: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 19]}', 'substructure_query_id': 19}, 39: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 20]}', 'substructure_query_id': 20}, 40: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 21]}', 'substructure_query_id': 21}, 41: {'residue_name': 'carbonyl dichloride_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["carbonyl dichloride_MID", 1]}', 'substructure_query_id': 1}, 42: {'residue_name': 'carbonyl dichloride_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["carbonyl dichloride_MID", 3]}', 'substructure_query_id': 3}, 43: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 1], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 1]}', 'substructure_query_id': 1}, 44: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 2], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 2]}', 'substructure_query_id': 2}, 45: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 3], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 3]}', 'substructure_query_id': 3}, 46: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 4], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 4]}', 'substructure_query_id': 4}, 47: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 5], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 5]}', 'substructure_query_id': 5}, 48: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 6], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 6]}', 'substructure_query_id': 6}, 49: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 7], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 7]}', 'substructure_query_id': 7}, 50: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 8], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 8]}', 'substructure_query_id': 8}, 51: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 9], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 9]}', 'substructure_query_id': 9}, 52: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 10], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 10]}', 'substructure_query_id': 10}, 53: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 11], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 11]}', 'substructure_query_id': 11}, 54: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 12], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 12]}', 'substructure_query_id': 12}, 55: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 13], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 13]}', 'substructure_query_id': 13}, 56: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 14], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 14]}', 'substructure_query_id': 14}, 57: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 15], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 15]}', 'substructure_query_id': 15}, 58: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 16]}', 'substructure_query_id': 16}, 59: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 17], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 17]}', 'substructure_query_id': 17}, 60: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 18], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 18]}', 'substructure_query_id': 18}, 61: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 19], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 19]}', 'substructure_query_id': 19}, 62: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 20], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 20]}', 'substructure_query_id': 20}, 63: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 21], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 21]}', 'substructure_query_id': 21}, 64: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 22], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 22]}', 'substructure_query_id': 22}, 65: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 23], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 23]}', 'substructure_query_id': 23}, 66: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 24], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 24]}', 'substructure_query_id': 24}, 67: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 25], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 25]}', 'substructure_query_id': 25}, 68: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 26], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 26]}', 'substructure_query_id': 26}, 69: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 27], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 27]}', 'substructure_query_id': 27}, 70: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 28], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 28]}', 'substructure_query_id': 28}, 71: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 29], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 29]}', 'substructure_query_id': 29}, 72: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 30], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 30]}', 'substructure_query_id': 30}, 73: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 31], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 31]}', 'substructure_query_id': 31}, 74: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 32], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 32]}', 'substructure_query_id': 32}, 75: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 33], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 33]}', 'substructure_query_id': 33}, 76: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 34], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 34]}', 'substructure_query_id': 34}, 77: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 35], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 35]}', 'substructure_query_id': 35}, 78: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 36], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 36]}', 'substructure_query_id': 36}, 79: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 37], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 37]}', 'substructure_query_id': 37}, 80: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 38], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 38]}', 'substructure_query_id': 38}, 81: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 39], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 39]}', 'substructure_query_id': 39}, 82: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 40], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 40]}', 'substructure_query_id': 40}, 83: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 41], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 41]}', 'substructure_query_id': 41}, 84: {'residue_name': '4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_TERM", 42], "2": ["4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile_MID", 42]}', 'substructure_query_id': 42}, 85: {'residue_name': 'carbonyl dichloride_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["carbonyl dichloride_TERM", 1], "5": ["carbonyl dichloride_MID", 1]}', 'substructure_query_id': 1}, 86: {'residue_name': 'carbonyl dichloride_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["carbonyl dichloride_TERM", 2], "5": ["carbonyl dichloride_MID", 3]}', 'substructure_query_id': 2}, 87: {'residue_name': 'carbonyl dichloride_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["carbonyl dichloride_TERM", 3]}', 'substructure_query_id': 3}}
+
+> <atom.dprop.PartialCharge>
+-0.000095 0.091829 -0.249884 0.230470 -0.150501 0.215351 -0.226237 0.023800 -0.226237 -0.151183 0.215351 -0.217773 0.230358 0.312356 -0.414906 -0.091252 -0.131959 0.099180 0.099180 0.099180 -0.265562 0.215536 -0.131708 0.088122 0.088122 0.088122 -0.093155 -0.122333 0.189991 -0.288863 0.121209 0.121209 0.113624 0.113624 -0.268151 0.215536 -0.079518 -0.135081 0.099180 0.099180 0.099180 0.630010 -0.483188 -0.000095 0.091829 -0.249884 0.230470 -0.150501 0.215351 -0.226237 0.023800 -0.226237 -0.110063 0.215351 -0.382486 0.235999 0.292234 -0.634876 0.440187 -0.263653 -0.117906 0.099180 0.099180 0.099180 -0.227743 0.215536 -0.131708 0.088122 0.088122 0.088122 -0.093155 -0.122333 0.189991 -0.288863 0.121209 0.121209 0.113624 0.113624 -0.268151 0.215536 -0.079518 -0.135081 0.099180 0.099180 0.099180 0.469208 -0.553882 -0.074341
+
+$$$$

@@ -1,0 +1,116 @@
+poly(butane-1,4-diol,butanedioic acid)
+  -OEChem-01192421003D
+
+ 51 50  0     0  0  0  0  0  0999 V2000
+   -2.5580    0.5720    0.9440 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3650    0.6260    0.2100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6710   -0.7410    0.2300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5520   -0.8100   -0.7000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7430    0.0180   -0.2050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5450    1.3740   -0.4900 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6610   -0.3320   -0.7290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8890   -0.1300    0.8890 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8740   -1.8730   -0.7560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2720   -0.4980   -1.7300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3990   -1.5120   -0.1040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3740   -0.9940    1.2720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5720    0.9430   -0.8380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7080    1.3860    0.6800 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3750    1.8720   -0.1130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3170    1.2300    0.3230 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4180    3.3730   -0.1250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4620    3.9540    1.2920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1910    3.6720    2.0400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2020    2.9580    3.0300 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5900    5.0560    1.2250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3370    3.5460    1.8450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5260    3.7630   -0.6630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3200    3.7020   -0.6830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2280    0.1230    0.3660 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6770    0.0690   -0.9220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8000    1.4360   -1.6050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0590    1.5060   -2.9520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7240    0.6770   -4.0580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4130   -0.6790   -3.9040 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8850   -1.1550   -4.6350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3400    1.0270   -5.0420 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8270    0.8260   -4.0410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0510    2.5680   -3.2780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    1.1930   -2.8260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3610    2.2070   -0.9340 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8730    1.6890   -1.7470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6110   -0.2480   -0.8720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2390   -0.6910   -1.5030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2540    4.0940    1.6930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3980    4.8080    2.4380 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2230    3.8140    0.2990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5220    3.0050    0.3180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9770    2.7150   -1.0770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5980    1.6640   -1.6600 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7840    3.6290   -1.7470 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0870    3.4560   -2.6980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3170    3.5770    0.8450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3640    2.0480    0.8620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5640    3.2410   -0.2390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3800    4.7780   -0.2320 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 40  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 38  1  0  0  0  0
+ 26 39  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 36  1  0  0  0  0
+ 27 37  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 34  1  0  0  0  0
+ 28 35  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 32  1  0  0  0  0
+ 29 33  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 40 41  2  0  0  0  0
+ 40 42  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 42 50  1  0  0  0  0
+ 42 51  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 48  1  0  0  0  0
+ 43 49  1  0  0  0  0
+ 44 45  2  0  0  0  0
+ 44 46  1  0  0  0  0
+ 46 47  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 6]}', 'substructure_query_id': 6}, 1: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 5]}', 'substructure_query_id': 5}, 2: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 4]}', 'substructure_query_id': 4}, 3: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 3]}', 'substructure_query_id': 3}, 4: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 2]}', 'substructure_query_id': 2}, 5: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 1]}', 'substructure_query_id': 1}, 6: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 14]}', 'substructure_query_id': 14}, 7: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 15]}', 'substructure_query_id': 15}, 8: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 12]}', 'substructure_query_id': 12}, 9: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 13]}', 'substructure_query_id': 13}, 10: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 10]}', 'substructure_query_id': 10}, 11: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 11]}', 'substructure_query_id': 11}, 12: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 8]}', 'substructure_query_id': 8}, 13: {'residue_name': 'butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["butane-1,4-diol_MID", 9]}', 'substructure_query_id': 9}, 14: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 1]}', 'substructure_query_id': 1}, 15: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 2]}', 'substructure_query_id': 2}, 16: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 3]}', 'substructure_query_id': 3}, 17: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 4]}', 'substructure_query_id': 4}, 18: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 5]}', 'substructure_query_id': 5}, 19: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 7]}', 'substructure_query_id': 7}, 20: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 8]}', 'substructure_query_id': 8}, 21: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 9]}', 'substructure_query_id': 9}, 22: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 10]}', 'substructure_query_id': 10}, 23: {'residue_name': 'butanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["butanedioic acid_MID", 11]}', 'substructure_query_id': 11}, 24: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 1], "2": ["butane-1,4-diol_MID", 1]}', 'substructure_query_id': 1}, 25: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 2], "2": ["butane-1,4-diol_MID", 2]}', 'substructure_query_id': 2}, 26: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 3], "2": ["butane-1,4-diol_MID", 3]}', 'substructure_query_id': 3}, 27: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 4], "2": ["butane-1,4-diol_MID", 4]}', 'substructure_query_id': 4}, 28: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 5], "2": ["butane-1,4-diol_MID", 5]}', 'substructure_query_id': 5}, 29: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 6], "2": ["butane-1,4-diol_MID", 6]}', 'substructure_query_id': 6}, 30: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 7]}', 'substructure_query_id': 7}, 31: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 8], "2": ["butane-1,4-diol_MID", 8]}', 'substructure_query_id': 8}, 32: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 9], "2": ["butane-1,4-diol_MID", 9]}', 'substructure_query_id': 9}, 33: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 10], "2": ["butane-1,4-diol_MID", 10]}', 'substructure_query_id': 10}, 34: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 11], "2": ["butane-1,4-diol_MID", 11]}', 'substructure_query_id': 11}, 35: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 12], "2": ["butane-1,4-diol_MID", 12]}', 'substructure_query_id': 12}, 36: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 13], "2": ["butane-1,4-diol_MID", 13]}', 'substructure_query_id': 13}, 37: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 14], "2": ["butane-1,4-diol_MID", 14]}', 'substructure_query_id': 14}, 38: {'residue_name': 'butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["butane-1,4-diol_TERM", 15], "2": ["butane-1,4-diol_MID", 15]}', 'substructure_query_id': 15}, 39: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 1], "5": ["butanedioic acid_MID", 1]}', 'substructure_query_id': 1}, 40: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 2], "5": ["butanedioic acid_MID", 2]}', 'substructure_query_id': 2}, 41: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 3], "5": ["butanedioic acid_MID", 3]}', 'substructure_query_id': 3}, 42: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 4], "5": ["butanedioic acid_MID", 4]}', 'substructure_query_id': 4}, 43: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 5], "5": ["butanedioic acid_MID", 5]}', 'substructure_query_id': 5}, 44: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 6], "5": ["butanedioic acid_MID", 7]}', 'substructure_query_id': 6}, 45: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 7]}', 'substructure_query_id': 7}, 46: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 8]}', 'substructure_query_id': 8}, 47: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 9], "5": ["butanedioic acid_MID", 8]}', 'substructure_query_id': 9}, 48: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 10], "5": ["butanedioic acid_MID", 9]}', 'substructure_query_id': 10}, 49: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 11], "5": ["butanedioic acid_MID", 10]}', 'substructure_query_id': 11}, 50: {'residue_name': 'butanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["butanedioic acid_TERM", 12], "5": ["butanedioic acid_MID", 11]}', 'substructure_query_id': 12}}
+
+> <atom.dprop.PartialCharge>
+-0.173730 0.033212 -0.145254 -0.137881 0.135480 -0.494725 0.082232 0.082232 0.090094 0.090094 0.091122 0.091122 0.081914 0.081914 0.767970 -0.549509 -0.159466 -0.252217 0.521958 -0.689183 0.132767 0.132767 0.120798 0.120798 -0.173730 0.033324 -0.139519 -0.166569 0.086689 -0.682766 0.380801 0.072624 0.072624 0.093585 0.093585 0.091293 0.091293 0.081914 0.081914 0.521958 -0.689183 -0.250298 -0.166275 0.828977 -0.555476 -0.665694 0.397012 0.120938 0.120938 0.132767 0.132767
+
+$$$$

@@ -1,0 +1,322 @@
+poly(4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline,1-(4-carboxy
+  -OEChem-01192421013D
+
+149158  0     1  0  0  0  0  0999 V2000
+   -4.6230   -1.2090    1.8330 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4860   -0.9060    1.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2180   -1.6330   -0.0730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8610   -2.4570   -0.3560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0440   -1.3180   -0.9130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9000   -1.9250   -1.7910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1990   -0.3120   -0.5830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0200    0.0940   -1.4460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2130    0.3760   -0.5010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0650    1.4160   -0.6670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9450    2.1370   -1.4580 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2140    1.6110    0.2410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8630    2.4650    0.0920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4510    0.7430    1.2330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5630    0.9300    2.1120 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2080    1.7440    2.0020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5570   -0.4190    1.4100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7500   -1.1340    2.2000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5120   -0.5960    0.5940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8780   -1.4610    0.7430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4250    1.3440   -2.2790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4990    1.6550   -3.2630 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6360    1.0990   -2.9080 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5900    2.4490   -1.4600 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4910   -1.0330   -2.4280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4040   -1.2060   -3.4710 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7190   -0.7070   -2.9830 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6350   -2.2390   -1.7630 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5320    0.5030    0.6250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9040    1.3380    0.9090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6000    0.2190    1.3790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8170    0.8200    2.2520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2620   -1.9990    1.5940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7520    0.2380    2.8980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5780   -0.9910    2.6820 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2090    0.7160    4.2150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3880    2.0280    4.4290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1970    2.7480    3.6420 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8450    2.5190    5.7460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9490    3.5870    5.8630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1200    1.6580    6.7500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5610    2.1210    8.1490 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.0910    3.5750    8.1940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2760    4.3020    7.9940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5040    3.8110    9.1980 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8990    3.7210    7.4450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6320    1.2220    8.6830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8200    0.9540    8.1200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0940    1.3900    7.1680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7570    0.0470    8.8230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7130   -0.1740    8.3640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4230   -0.4900   10.0160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3630   -1.3880   10.7080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0670   -1.8980   11.8220 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1010   -0.1640   10.6210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8190   -0.5730   11.5820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2640    0.6490    9.9580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9110    1.1140   10.3930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0350    2.0010   11.6460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4440    1.4200   12.5000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7110    2.8610   11.4520 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0390    2.3970   11.9390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9850   -0.0850   10.6770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3510   -0.6710   11.5470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9370   -0.7590    9.7950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9570    0.2700   10.9060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3920    1.9440    9.1740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9820    2.9270    9.4990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5330    1.4250    8.6930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8910    0.2040    6.5080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0580   -0.5130    7.3020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4700   -0.2380    5.3170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3130   -1.2990    5.1710 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8310   -0.6400    2.6840 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1990   -0.9420    3.9300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4660   -0.2160    5.0240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1670    0.6080    4.9770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8130   -0.5310    6.3110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0910    0.0770    7.1560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9110   -1.5370    6.4080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2290   -1.9430    7.7380 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7340   -2.2250    7.4500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0550   -3.2640    7.9910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5270   -3.9860    8.6370 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3840   -3.4600    7.7160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8900   -4.3140    8.1480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0520   -2.5920    6.9460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4450   -2.7790    6.6800 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9650   -2.0990    6.0820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9660   -3.5930    7.0770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3410   -1.4300    6.3760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8770   -0.7150    5.7650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0380   -1.2530    6.6170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4560   -0.3880    6.1920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0080   -3.1930    8.2710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6430   -3.5040    9.5700 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3720   -2.9480    8.2690 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7760   -4.2980    7.4680 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2640   -0.8160    8.8260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5400   -0.6430    9.3380 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4310   -1.1420    9.8850 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8300    0.3900    8.3020 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6480   -2.3520    5.1830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9600   -3.1870    5.2220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2470   -2.0670    4.0220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0350   -2.6690    3.1470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5090    0.1510    2.6000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3220   -1.6200   10.2650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3950   -1.7790    9.0170 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5140   -1.7460   11.1240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7240   -2.0300   10.6130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8600   -2.1750    9.5490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8990   -2.1480   11.4990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8590   -2.3600   11.0450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7860   -1.9930   12.8370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0350   -2.0950   13.7300 C   0  0  1  0  0  0  0  0  0  0  0  0
+   15.7070   -2.1480   15.2390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9990   -2.9770   15.4600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2610   -1.1900   15.5810 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6300   -2.3160   15.8360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8350   -3.3140   13.3860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4150   -4.5870   13.3890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3930   -4.8330   13.6450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3740   -5.6590   13.0330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0240   -6.6830   13.0320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6550   -5.3580   12.7200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6250   -6.4170   12.3660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2750   -7.6280   12.3480 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9380   -6.0810   12.0480 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6130   -6.7960   11.8030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0910   -3.9320   12.7360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1140   -3.6670   12.5020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2000   -2.9790   13.0490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4380   -1.5050   13.1390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9890   -0.9580   11.8080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9970   -1.3730   11.5950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3150   -1.2260   10.9660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0720    0.1490   11.8530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4170   -1.1970   14.2870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0320   -1.6010   15.2490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4110   -1.6510   14.0900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5510   -0.0990   14.3960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0220   -0.9150   13.4420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0570   -0.1970   14.2910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6630   -0.3110   12.5790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4390   -1.6590   13.3890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2900   -1.5010   14.4470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3760   -1.5490   12.5830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4090   -1.3090   13.0070 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 33  1  0  0  0  0
+  1 74  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 31  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 29  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 31  2  0  0  0  0
+ 31 32  1  0  0  0  0
+ 34 35  2  0  0  0  0
+ 34 36  1  0  0  0  0
+ 36 37  2  0  0  0  0
+ 36 72  1  0  0  0  0
+ 37 38  1  0  0  0  0
+ 37 39  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 39 41  2  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 70  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 42 47  1  0  0  0  0
+ 42 67  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 45  1  0  0  0  0
+ 43 46  1  0  0  0  0
+ 47 48  2  0  0  0  0
+ 47 57  1  0  0  0  0
+ 48 49  1  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  1  0  0  0  0
+ 50 52  2  0  0  0  0
+ 52 53  1  0  0  0  0
+ 52 55  1  0  0  0  0
+ 53 54  2  0  0  0  0
+ 53108  1  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 57  2  0  0  0  0
+ 57 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+ 58 63  1  0  0  0  0
+ 58 67  1  0  0  0  0
+ 59 60  1  0  0  0  0
+ 59 61  1  0  0  0  0
+ 59 62  1  0  0  0  0
+ 63 64  1  0  0  0  0
+ 63 65  1  0  0  0  0
+ 63 66  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 69  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 70 72  2  0  0  0  0
+ 72 73  1  0  0  0  0
+ 74 75  1  0  0  0  0
+ 74107  1  0  0  0  0
+ 75 76  2  0  0  0  0
+ 75105  1  0  0  0  0
+ 76 77  1  0  0  0  0
+ 76 78  1  0  0  0  0
+ 78 79  1  0  0  0  0
+ 78 80  2  0  0  0  0
+ 80 81  1  0  0  0  0
+ 80103  1  0  0  0  0
+ 81 82  1  0  0  0  0
+ 81 95  1  0  0  0  0
+ 81 99  1  0  0  0  0
+ 82 83  2  0  0  0  0
+ 82 93  1  0  0  0  0
+ 83 84  1  0  0  0  0
+ 83 85  1  0  0  0  0
+ 85 86  1  0  0  0  0
+ 85 87  2  0  0  0  0
+ 87 88  1  0  0  0  0
+ 87 91  1  0  0  0  0
+ 88 89  1  0  0  0  0
+ 88 90  1  0  0  0  0
+ 91 92  1  0  0  0  0
+ 91 93  2  0  0  0  0
+ 93 94  1  0  0  0  0
+ 95 96  1  0  0  0  0
+ 95 97  1  0  0  0  0
+ 95 98  1  0  0  0  0
+ 99100  1  0  0  0  0
+ 99101  1  0  0  0  0
+ 99102  1  0  0  0  0
+103104  1  0  0  0  0
+103105  2  0  0  0  0
+105106  1  0  0  0  0
+108109  2  0  0  0  0
+108110  1  0  0  0  0
+110111  2  0  0  0  0
+110148  1  0  0  0  0
+111112  1  0  0  0  0
+111113  1  0  0  0  0
+113114  1  0  0  0  0
+113115  2  0  0  0  0
+115116  1  0  0  0  0
+115146  1  0  0  0  0
+116117  1  0  0  0  0
+116121  1  0  0  0  0
+116143  1  0  0  0  0
+117118  1  0  0  0  0
+117119  1  0  0  0  0
+117120  1  0  0  0  0
+121122  2  0  0  0  0
+121133  1  0  0  0  0
+122123  1  0  0  0  0
+122124  1  0  0  0  0
+124125  1  0  0  0  0
+124126  2  0  0  0  0
+126127  1  0  0  0  0
+126131  1  0  0  0  0
+127128  2  0  0  0  0
+127129  1  0  0  0  0
+129130  1  0  0  0  0
+131132  1  0  0  0  0
+131133  2  0  0  0  0
+133134  1  0  0  0  0
+134135  1  0  0  0  0
+134139  1  0  0  0  0
+134143  1  0  0  0  0
+135136  1  0  0  0  0
+135137  1  0  0  0  0
+135138  1  0  0  0  0
+139140  1  0  0  0  0
+139141  1  0  0  0  0
+139142  1  0  0  0  0
+143144  1  0  0  0  0
+143145  1  0  0  0  0
+146147  1  0  0  0  0
+146148  2  0  0  0  0
+148149  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 15]}', 'substructure_query_id': 15}, 1: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 14]}', 'substructure_query_id': 14}, 2: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 12]}', 'substructure_query_id': 12}, 3: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 13]}', 'substructure_query_id': 13}, 4: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 10]}', 'substructure_query_id': 10}, 5: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 11]}', 'substructure_query_id': 11}, 6: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 9]}', 'substructure_query_id': 9}, 7: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 8]}', 'substructure_query_id': 8}, 8: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 7]}', 'substructure_query_id': 7}, 9: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 5]}', 'substructure_query_id': 5}, 10: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 6]}', 'substructure_query_id': 6}, 11: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 3]}', 'substructure_query_id': 3}, 12: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 4]}', 'substructure_query_id': 4}, 13: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 2]}', 'substructure_query_id': 2}, 14: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 1]}', 'substructure_query_id': 1}, 15: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 34]}', 'substructure_query_id': 34}, 16: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 32]}', 'substructure_query_id': 32}, 17: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 33]}', 'substructure_query_id': 33}, 18: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 30]}', 'substructure_query_id': 30}, 19: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 31]}', 'substructure_query_id': 31}, 20: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 22]}', 'substructure_query_id': 22}, 21: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 23]}', 'substructure_query_id': 23}, 22: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 24]}', 'substructure_query_id': 24}, 23: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 25]}', 'substructure_query_id': 25}, 24: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 26]}', 'substructure_query_id': 26}, 25: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 27]}', 'substructure_query_id': 27}, 26: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 28]}', 'substructure_query_id': 28}, 27: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 29]}', 'substructure_query_id': 29}, 28: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 20]}', 'substructure_query_id': 20}, 29: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 21]}', 'substructure_query_id': 21}, 30: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 18]}', 'substructure_query_id': 18}, 31: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 19]}', 'substructure_query_id': 19}, 32: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 17]}', 'substructure_query_id': 17}, 33: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 1]}', 'substructure_query_id': 1}, 34: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 2]}', 'substructure_query_id': 2}, 35: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 3]}', 'substructure_query_id': 3}, 36: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 4]}', 'substructure_query_id': 4}, 37: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 5]}', 'substructure_query_id': 5}, 38: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 6]}', 'substructure_query_id': 6}, 39: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 7]}', 'substructure_query_id': 7}, 40: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 8]}', 'substructure_query_id': 8}, 41: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 9]}', 'substructure_query_id': 9}, 42: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 10]}', 'substructure_query_id': 10}, 43: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 11]}', 'substructure_query_id': 11}, 44: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 12]}', 'substructure_query_id': 12}, 45: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 13]}', 'substructure_query_id': 13}, 46: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 14]}', 'substructure_query_id': 14}, 47: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 15]}', 'substructure_query_id': 15}, 48: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 16]}', 'substructure_query_id': 16}, 49: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 17]}', 'substructure_query_id': 17}, 50: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 18]}', 'substructure_query_id': 18}, 51: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 19]}', 'substructure_query_id': 19}, 52: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 20]}', 'substructure_query_id': 20}, 53: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 22]}', 'substructure_query_id': 22}, 54: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 23]}', 'substructure_query_id': 23}, 55: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 24]}', 'substructure_query_id': 24}, 56: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 25]}', 'substructure_query_id': 25}, 57: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 26]}', 'substructure_query_id': 26}, 58: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 27]}', 'substructure_query_id': 27}, 59: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 28]}', 'substructure_query_id': 28}, 60: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 29]}', 'substructure_query_id': 29}, 61: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 30]}', 'substructure_query_id': 30}, 62: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 31]}', 'substructure_query_id': 31}, 63: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 32]}', 'substructure_query_id': 32}, 64: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 33]}', 'substructure_query_id': 33}, 65: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 34]}', 'substructure_query_id': 34}, 66: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 35]}', 'substructure_query_id': 35}, 67: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 36]}', 'substructure_query_id': 36}, 68: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 37]}', 'substructure_query_id': 37}, 69: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 38]}', 'substructure_query_id': 38}, 70: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 39]}', 'substructure_query_id': 39}, 71: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 40]}', 'substructure_query_id': 40}, 72: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 41]}', 'substructure_query_id': 41}, 73: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 1], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 1]}', 'substructure_query_id': 1}, 74: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 2], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 2]}', 'substructure_query_id': 2}, 75: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 3], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 3]}', 'substructure_query_id': 3}, 76: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 4], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 4]}', 'substructure_query_id': 4}, 77: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 5], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 5]}', 'substructure_query_id': 5}, 78: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 6], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 6]}', 'substructure_query_id': 6}, 79: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 7], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 7]}', 'substructure_query_id': 7}, 80: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 8], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 8]}', 'substructure_query_id': 8}, 81: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 9], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 9]}', 'substructure_query_id': 9}, 82: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 10], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 10]}', 'substructure_query_id': 10}, 83: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 11], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 11]}', 'substructure_query_id': 11}, 84: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 12], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 12]}', 'substructure_query_id': 12}, 85: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 13], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 13]}', 'substructure_query_id': 13}, 86: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 14], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 14]}', 'substructure_query_id': 14}, 87: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 15], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 15]}', 'substructure_query_id': 15}, 88: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 16]}', 'substructure_query_id': 16}, 89: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 17], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 17]}', 'substructure_query_id': 17}, 90: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 18], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 18]}', 'substructure_query_id': 18}, 91: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 19], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 19]}', 'substructure_query_id': 19}, 92: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 20], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 20]}', 'substructure_query_id': 20}, 93: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 21], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 21]}', 'substructure_query_id': 21}, 94: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 22], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 22]}', 'substructure_query_id': 22}, 95: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 23], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 23]}', 'substructure_query_id': 23}, 96: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 24], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 24]}', 'substructure_query_id': 24}, 97: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 25], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 25]}', 'substructure_query_id': 25}, 98: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 26], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 26]}', 'substructure_query_id': 26}, 99: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 27], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 27]}', 'substructure_query_id': 27}, 100: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 28], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 28]}', 'substructure_query_id': 28}, 101: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 29], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 29]}', 'substructure_query_id': 29}, 102: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 30], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 30]}', 'substructure_query_id': 30}, 103: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 31], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 31]}', 'substructure_query_id': 31}, 104: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 32], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 32]}', 'substructure_query_id': 32}, 105: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 33], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 33]}', 'substructure_query_id': 33}, 106: {'residue_name': '4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_TERM", 34], "2": ["4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline_MID", 34]}', 'substructure_query_id': 34}, 107: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 1], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 1]}', 'substructure_query_id': 1}, 108: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 2], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 2]}', 'substructure_query_id': 2}, 109: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 3], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 3]}', 'substructure_query_id': 3}, 110: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 4], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 4]}', 'substructure_query_id': 4}, 111: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 5], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 5]}', 'substructure_query_id': 5}, 112: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 6], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 6]}', 'substructure_query_id': 6}, 113: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 7], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 7]}', 'substructure_query_id': 7}, 114: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 8], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 8]}', 'substructure_query_id': 8}, 115: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 9], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 9]}', 'substructure_query_id': 9}, 116: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 10], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 10]}', 'substructure_query_id': 10}, 117: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 11], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 11]}', 'substructure_query_id': 11}, 118: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 12], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 12]}', 'substructure_query_id': 12}, 119: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 13], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 13]}', 'substructure_query_id': 13}, 120: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 14], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 14]}', 'substructure_query_id': 14}, 121: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 15], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 15]}', 'substructure_query_id': 15}, 122: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 16], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 16]}', 'substructure_query_id': 16}, 123: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 17], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 17]}', 'substructure_query_id': 17}, 124: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 18], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 18]}', 'substructure_query_id': 18}, 125: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 19], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 19]}', 'substructure_query_id': 19}, 126: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 20], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 20]}', 'substructure_query_id': 20}, 127: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 21], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 22]}', 'substructure_query_id': 21}, 128: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 22]}', 'substructure_query_id': 22}, 129: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 23]}', 'substructure_query_id': 23}, 130: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 24], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 23]}', 'substructure_query_id': 24}, 131: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 25], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 24]}', 'substructure_query_id': 25}, 132: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 26], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 25]}', 'substructure_query_id': 26}, 133: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 27], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 26]}', 'substructure_query_id': 27}, 134: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 28], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 27]}', 'substructure_query_id': 28}, 135: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 29], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 28]}', 'substructure_query_id': 29}, 136: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 30], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 29]}', 'substructure_query_id': 30}, 137: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 31], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 30]}', 'substructure_query_id': 31}, 138: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 32], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 31]}', 'substructure_query_id': 32}, 139: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 33], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 32]}', 'substructure_query_id': 33}, 140: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 34], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 33]}', 'substructure_query_id': 34}, 141: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 35], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 34]}', 'substructure_query_id': 35}, 142: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 36], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 35]}', 'substructure_query_id': 36}, 143: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 37], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 36]}', 'substructure_query_id': 37}, 144: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 38], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 37]}', 'substructure_query_id': 38}, 145: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 39], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 38]}', 'substructure_query_id': 39}, 146: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 40], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 39]}', 'substructure_query_id': 40}, 147: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 41], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 40]}', 'substructure_query_id': 41}, 148: {'residue_name': '1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_TERM", 42], "5": ["1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid_MID", 41]}', 'substructure_query_id': 42}}
+
+> <atom.dprop.PartialCharge>
+-0.411669 0.140864 -0.407314 0.224460 -0.133190 0.214323 -0.095363 -0.262800 -0.095363 -0.145917 0.214323 -0.377691 0.220873 0.209435 -0.531897 0.319775 -0.377691 0.220873 -0.145917 0.214323 0.753136 -0.200719 -0.200719 -0.200719 0.753136 -0.200719 -0.200719 -0.200719 -0.133190 0.214323 -0.407314 0.224460 0.373149 0.768422 -0.657269 -0.370687 -0.079042 0.224501 -0.249295 0.214581 -0.209986 0.024866 -0.131551 0.087660 0.087660 0.087660 -0.125230 -0.152558 0.213956 -0.000578 0.214711 -0.345793 0.585982 -0.514626 0.070546 0.208516 -0.181224 -0.027269 -0.131142 0.091894 0.091894 0.091894 -0.131142 0.091894 0.091894 0.091894 -0.181203 0.130119 0.130119 -0.249295 0.214581 -0.079042 0.224501 -0.411669 0.140864 -0.407314 0.224460 -0.133190 0.214323 -0.095363 -0.262800 -0.095363 -0.090586 0.214323 -0.453748 0.229896 0.333643 -0.844423 0.366896 0.366896 -0.453748 0.229896 -0.090586 0.214323 0.753136 -0.200719 -0.200719 -0.200719 0.753136 -0.200719 -0.200719 -0.200719 -0.133190 0.214323 -0.407314 0.224460 0.373149 0.591486 -0.525061 -0.334308 0.004694 0.222327 -0.242684 0.214581 -0.209986 0.024866 -0.131551 0.087660 0.087660 0.087660 -0.125230 -0.171865 0.213956 -0.061457 0.231114 -0.227555 0.835435 -0.479699 -0.664351 0.418124 0.005252 0.223825 -0.175405 -0.027269 -0.131142 0.091894 0.091894 0.091894 -0.131142 0.091894 0.091894 0.091894 -0.181203 0.130119 0.130119 -0.242684 0.214581 0.004694 0.222327
+
+$$$$
