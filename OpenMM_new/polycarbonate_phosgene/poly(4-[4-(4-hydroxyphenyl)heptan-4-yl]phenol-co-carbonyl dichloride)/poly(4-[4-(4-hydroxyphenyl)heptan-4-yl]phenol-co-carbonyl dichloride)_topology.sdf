@@ -1,0 +1,202 @@
+poly(4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol-co-carbonyl dichloride)
+  -OEChem-01232419233D
+
+ 92 95  0     0  0  0  0  0  0999 V2000
+    2.3180   -3.7940   -3.8670 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7360   -2.9800   -2.8980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4250   -3.4630   -1.6880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6160   -4.5000   -1.4460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8080   -2.5860   -0.6710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5260   -3.0430    0.2670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5960   -1.2710   -0.9150 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1090   -0.3510    0.1120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3930    1.0960   -0.1190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6990    1.3840    0.0940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3820    0.6230    0.4500 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2350    2.7380   -0.1480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2770    2.9440    0.0620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4410    3.7000   -0.6250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9540    4.9750   -0.8480 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0260    3.4000   -0.9200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6110    4.1690   -1.3380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4680    2.1770   -0.6940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4980    1.9990   -0.9640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2330   -0.8080    1.5860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1310    0.2730    2.6890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1140   -0.3580    4.0790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7860   -0.9980    4.2000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0260   -0.9720    4.2350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0860    0.4400    4.8500 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0080    0.9510    2.6370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7740    0.8970    2.5770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4220   -1.6650    1.8620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2770   -1.1910    1.6240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6410   -0.5440   -0.1710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6160    0.1140    0.8240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0550    0.0210    0.3220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1640    0.5700   -0.6380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7400    0.4760    1.0690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3450   -1.0410    0.1740 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3740    1.1830    0.9820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5630   -0.4100    1.8020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8700   -0.2030   -1.2050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8690   -1.6340   -0.1640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9030   -0.7680   -2.2920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6770    0.2530   -2.5700 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4490   -1.5690   -3.2130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6680   -1.1850   -4.2020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3510    5.7450   -1.2250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8520    6.8070   -1.5560 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5280   -4.7700   -3.6880 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6630   -5.5850   -2.9600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5170   -5.1020   -2.4620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2490   -4.0640   -2.6130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3900   -5.9780   -1.6930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2710   -5.5210   -1.2660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1150   -7.2940   -1.5220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0190   -8.2140   -0.6630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8690   -9.6600   -1.1960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2850   -9.9480   -2.4520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7450   -9.1880   -3.0700 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1310  -11.3020   -3.0190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5020  -11.5080   -4.0150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5340  -12.2640   -2.3110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3950  -13.5390   -2.8530 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0560  -14.2830   -2.3340 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0200  -11.9640   -0.9600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4930  -12.7330   -0.3960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1650  -10.7410   -0.4360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2630  -10.5630    0.5380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5280   -7.7560   -0.7690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6010   -8.8370   -0.4940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9710   -8.2060   -0.2580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9490   -7.5660    0.6490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2690   -7.5920   -1.1350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7280   -9.0050   -0.1100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6870   -9.5150   -1.3690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3480   -9.4610    0.3810 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6970   -6.9000   -0.0790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7300   -7.3730   -1.7940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4980   -8.0210    0.8040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3260   -8.6780    1.9250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6040   -8.5860    3.2660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3620   -9.1340    3.2220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2330   -9.0400    4.0600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4110   -7.5240    3.5290 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5200   -9.7470    1.7100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3010   -8.1550    2.0260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5590   -8.3610    0.8680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4680   -6.9310    1.0310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1960   -7.7970   -2.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5060   -8.8170   -1.8630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0200   -6.9950   -2.7270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9610   -7.3790   -3.0980 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2800    5.5980   -1.3190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2100    4.5090   -1.0720 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7460    6.9270   -1.8280 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 46  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 42  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 40  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 30  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 44  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 28  1  0  0  0  0
+ 20 29  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 26  1  0  0  0  0
+ 21 27  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 25  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 38  1  0  0  0  0
+ 30 39  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 31 36  1  0  0  0  0
+ 31 37  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 34  1  0  0  0  0
+ 32 35  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 42  2  0  0  0  0
+ 42 43  1  0  0  0  0
+ 44 45  2  0  0  0  0
+ 44 90  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 47 48  2  0  0  0  0
+ 47 88  1  0  0  0  0
+ 48 49  1  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  1  0  0  0  0
+ 50 52  2  0  0  0  0
+ 52 53  1  0  0  0  0
+ 52 86  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 66  1  0  0  0  0
+ 53 76  1  0  0  0  0
+ 54 55  2  0  0  0  0
+ 54 64  1  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 57  1  0  0  0  0
+ 57 58  1  0  0  0  0
+ 57 59  2  0  0  0  0
+ 59 60  1  0  0  0  0
+ 59 62  1  0  0  0  0
+ 60 61  1  0  0  0  0
+ 62 63  1  0  0  0  0
+ 62 64  2  0  0  0  0
+ 64 65  1  0  0  0  0
+ 66 67  1  0  0  0  0
+ 66 74  1  0  0  0  0
+ 66 75  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 72  1  0  0  0  0
+ 67 73  1  0  0  0  0
+ 68 69  1  0  0  0  0
+ 68 70  1  0  0  0  0
+ 68 71  1  0  0  0  0
+ 76 77  1  0  0  0  0
+ 76 84  1  0  0  0  0
+ 76 85  1  0  0  0  0
+ 77 78  1  0  0  0  0
+ 77 82  1  0  0  0  0
+ 77 83  1  0  0  0  0
+ 78 79  1  0  0  0  0
+ 78 80  1  0  0  0  0
+ 78 81  1  0  0  0  0
+ 86 87  1  0  0  0  0
+ 86 88  2  0  0  0  0
+ 88 89  1  0  0  0  0
+ 90 91  2  0  0  0  0
+ 90 92  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 15]}', 'substructure_query_id': 15}, 1: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 14]}', 'substructure_query_id': 14}, 2: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 12]}', 'substructure_query_id': 12}, 3: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 13]}', 'substructure_query_id': 13}, 4: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 10]}', 'substructure_query_id': 10}, 5: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 11]}', 'substructure_query_id': 11}, 6: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 9]}', 'substructure_query_id': 9}, 7: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 8]}', 'substructure_query_id': 8}, 8: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 7]}', 'substructure_query_id': 7}, 9: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 5]}', 'substructure_query_id': 5}, 10: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 6]}', 'substructure_query_id': 6}, 11: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 3]}', 'substructure_query_id': 3}, 12: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 4]}', 'substructure_query_id': 4}, 13: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 2]}', 'substructure_query_id': 2}, 14: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 1]}', 'substructure_query_id': 1}, 15: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 43]}', 'substructure_query_id': 43}, 16: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 44]}', 'substructure_query_id': 44}, 17: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 41]}', 'substructure_query_id': 41}, 18: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 42]}', 'substructure_query_id': 42}, 19: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 21]}', 'substructure_query_id': 21}, 20: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 22]}', 'substructure_query_id': 22}, 21: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 23]}', 'substructure_query_id': 23}, 22: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 24]}', 'substructure_query_id': 24}, 23: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 25]}', 'substructure_query_id': 25}, 24: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 26]}', 'substructure_query_id': 26}, 25: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 27]}', 'substructure_query_id': 27}, 26: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 28]}', 'substructure_query_id': 28}, 27: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 29]}', 'substructure_query_id': 29}, 28: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 30]}', 'substructure_query_id': 30}, 29: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 31]}', 'substructure_query_id': 31}, 30: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 32]}', 'substructure_query_id': 32}, 31: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 33]}', 'substructure_query_id': 33}, 32: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 34]}', 'substructure_query_id': 34}, 33: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 35]}', 'substructure_query_id': 35}, 34: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 36]}', 'substructure_query_id': 36}, 35: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 37]}', 'substructure_query_id': 37}, 36: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 38]}', 'substructure_query_id': 38}, 37: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 39]}', 'substructure_query_id': 39}, 38: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 40]}', 'substructure_query_id': 40}, 39: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 19]}', 'substructure_query_id': 19}, 40: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 20]}', 'substructure_query_id': 20}, 41: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 17]}', 'substructure_query_id': 17}, 42: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 18]}', 'substructure_query_id': 18}, 43: {'residue_name': 'carbonyl dichloride_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["carbonyl dichloride_MID", 1]}', 'substructure_query_id': 1}, 44: {'residue_name': 'carbonyl dichloride_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["carbonyl dichloride_MID", 3]}', 'substructure_query_id': 3}, 45: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 1], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 1]}', 'substructure_query_id': 1}, 46: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 2], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 2]}', 'substructure_query_id': 2}, 47: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 3], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 3]}', 'substructure_query_id': 3}, 48: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 4], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 4]}', 'substructure_query_id': 4}, 49: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 5], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 5]}', 'substructure_query_id': 5}, 50: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 6], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 6]}', 'substructure_query_id': 6}, 51: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 7], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 7]}', 'substructure_query_id': 7}, 52: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 8], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 8]}', 'substructure_query_id': 8}, 53: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 9], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 9]}', 'substructure_query_id': 9}, 54: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 10], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 10]}', 'substructure_query_id': 10}, 55: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 11], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 11]}', 'substructure_query_id': 11}, 56: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 12], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 12]}', 'substructure_query_id': 12}, 57: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 13], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 13]}', 'substructure_query_id': 13}, 58: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 14], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 14]}', 'substructure_query_id': 14}, 59: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 15], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 15]}', 'substructure_query_id': 15}, 60: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 16]}', 'substructure_query_id': 16}, 61: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 17], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 17]}', 'substructure_query_id': 17}, 62: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 18], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 18]}', 'substructure_query_id': 18}, 63: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 19], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 19]}', 'substructure_query_id': 19}, 64: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 20], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 20]}', 'substructure_query_id': 20}, 65: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 21], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 21]}', 'substructure_query_id': 21}, 66: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 22], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 22]}', 'substructure_query_id': 22}, 67: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 23], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 23]}', 'substructure_query_id': 23}, 68: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 24], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 24]}', 'substructure_query_id': 24}, 69: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 25], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 25]}', 'substructure_query_id': 25}, 70: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 26], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 26]}', 'substructure_query_id': 26}, 71: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 27], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 27]}', 'substructure_query_id': 27}, 72: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 28], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 28]}', 'substructure_query_id': 28}, 73: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 29], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 29]}', 'substructure_query_id': 29}, 74: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 30], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 30]}', 'substructure_query_id': 30}, 75: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 31], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 31]}', 'substructure_query_id': 31}, 76: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 32], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 32]}', 'substructure_query_id': 32}, 77: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 33], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 33]}', 'substructure_query_id': 33}, 78: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 34], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 34]}', 'substructure_query_id': 34}, 79: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 35], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 35]}', 'substructure_query_id': 35}, 80: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 36], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 36]}', 'substructure_query_id': 36}, 81: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 37], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 37]}', 'substructure_query_id': 37}, 82: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 38], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 38]}', 'substructure_query_id': 38}, 83: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 39], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 39]}', 'substructure_query_id': 39}, 84: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 40], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 40]}', 'substructure_query_id': 40}, 85: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 41], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 41]}', 'substructure_query_id': 41}, 86: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 42], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 42]}', 'substructure_query_id': 42}, 87: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 43], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 43]}', 'substructure_query_id': 43}, 88: {'residue_name': '4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_TERM", 44], "2": ["4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol_MID", 44]}', 'substructure_query_id': 44}, 89: {'residue_name': 'carbonyl dichloride_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["carbonyl dichloride_TERM", 1], "5": ["carbonyl dichloride_MID", 1]}', 'substructure_query_id': 1}, 90: {'residue_name': 'carbonyl dichloride_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["carbonyl dichloride_TERM", 2], "5": ["carbonyl dichloride_MID", 3]}', 'substructure_query_id': 2}, 91: {'residue_name': 'carbonyl dichloride_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["carbonyl dichloride_TERM", 3]}', 'substructure_query_id': 3}}
+
+> <atom.dprop.PartialCharge>
+-0.029349 0.271696 -0.324862 0.222394 -0.155680 0.207166 -0.257399 0.026458 -0.257399 -0.158951 0.207166 -0.276865 0.222595 0.433972 -0.443151 -0.276865 0.222595 -0.158951 0.207166 -0.130539 -0.130320 -0.122608 0.066003 0.066003 0.066003 0.087997 0.087997 0.103596 0.103596 -0.130539 -0.130320 -0.122608 0.066003 0.066003 0.066003 0.087997 0.087997 0.103596 0.103596 -0.155680 0.207166 -0.324862 0.222394 0.626790 -0.506342 -0.029349 0.271696 -0.324862 0.222394 -0.155680 0.207166 -0.257399 0.026458 -0.257399 -0.114434 0.207166 -0.415720 0.227457 0.424776 -0.651560 0.432344 -0.415720 0.227457 -0.114434 0.207166 -0.130539 -0.130320 -0.122608 0.066003 0.066003 0.066003 0.087997 0.087997 0.103596 0.103596 -0.130539 -0.130320 -0.122608 0.066003 0.066003 0.066003 0.087997 0.087997 0.103596 0.103596 -0.155680 0.207166 -0.324862 0.222394 0.466289 -0.585503 -0.089441
+
+$$$$

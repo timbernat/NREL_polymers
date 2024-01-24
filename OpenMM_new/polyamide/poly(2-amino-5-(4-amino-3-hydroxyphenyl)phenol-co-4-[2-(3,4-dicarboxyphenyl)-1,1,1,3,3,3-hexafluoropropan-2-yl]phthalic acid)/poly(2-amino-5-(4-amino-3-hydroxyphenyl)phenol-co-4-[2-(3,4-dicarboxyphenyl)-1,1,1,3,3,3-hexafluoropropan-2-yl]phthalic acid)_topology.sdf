@@ -1,0 +1,288 @@
+poly(2-amino-5-(4-amino-3-hydroxyphenyl)phenol-co-4-[2-(3,4-dicarboxyphenyl)-1,1
+  -OEChem-01232419183D
+
+133140  0     0  0  0  0  0  0999 V2000
+    5.0230   -0.1080   -0.1920 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5940   -0.0690   -0.0840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0230    0.8420    0.7230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6340    1.5370    1.2850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5560    0.9230    0.8520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1370    1.6890    1.4920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7620    0.0830    0.1650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7180    0.1620    0.2710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3220    0.3760    1.4530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7450    0.4840    2.3630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7930    0.4350    1.5430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2490    0.6020    2.5110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5570    0.2750    0.4490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9840    0.3270    0.5800 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4260    0.5030    1.5100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8940    0.0440   -0.8720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6200   -0.1140   -2.0540 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6270   -0.0710   -2.1010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5560   -0.0110   -0.9420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0830   -0.1630   -1.9040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3870   -0.9280   -0.7240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7600   -1.6240   -1.2680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7200   -1.0130   -0.8470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2390   -1.9970   -1.6900 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2280   -2.1460   -1.8310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5210   -0.7700   -0.8230 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6390    0.1770   -0.2390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0250    1.1920   -0.8780 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0720   -1.1860   -0.6340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6620   -1.3700   -1.8280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8480   -0.5370   -2.4940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0360   -2.7160   -2.2910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4860   -2.8020   -3.2720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8240   -3.8080   -1.5280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1860   -5.2110   -2.0810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6160   -5.1610   -2.6760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9690   -5.8140   -3.8030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2620   -6.3860   -4.3810 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.3460   -5.7440   -4.3220 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.5530   -6.2080   -5.2800 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.3010   -5.0610   -3.6680 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.6200   -4.8880   -4.3180 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.2950   -3.8410   -4.1250 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.1030   -5.8600   -5.1900 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.9960   -5.7450   -5.6550 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.9660   -4.4340   -2.3490 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0030   -3.8550   -1.4640 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.1750   -4.3180   -1.4640 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6760   -2.8240   -0.5860 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.3710   -2.4320    0.0370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.6940   -4.4700   -1.9100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4490   -4.0350   -0.9490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0840   -5.5730   -3.1370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8210   -5.3340   -2.6160 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2230   -4.8020   -4.2790 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1390   -6.9090   -3.4970 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2080   -6.3170   -0.9730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7530   -7.4900   -1.4720 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9800   -5.9210    0.1060 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9300   -6.6100   -0.5240 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1630   -3.6050   -0.2030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9770   -4.4530    0.4360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8220   -2.3770    0.2410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2460   -2.2270    1.6000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8310   -3.2260    2.2470 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6160    0.5510    0.3610 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6070    0.5130    1.7950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8430   -0.3980    2.4200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2390   -1.0930    1.8490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8150   -0.4800    3.8920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2060   -1.2460    4.3550 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5560    0.3600    4.6370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5530    0.2810    6.1200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4150    0.0670    6.8050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4670   -0.0400    6.2930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4280    0.0080    8.2790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4940   -0.1590    8.8010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5720    0.1690    8.9650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5400    0.1170   10.3980 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3880    0.2640   10.9840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6430   -0.0600   10.9030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8440    0.4000    8.2130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0740    0.5570    8.8540 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1900    0.5140    9.8560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8210    0.4550    6.8730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7480    0.6070    6.3340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3990    1.3710    3.9520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9850    2.0680    4.5390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4300    1.4560    2.6140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2340    2.4400    2.0370 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3070    2.5890    1.0410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2110    1.2130   -0.1790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1830   -1.2580    2.0740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8570   -0.3110    1.5880 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3440   -1.0630    3.2800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5290    0.0260    4.0470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2450    0.7890    3.7690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8120    0.1860    5.3250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0030    1.0920    5.8770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9830   -0.7750    5.7830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1910   -0.6500    7.1100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1880   -2.0280    7.8210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3450   -2.7110    7.9600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2700   -2.3260    7.5500 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3850   -4.0250    8.6210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3220   -4.5690    8.6160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2740   -4.5690    9.1420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3330   -5.9610    9.6440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3230   -6.7110    9.5710 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5240   -6.4700   10.1570 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5820   -7.4260   10.4870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0010   -3.7800    9.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1990   -4.2160    9.8700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3520   -3.9270    9.4500 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0620   -4.9070   11.0710 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8760   -5.1970   11.5990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9710   -2.5960    8.4730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0530   -2.0290    8.4860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7540   -0.1630    6.7220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8270    0.9270    5.8700 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0540   -1.1640    6.0680 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0310    0.2290    7.8370 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8200    0.3740    8.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1790    0.1530    8.2630 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2330    0.2430    9.3670 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6270    1.6820    7.7020 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7310   -1.9510    4.9000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9980   -2.6850    5.2110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3490   -2.0930    3.7120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9720   -3.2310    2.8410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6290   -4.3330    3.3510 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9450   -3.0830    1.4580 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6750   -3.8520    0.8570 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 26  1  0  0  0  0
+  1 66  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 23  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 27 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 29 63  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 34  2  0  0  0  0
+ 34 35  1  0  0  0  0
+ 34 61  1  0  0  0  0
+ 35 36  1  0  0  0  0
+ 35 53  1  0  0  0  0
+ 35 57  1  0  0  0  0
+ 36 37  2  0  0  0  0
+ 36 51  1  0  0  0  0
+ 37 38  1  0  0  0  0
+ 37 39  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 39 41  2  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 46  1  0  0  0  0
+ 42 43  2  0  0  0  0
+ 42 44  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 51  2  0  0  0  0
+ 47 48  2  0  0  0  0
+ 47 49  1  0  0  0  0
+ 49 50  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  1  0  0  0  0
+ 53 56  1  0  0  0  0
+ 57 58  1  0  0  0  0
+ 57 59  1  0  0  0  0
+ 57 60  1  0  0  0  0
+ 61 62  1  0  0  0  0
+ 61 63  2  0  0  0  0
+ 63 64  1  0  0  0  0
+ 64 65  2  0  0  0  0
+ 64 93  1  0  0  0  0
+ 66 67  1  0  0  0  0
+ 66 92  1  0  0  0  0
+ 67 68  2  0  0  0  0
+ 67 89  1  0  0  0  0
+ 68 69  1  0  0  0  0
+ 68 70  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 70 72  2  0  0  0  0
+ 72 73  1  0  0  0  0
+ 72 87  1  0  0  0  0
+ 73 74  2  0  0  0  0
+ 73 85  1  0  0  0  0
+ 74 75  1  0  0  0  0
+ 74 76  1  0  0  0  0
+ 76 77  1  0  0  0  0
+ 76 78  2  0  0  0  0
+ 78 79  1  0  0  0  0
+ 78 82  1  0  0  0  0
+ 79 80  1  0  0  0  0
+ 79 81  1  0  0  0  0
+ 82 83  1  0  0  0  0
+ 82 85  2  0  0  0  0
+ 83 84  1  0  0  0  0
+ 85 86  1  0  0  0  0
+ 87 88  1  0  0  0  0
+ 87 89  2  0  0  0  0
+ 89 90  1  0  0  0  0
+ 90 91  1  0  0  0  0
+ 93 94  2  0  0  0  0
+ 93 95  1  0  0  0  0
+ 95 96  2  0  0  0  0
+ 95129  1  0  0  0  0
+ 96 97  1  0  0  0  0
+ 96 98  1  0  0  0  0
+ 98 99  1  0  0  0  0
+ 98100  2  0  0  0  0
+100101  1  0  0  0  0
+100127  1  0  0  0  0
+101102  1  0  0  0  0
+101119  1  0  0  0  0
+101123  1  0  0  0  0
+102103  2  0  0  0  0
+102117  1  0  0  0  0
+103104  1  0  0  0  0
+103105  1  0  0  0  0
+105106  1  0  0  0  0
+105107  2  0  0  0  0
+107108  1  0  0  0  0
+107112  1  0  0  0  0
+108109  2  0  0  0  0
+108110  1  0  0  0  0
+110111  1  0  0  0  0
+112113  1  0  0  0  0
+112117  2  0  0  0  0
+113114  2  0  0  0  0
+113115  1  0  0  0  0
+115116  1  0  0  0  0
+117118  1  0  0  0  0
+119120  1  0  0  0  0
+119121  1  0  0  0  0
+119122  1  0  0  0  0
+123124  1  0  0  0  0
+123125  1  0  0  0  0
+123126  1  0  0  0  0
+127128  1  0  0  0  0
+127129  2  0  0  0  0
+129130  1  0  0  0  0
+130131  2  0  0  0  0
+130132  1  0  0  0  0
+132133  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 14]}', 'substructure_query_id': 14}, 1: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 13]}', 'substructure_query_id': 13}, 2: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 11]}', 'substructure_query_id': 11}, 3: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 12]}', 'substructure_query_id': 12}, 4: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 9]}', 'substructure_query_id': 9}, 5: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 10]}', 'substructure_query_id': 10}, 6: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 8]}', 'substructure_query_id': 8}, 7: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 7]}', 'substructure_query_id': 7}, 8: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 5]}', 'substructure_query_id': 5}, 9: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 6]}', 'substructure_query_id': 6}, 10: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 3]}', 'substructure_query_id': 3}, 11: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 4]}', 'substructure_query_id': 4}, 12: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 2]}', 'substructure_query_id': 2}, 13: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 1]}', 'substructure_query_id': 1}, 14: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 27]}', 'substructure_query_id': 27}, 15: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 24]}', 'substructure_query_id': 24}, 16: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 25]}', 'substructure_query_id': 25}, 17: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 26]}', 'substructure_query_id': 26}, 18: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 22]}', 'substructure_query_id': 22}, 19: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 23]}', 'substructure_query_id': 23}, 20: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 20]}', 'substructure_query_id': 20}, 21: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 21]}', 'substructure_query_id': 21}, 22: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 17]}', 'substructure_query_id': 17}, 23: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 18]}', 'substructure_query_id': 18}, 24: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 19]}', 'substructure_query_id': 19}, 25: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 16]}', 'substructure_query_id': 16}, 26: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 1]}', 'substructure_query_id': 1}, 27: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 2]}', 'substructure_query_id': 2}, 28: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 3]}', 'substructure_query_id': 3}, 29: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 4]}', 'substructure_query_id': 4}, 30: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 5]}', 'substructure_query_id': 5}, 31: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 6]}', 'substructure_query_id': 6}, 32: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 7]}', 'substructure_query_id': 7}, 33: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 8]}', 'substructure_query_id': 8}, 34: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 9]}', 'substructure_query_id': 9}, 35: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 10]}', 'substructure_query_id': 10}, 36: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 11]}', 'substructure_query_id': 11}, 37: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 12]}', 'substructure_query_id': 12}, 38: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 13]}', 'substructure_query_id': 13}, 39: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 14]}', 'substructure_query_id': 14}, 40: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 15]}', 'substructure_query_id': 15}, 41: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 16]}', 'substructure_query_id': 16}, 42: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 17]}', 'substructure_query_id': 17}, 43: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 18]}', 'substructure_query_id': 18}, 44: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 19]}', 'substructure_query_id': 19}, 45: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 20]}', 'substructure_query_id': 20}, 46: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 21]}', 'substructure_query_id': 21}, 47: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 22]}', 'substructure_query_id': 22}, 48: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 23]}', 'substructure_query_id': 23}, 49: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 24]}', 'substructure_query_id': 24}, 50: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 25]}', 'substructure_query_id': 25}, 51: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 26]}', 'substructure_query_id': 26}, 52: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 27]}', 'substructure_query_id': 27}, 53: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 28]}', 'substructure_query_id': 28}, 54: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 29]}', 'substructure_query_id': 29}, 55: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 30]}', 'substructure_query_id': 30}, 56: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 31]}', 'substructure_query_id': 31}, 57: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 32]}', 'substructure_query_id': 32}, 58: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 33]}', 'substructure_query_id': 33}, 59: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 34]}', 'substructure_query_id': 34}, 60: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 35]}', 'substructure_query_id': 35}, 61: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 36]}', 'substructure_query_id': 36}, 62: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 37]}', 'substructure_query_id': 37}, 63: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 38]}', 'substructure_query_id': 38}, 64: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 40]}', 'substructure_query_id': 40}, 65: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 1], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 1]}', 'substructure_query_id': 1}, 66: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 2], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 2]}', 'substructure_query_id': 2}, 67: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 3], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 3]}', 'substructure_query_id': 3}, 68: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 4], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 4]}', 'substructure_query_id': 4}, 69: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 5], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 5]}', 'substructure_query_id': 5}, 70: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 6], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 6]}', 'substructure_query_id': 6}, 71: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 7], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 7]}', 'substructure_query_id': 7}, 72: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 8], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 8]}', 'substructure_query_id': 8}, 73: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 9], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 9]}', 'substructure_query_id': 9}, 74: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 10], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 10]}', 'substructure_query_id': 10}, 75: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 11], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 11]}', 'substructure_query_id': 11}, 76: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 12], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 12]}', 'substructure_query_id': 12}, 77: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 13], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 13]}', 'substructure_query_id': 13}, 78: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 14], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 14]}', 'substructure_query_id': 14}, 79: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 15]}', 'substructure_query_id': 15}, 80: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 16], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 16]}', 'substructure_query_id': 16}, 81: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 17], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 17]}', 'substructure_query_id': 17}, 82: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 18], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 18]}', 'substructure_query_id': 18}, 83: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 19], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 19]}', 'substructure_query_id': 19}, 84: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 20], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 20]}', 'substructure_query_id': 20}, 85: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 21], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 21]}', 'substructure_query_id': 21}, 86: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 22], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 22]}', 'substructure_query_id': 22}, 87: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 23], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 23]}', 'substructure_query_id': 23}, 88: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 24], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 24]}', 'substructure_query_id': 24}, 89: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 25], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 25]}', 'substructure_query_id': 25}, 90: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 26], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 26]}', 'substructure_query_id': 26}, 91: {'residue_name': '2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_TERM", 27], "2": ["2-amino-5-(4-amino-3-hydroxyphenyl)phenol_MID", 27]}', 'substructure_query_id': 27}, 92: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 1], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 1]}', 'substructure_query_id': 1}, 93: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 2], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 2]}', 'substructure_query_id': 2}, 94: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 3], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 3]}', 'substructure_query_id': 3}, 95: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 4], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 4]}', 'substructure_query_id': 4}, 96: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 5], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 5]}', 'substructure_query_id': 5}, 97: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 6], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 6]}', 'substructure_query_id': 6}, 98: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 7], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 7]}', 'substructure_query_id': 7}, 99: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 8], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 8]}', 'substructure_query_id': 8}, 100: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 9], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 9]}', 'substructure_query_id': 9}, 101: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 10], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 10]}', 'substructure_query_id': 10}, 102: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 11], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 11]}', 'substructure_query_id': 11}, 103: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 12], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 12]}', 'substructure_query_id': 12}, 104: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 13], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 13]}', 'substructure_query_id': 13}, 105: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 14], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 14]}', 'substructure_query_id': 14}, 106: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 15], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 15]}', 'substructure_query_id': 15}, 107: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 16], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 16]}', 'substructure_query_id': 16}, 108: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 17], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 17]}', 'substructure_query_id': 17}, 109: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 18], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 18]}', 'substructure_query_id': 18}, 110: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 19], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 19]}', 'substructure_query_id': 19}, 111: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 20], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 20]}', 'substructure_query_id': 20}, 112: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 21], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 21]}', 'substructure_query_id': 21}, 113: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 22], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 22]}', 'substructure_query_id': 22}, 114: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 23], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 23]}', 'substructure_query_id': 23}, 115: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 24], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 24]}', 'substructure_query_id': 24}, 116: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 25], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 25]}', 'substructure_query_id': 25}, 117: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 26], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 26]}', 'substructure_query_id': 26}, 118: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 27], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 27]}', 'substructure_query_id': 27}, 119: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 28], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 28]}', 'substructure_query_id': 28}, 120: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 29], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 29]}', 'substructure_query_id': 29}, 121: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 30], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 30]}', 'substructure_query_id': 30}, 122: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 31], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 31]}', 'substructure_query_id': 31}, 123: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 32], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 32]}', 'substructure_query_id': 32}, 124: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 33], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 33]}', 'substructure_query_id': 33}, 125: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 34], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 34]}', 'substructure_query_id': 34}, 126: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 35], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 35]}', 'substructure_query_id': 35}, 127: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 36], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 36]}', 'substructure_query_id': 36}, 128: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 37], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 37]}', 'substructure_query_id': 37}, 129: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 38], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 38]}', 'substructure_query_id': 38}, 130: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 39], "5": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_MID", 40]}', 'substructure_query_id': 39}, 131: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 40]}', 'substructure_query_id': 40}, 132: {'residue_name': '4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[2-(3,4-dicarboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phthalic acid_TERM", 41]}', 'substructure_query_id': 41}}
+
+> <atom.dprop.PartialCharge>
+-0.371029 0.015243 -0.390558 0.234777 -0.126799 0.216495 0.006734 0.006734 -0.143485 0.216495 -0.340874 0.230585 0.071887 -0.487606 0.325608 0.132356 -0.640106 0.451778 -0.380369 0.231664 -0.373813 0.231664 0.102044 -0.637244 0.451778 0.380212 0.762079 -0.639630 -0.274992 -0.092702 0.230716 -0.262568 0.224614 -0.030293 -0.264532 -0.045676 -0.259245 0.224614 -0.074280 0.240114 -0.162353 0.808258 -0.458776 -0.658320 0.428216 -0.160132 0.809092 -0.458776 -0.658320 0.428216 -0.035957 0.234300 0.760343 -0.182052 -0.182052 -0.182052 0.760343 -0.182052 -0.182052 -0.182052 0.003601 0.224133 -0.237840 0.586893 -0.494031 -0.371029 0.015243 -0.390558 0.234777 -0.126799 0.216495 0.006734 0.006734 -0.088407 0.216495 -0.421625 0.245160 0.251645 -0.817401 0.383059 0.383059 0.063909 -0.629062 0.451778 -0.343599 0.231664 -0.373813 0.231664 0.102044 -0.637244 0.451778 0.380212 0.588334 -0.494031 -0.270543 -0.030506 0.227725 -0.255344 0.224614 -0.045676 -0.264532 -0.045676 -0.259245 0.224614 -0.074280 0.240114 -0.162353 0.808258 -0.458776 -0.658320 0.428216 -0.160132 0.809092 -0.458776 -0.658320 0.428216 -0.035957 0.234300 0.760343 -0.182052 -0.182052 -0.182052 0.760343 -0.182052 -0.182052 -0.182052 -0.024485 0.234300 -0.103380 0.821175 -0.458776 -0.658320 0.428216
+
+$$$$
