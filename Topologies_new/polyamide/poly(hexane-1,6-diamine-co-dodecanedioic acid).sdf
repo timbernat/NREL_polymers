@@ -1,0 +1,244 @@
+poly(hexane-1,6-diamine-co-dodecanedioic acid)
+  -OEChem-01232419133D
+
+115114  0     0  0  0  0  0  0999 V2000
+   -3.7300    0.7680   -0.6720 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3290   -0.1050    0.4310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9730   -0.7870    0.1800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8000    0.2040    0.2030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5420   -0.5300    0.0920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7130    0.4590    0.1020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0540   -0.2720   -0.0060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1520    0.6890   -0.0170 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2230    1.1150    0.9360 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0770   -0.8610   -0.9490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1760   -0.9730    0.8510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6920    1.0470    1.0470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6130    1.1630   -0.7530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5630   -1.1160   -0.8530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6480   -1.2340    0.9470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8930    0.9120   -0.6490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8240    0.7840    1.1520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8190   -1.5460    0.9780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9950   -1.3230   -0.7940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2950    0.4790    1.3760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1030   -0.8920    0.5550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1030    1.6040   -0.6950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0550    0.1470   -0.1740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3680   -0.1890   -1.3050 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9250   -0.2110    0.9960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3000    0.4670    0.9210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2040    1.9900    1.0890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5950    2.6360    1.0570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5000    4.1580    1.2200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8950    4.8000    1.2000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8380    6.3360    1.2300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3500    6.8830    2.5830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5440    8.4030    2.7090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6120    9.1950    1.7810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7260   10.6670    2.0410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7700   11.2570    1.8110 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8670    9.0020    0.7180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5590    8.8830    1.9540 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3300    8.6900    3.7620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6040    8.6650    2.4970 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9250    6.3960    3.4000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2770    6.6380    2.7320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8630    6.7190    1.0330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1790    6.6950    0.4110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4960    4.4290    2.0590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4170    4.4960    0.2670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9980    4.3840    2.1850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8860    4.5780    0.3930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2140    2.2160    1.8800 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0870    2.3990    0.0880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7130    2.2230    2.0590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5860    2.4170    0.2690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9360    0.0530    1.7340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7880    0.2210   -0.0480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4140    0.0790    1.9390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0630   -1.3140    1.0120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6250    0.2560   -1.5780 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9840    1.1290   -2.5600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7200    1.8110   -2.0070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5740    0.8200   -1.7630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7080    1.5540   -1.3490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8510    0.5650   -1.0930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1320    1.2960   -0.6820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1980    0.3350   -0.4210 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0270    0.8670   -0.0690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4850   -0.0910   -1.3330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9400    1.8850    0.2420 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4460    1.9970   -1.4890 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0460   -0.0230   -2.0170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5590   -0.1390   -0.2820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5130    2.1400   -0.4240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0060    2.2580   -2.1570 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8580    0.1120   -0.9540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3810    0.2400   -2.6920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3890    2.5700   -2.7500 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9640    2.3470   -1.0640 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7350    0.5450   -3.4730 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7100    1.9160   -2.8580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0210   -0.5800   -1.4120 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8720   11.2180    2.4220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1060   10.6730    3.2010 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6220   12.6230    1.9570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9650   13.6640    3.0330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9280   13.7090    4.1650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2430   14.8380    5.1540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2150   14.8790    6.2900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5300   16.0080    7.2780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5010   16.0490    8.4140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8170   17.1790    9.4020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7880   17.2190   10.5390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1030   18.3470   11.5250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0960   18.3730   12.6310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0500   19.0660   12.5160 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2940   17.5950   13.7670 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6140   17.5880   14.5170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1150   18.1960   11.9610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0960   19.3260   10.9960 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7730   17.3780   10.1110 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7960   16.2460   11.0780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8080   18.1520    8.8630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8310   17.0200    9.8300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4870   16.2070    7.9860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5100   15.0760    8.9530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5210   16.9820    6.7390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5450   15.8500    7.7060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2230   13.9060    6.8290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2000   15.0370    5.8620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2350   15.8120    4.6160 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2580   14.6790    5.5820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9290   12.7420    4.7120 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9160   13.8720    3.7330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9750   13.4540    3.4510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0040   14.6620    2.5440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2680   12.8120    1.0730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5660   12.7320    1.6270 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 22  1  0  0  0  0
+  1 57  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 55  1  0  0  0  0
+ 25 56  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 53  1  0  0  0  0
+ 26 54  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 51  1  0  0  0  0
+ 27 52  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 49  1  0  0  0  0
+ 28 50  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 47  1  0  0  0  0
+ 29 48  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 45  1  0  0  0  0
+ 30 46  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 31 43  1  0  0  0  0
+ 31 44  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 41  1  0  0  0  0
+ 32 42  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 39  1  0  0  0  0
+ 33 40  1  0  0  0  0
+ 34 35  1  0  0  0  0
+ 34 37  1  0  0  0  0
+ 34 38  1  0  0  0  0
+ 35 36  2  0  0  0  0
+ 35 80  1  0  0  0  0
+ 57 58  1  0  0  0  0
+ 57 79  1  0  0  0  0
+ 58 59  1  0  0  0  0
+ 58 77  1  0  0  0  0
+ 58 78  1  0  0  0  0
+ 59 60  1  0  0  0  0
+ 59 75  1  0  0  0  0
+ 59 76  1  0  0  0  0
+ 60 61  1  0  0  0  0
+ 60 73  1  0  0  0  0
+ 60 74  1  0  0  0  0
+ 61 62  1  0  0  0  0
+ 61 71  1  0  0  0  0
+ 61 72  1  0  0  0  0
+ 62 63  1  0  0  0  0
+ 62 69  1  0  0  0  0
+ 62 70  1  0  0  0  0
+ 63 64  1  0  0  0  0
+ 63 67  1  0  0  0  0
+ 63 68  1  0  0  0  0
+ 64 65  1  0  0  0  0
+ 64 66  1  0  0  0  0
+ 80 81  2  0  0  0  0
+ 80 82  1  0  0  0  0
+ 82 83  1  0  0  0  0
+ 82114  1  0  0  0  0
+ 82115  1  0  0  0  0
+ 83 84  1  0  0  0  0
+ 83112  1  0  0  0  0
+ 83113  1  0  0  0  0
+ 84 85  1  0  0  0  0
+ 84110  1  0  0  0  0
+ 84111  1  0  0  0  0
+ 85 86  1  0  0  0  0
+ 85108  1  0  0  0  0
+ 85109  1  0  0  0  0
+ 86 87  1  0  0  0  0
+ 86106  1  0  0  0  0
+ 86107  1  0  0  0  0
+ 87 88  1  0  0  0  0
+ 87104  1  0  0  0  0
+ 87105  1  0  0  0  0
+ 88 89  1  0  0  0  0
+ 88102  1  0  0  0  0
+ 88103  1  0  0  0  0
+ 89 90  1  0  0  0  0
+ 89100  1  0  0  0  0
+ 89101  1  0  0  0  0
+ 90 91  1  0  0  0  0
+ 90 98  1  0  0  0  0
+ 90 99  1  0  0  0  0
+ 91 92  1  0  0  0  0
+ 91 96  1  0  0  0  0
+ 91 97  1  0  0  0  0
+ 92 93  2  0  0  0  0
+ 92 94  1  0  0  0  0
+ 94 95  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 8]}', 'substructure_query_id': 8}, 1: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 7]}', 'substructure_query_id': 7}, 2: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 6]}', 'substructure_query_id': 6}, 3: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 5]}', 'substructure_query_id': 5}, 4: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 4]}', 'substructure_query_id': 4}, 5: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 3]}', 'substructure_query_id': 3}, 6: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 5], "4": ["hexane-1,6-diamine_MID", 2]}', 'substructure_query_id': 2}, 7: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 3], "4": ["hexane-1,6-diamine_MID", 1]}', 'substructure_query_id': 1}, 8: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 4], "4": ["hexane-1,6-diamine_MID", 23]}', 'substructure_query_id': 23}, 9: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 21]}', 'substructure_query_id': 21}, 10: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 22]}', 'substructure_query_id': 22}, 11: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 19]}', 'substructure_query_id': 19}, 12: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 20]}', 'substructure_query_id': 20}, 13: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 17]}', 'substructure_query_id': 17}, 14: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 18]}', 'substructure_query_id': 18}, 15: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 15]}', 'substructure_query_id': 15}, 16: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 16]}', 'substructure_query_id': 16}, 17: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 13]}', 'substructure_query_id': 13}, 18: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 14]}', 'substructure_query_id': 14}, 19: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 11]}', 'substructure_query_id': 11}, 20: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 12]}', 'substructure_query_id': 12}, 21: {'residue_name': 'hexane-1,6-diamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["hexane-1,6-diamine_MID", 10]}', 'substructure_query_id': 10}, 22: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 1], "5": ["dodecanedioic acid_MID", 1]}', 'substructure_query_id': 1}, 23: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 2], "5": ["dodecanedioic acid_MID", 2]}', 'substructure_query_id': 2}, 24: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 3]}', 'substructure_query_id': 3}, 25: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 4]}', 'substructure_query_id': 4}, 26: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 5]}', 'substructure_query_id': 5}, 27: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 6]}', 'substructure_query_id': 6}, 28: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 7]}', 'substructure_query_id': 7}, 29: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 8]}', 'substructure_query_id': 8}, 30: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 9]}', 'substructure_query_id': 9}, 31: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 10]}', 'substructure_query_id': 10}, 32: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 11]}', 'substructure_query_id': 11}, 33: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 12]}', 'substructure_query_id': 12}, 34: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 13]}', 'substructure_query_id': 13}, 35: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 15]}', 'substructure_query_id': 15}, 36: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 16]}', 'substructure_query_id': 16}, 37: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 17]}', 'substructure_query_id': 17}, 38: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 18]}', 'substructure_query_id': 18}, 39: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 19]}', 'substructure_query_id': 19}, 40: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 20]}', 'substructure_query_id': 20}, 41: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 21]}', 'substructure_query_id': 21}, 42: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 22]}', 'substructure_query_id': 22}, 43: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 23]}', 'substructure_query_id': 23}, 44: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 24]}', 'substructure_query_id': 24}, 45: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 25]}', 'substructure_query_id': 25}, 46: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 26]}', 'substructure_query_id': 26}, 47: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 27]}', 'substructure_query_id': 27}, 48: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 28]}', 'substructure_query_id': 28}, 49: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 29]}', 'substructure_query_id': 29}, 50: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 30]}', 'substructure_query_id': 30}, 51: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 31]}', 'substructure_query_id': 31}, 52: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 32]}', 'substructure_query_id': 32}, 53: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 33]}', 'substructure_query_id': 33}, 54: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 34]}', 'substructure_query_id': 34}, 55: {'residue_name': 'dodecanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["dodecanedioic acid_MID", 35]}', 'substructure_query_id': 35}, 56: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 1], "3": ["hexane-1,6-diamine_MID", 1]}', 'substructure_query_id': 1}, 57: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 2], "3": ["hexane-1,6-diamine_MID", 2]}', 'substructure_query_id': 2}, 58: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 3], "3": ["hexane-1,6-diamine_MID", 3]}', 'substructure_query_id': 3}, 59: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 4], "3": ["hexane-1,6-diamine_MID", 4]}', 'substructure_query_id': 4}, 60: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 5], "3": ["hexane-1,6-diamine_MID", 5]}', 'substructure_query_id': 5}, 61: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 6], "3": ["hexane-1,6-diamine_MID", 6]}', 'substructure_query_id': 6}, 62: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 7], "3": ["hexane-1,6-diamine_MID", 7]}', 'substructure_query_id': 7}, 63: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 8], "3": ["hexane-1,6-diamine_MID", 8]}', 'substructure_query_id': 8}, 64: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 9]}', 'substructure_query_id': 9}, 65: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 10], "3": ["hexane-1,6-diamine_MID", 10]}', 'substructure_query_id': 10}, 66: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 11], "3": ["hexane-1,6-diamine_MID", 11]}', 'substructure_query_id': 11}, 67: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 12], "3": ["hexane-1,6-diamine_MID", 12]}', 'substructure_query_id': 12}, 68: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 13], "3": ["hexane-1,6-diamine_MID", 13]}', 'substructure_query_id': 13}, 69: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 14], "3": ["hexane-1,6-diamine_MID", 14]}', 'substructure_query_id': 14}, 70: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 15], "3": ["hexane-1,6-diamine_MID", 15]}', 'substructure_query_id': 15}, 71: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 16], "3": ["hexane-1,6-diamine_MID", 16]}', 'substructure_query_id': 16}, 72: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 17], "3": ["hexane-1,6-diamine_MID", 17]}', 'substructure_query_id': 17}, 73: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 18], "3": ["hexane-1,6-diamine_MID", 18]}', 'substructure_query_id': 18}, 74: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 19], "3": ["hexane-1,6-diamine_MID", 19]}', 'substructure_query_id': 19}, 75: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 20], "3": ["hexane-1,6-diamine_MID", 20]}', 'substructure_query_id': 20}, 76: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 21], "3": ["hexane-1,6-diamine_MID", 21]}', 'substructure_query_id': 21}, 77: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 22], "3": ["hexane-1,6-diamine_MID", 22]}', 'substructure_query_id': 22}, 78: {'residue_name': 'hexane-1,6-diamine_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["hexane-1,6-diamine_TERM", 23], "3": ["hexane-1,6-diamine_MID", 23]}', 'substructure_query_id': 23}, 79: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 1], "6": ["dodecanedioic acid_MID", 1]}', 'substructure_query_id': 1}, 80: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 2], "6": ["dodecanedioic acid_MID", 2]}', 'substructure_query_id': 2}, 81: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 3], "6": ["dodecanedioic acid_MID", 3]}', 'substructure_query_id': 3}, 82: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 4], "6": ["dodecanedioic acid_MID", 4]}', 'substructure_query_id': 4}, 83: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 5], "6": ["dodecanedioic acid_MID", 5]}', 'substructure_query_id': 5}, 84: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 6], "6": ["dodecanedioic acid_MID", 6]}', 'substructure_query_id': 6}, 85: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 7], "6": ["dodecanedioic acid_MID", 7]}', 'substructure_query_id': 7}, 86: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 8], "6": ["dodecanedioic acid_MID", 8]}', 'substructure_query_id': 8}, 87: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 9], "6": ["dodecanedioic acid_MID", 9]}', 'substructure_query_id': 9}, 88: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 10], "6": ["dodecanedioic acid_MID", 10]}', 'substructure_query_id': 10}, 89: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 11], "6": ["dodecanedioic acid_MID", 11]}', 'substructure_query_id': 11}, 90: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 12], "6": ["dodecanedioic acid_MID", 12]}', 'substructure_query_id': 12}, 91: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 13], "6": ["dodecanedioic acid_MID", 13]}', 'substructure_query_id': 13}, 92: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 14], "6": ["dodecanedioic acid_MID", 15]}', 'substructure_query_id': 14}, 93: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 15]}', 'substructure_query_id': 15}, 94: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 16]}', 'substructure_query_id': 16}, 95: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 17], "6": ["dodecanedioic acid_MID", 16]}', 'substructure_query_id': 17}, 96: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 18], "6": ["dodecanedioic acid_MID", 17]}', 'substructure_query_id': 18}, 97: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 19], "6": ["dodecanedioic acid_MID", 18]}', 'substructure_query_id': 19}, 98: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 20], "6": ["dodecanedioic acid_MID", 19]}', 'substructure_query_id': 20}, 99: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 21], "6": ["dodecanedioic acid_MID", 20]}', 'substructure_query_id': 21}, 100: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 22], "6": ["dodecanedioic acid_MID", 21]}', 'substructure_query_id': 22}, 101: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 23], "6": ["dodecanedioic acid_MID", 22]}', 'substructure_query_id': 23}, 102: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 24], "6": ["dodecanedioic acid_MID", 23]}', 'substructure_query_id': 24}, 103: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 25], "6": ["dodecanedioic acid_MID", 24]}', 'substructure_query_id': 25}, 104: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 26], "6": ["dodecanedioic acid_MID", 25]}', 'substructure_query_id': 26}, 105: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 27], "6": ["dodecanedioic acid_MID", 26]}', 'substructure_query_id': 27}, 106: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 28], "6": ["dodecanedioic acid_MID", 27]}', 'substructure_query_id': 28}, 107: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 29], "6": ["dodecanedioic acid_MID", 28]}', 'substructure_query_id': 29}, 108: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 30], "6": ["dodecanedioic acid_MID", 29]}', 'substructure_query_id': 30}, 109: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 31], "6": ["dodecanedioic acid_MID", 30]}', 'substructure_query_id': 31}, 110: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 32], "6": ["dodecanedioic acid_MID", 31]}', 'substructure_query_id': 32}, 111: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 33], "6": ["dodecanedioic acid_MID", 32]}', 'substructure_query_id': 33}, 112: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 34], "6": ["dodecanedioic acid_MID", 33]}', 'substructure_query_id': 34}, 113: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 35], "6": ["dodecanedioic acid_MID", 34]}', 'substructure_query_id': 35}, 114: {'residue_name': 'dodecanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["dodecanedioic acid_TERM", 36], "6": ["dodecanedioic acid_MID", 35]}', 'substructure_query_id': 36}}
+
+> <atom.dprop.PartialCharge>
+-0.638770 0.030637 -0.156077 -0.144658 -0.144680 -0.146078 0.015006 -0.491082 0.316913 0.047361 0.047361 0.082171 0.082171 0.081137 0.081137 0.082623 0.082623 0.087688 0.087688 0.088147 0.088147 0.359578 0.725167 -0.745277 -0.181892 -0.121351 -0.137044 -0.141600 -0.141699 -0.141699 -0.141600 -0.138918 -0.097260 -0.257724 0.516946 -0.687825 0.113540 0.113540 0.076819 0.076819 0.078518 0.078518 0.080392 0.080392 0.080392 0.080392 0.080392 0.080392 0.080392 0.080392 0.078518 0.078518 0.084591 0.084591 0.116501 0.116501 -0.638770 0.030637 -0.156077 -0.144735 -0.143373 -0.157559 0.027682 -0.975819 0.379366 0.379366 0.076180 0.076180 0.088555 0.088555 0.082623 0.082623 0.082623 0.082623 0.087688 0.087688 0.088147 0.088147 0.359578 0.516946 -0.687825 -0.257724 -0.097260 -0.138918 -0.141600 -0.141699 -0.141699 -0.141600 -0.136260 -0.113053 -0.218771 0.823754 -0.556824 -0.665552 0.394032 0.117802 0.117802 0.085609 0.085609 0.078518 0.078518 0.080392 0.080392 0.080392 0.080392 0.080392 0.080392 0.080392 0.080392 0.078518 0.078518 0.076819 0.076819 0.113540 0.113540
+
+$$$$
