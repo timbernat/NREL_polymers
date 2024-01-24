@@ -1,0 +1,367 @@
+REMARK   1 CREATED WITH OPENMM 8.0, 2024-01-23
+HETATM    1  O00 Pol A   1      -4.673   1.640  -0.628  1.00  0.00           O  
+HETATM    2  C00 Pol A   1      -3.556   0.937  -0.163  1.00  0.00           C  
+HETATM    3  C01 Pol A   1      -3.336   0.738   1.157  1.00  0.00           C  
+HETATM    4  C02 Pol A   1      -4.287   1.254   2.202  1.00  0.00           C  
+HETATM    5  H00 Pol A   1      -3.949   0.988   3.225  1.00  0.00           H  
+HETATM    6  H01 Pol A   1      -5.294   0.811   2.050  1.00  0.00           H  
+HETATM    7  H02 Pol A   1      -4.352   2.361   2.141  1.00  0.00           H  
+HETATM    8  C03 Pol A   1      -2.126  -0.002   1.595  1.00  0.00           C  
+HETATM    9  H03 Pol A   1      -1.995  -0.160   2.655  1.00  0.00           H  
+HETATM   10  C04 Pol A   1      -1.218  -0.453   0.703  1.00  0.00           C  
+HETATM   11  C05 Pol A   1       0.044  -1.241   1.105  1.00  0.00           C  
+HETATM   12  C06 Pol A   1       1.257  -0.663   0.352  1.00  0.00           C  
+HETATM   13  C07 Pol A   1       2.176  -1.431  -0.273  1.00  0.00           C  
+HETATM   14  H04 Pol A   1       2.089  -2.507  -0.288  1.00  0.00           H  
+HETATM   15  C08 Pol A   1       3.339  -0.827  -0.971  1.00  0.00           C  
+HETATM   16  C09 Pol A   1       4.304  -1.733  -1.687  1.00  0.00           C  
+HETATM   17  H05 Pol A   1       5.322  -1.615  -1.260  1.00  0.00           H  
+HETATM   18  H06 Pol A   1       4.013  -2.799  -1.583  1.00  0.00           H  
+HETATM   19  H07 Pol A   1       4.321  -1.488  -2.770  1.00  0.00           H  
+HETATM   20  C10 Pol A   1       3.505   0.515  -0.956  1.00  0.00           C  
+HETATM   21  O01 Pol A   1       4.575   1.135  -1.610  1.00  0.00           O  
+HETATM   22  C11 Pol A   1       2.533   1.368  -0.229  1.00  0.00           C  
+HETATM   23  C12 Pol A   1       2.710   2.861  -0.222  1.00  0.00           C  
+HETATM   24  H08 Pol A   1       2.412   3.272  -1.209  1.00  0.00           H  
+HETATM   25  H09 Pol A   1       2.094   3.344   0.568  1.00  0.00           H  
+HETATM   26  H10 Pol A   1       3.772   3.118  -0.027  1.00  0.00           H  
+HETATM   27  C13 Pol A   1       1.473   0.809   0.376  1.00  0.00           C  
+HETATM   28  H11 Pol A   1       0.757   1.437   0.893  1.00  0.00           H  
+HETATM   29  C14 Pol A   1       0.373  -1.149   2.615  1.00  0.00           C  
+HETATM   30  H12 Pol A   1       0.444  -0.089   2.943  1.00  0.00           H  
+HETATM   31  H13 Pol A   1       1.349  -1.638   2.829  1.00  0.00           H  
+HETATM   32  H14 Pol A   1      -0.394  -1.666   3.230  1.00  0.00           H  
+HETATM   33  C15 Pol A   1      -0.237  -2.728   0.775  1.00  0.00           C  
+HETATM   34  H15 Pol A   1       0.573  -3.387   1.156  1.00  0.00           H  
+HETATM   35  H16 Pol A   1      -0.339  -2.880  -0.321  1.00  0.00           H  
+HETATM   36  H17 Pol A   1      -1.183  -3.058   1.256  1.00  0.00           H  
+HETATM   37  C16 Pol A   1      -1.493  -0.243  -0.744  1.00  0.00           C  
+HETATM   38  H18 Pol A   1      -0.786  -0.620  -1.474  1.00  0.00           H  
+HETATM   39  C17 Pol A   1      -2.595   0.401  -1.158  1.00  0.00           C  
+HETATM   40  C18 Pol A   1      -2.833   0.632  -2.625  1.00  0.00           C  
+HETATM   41  H19 Pol A   1      -3.898   0.439  -2.873  1.00  0.00           H  
+HETATM   42  H20 Pol A   1      -2.587   1.685  -2.876  1.00  0.00           H  
+HETATM   43  H21 Pol A   1      -2.211  -0.041  -3.253  1.00  0.00           H  
+HETATM   44  C19 Pol A   1       5.307   0.614  -2.150  1.00  0.00           C  
+HETATM   45  O02 Pol A   1       5.774  -0.419  -1.702  1.00  0.00           O  
+HETATM   46  O03 Pol A   1       5.637   0.981  -3.074  1.00  0.00           O  
+HETATM   47  C20 Pol A   1       6.899   0.703  -3.613  1.00  0.00           C  
+HETATM   48  C21 Pol A   1       7.796  -0.076  -2.967  1.00  0.00           C  
+HETATM   49  C22 Pol A   1       7.484  -0.699  -1.633  1.00  0.00           C  
+HETATM   50  H22 Pol A   1       8.333  -1.310  -1.263  1.00  0.00           H  
+HETATM   51  H23 Pol A   1       6.599  -1.363  -1.723  1.00  0.00           H  
+HETATM   52  H24 Pol A   1       7.282   0.095  -0.883  1.00  0.00           H  
+HETATM   53  C23 Pol A   1       9.126  -0.324  -3.578  1.00  0.00           C  
+HETATM   54  H25 Pol A   1       9.807  -0.969  -3.044  1.00  0.00           H  
+HETATM   55  C24 Pol A   1       9.474   0.241  -4.754  1.00  0.00           C  
+HETATM   56  C25 Pol A   1      10.834   0.000  -5.438  1.00  0.00           C  
+HETATM   57  C26 Pol A   1      11.406   1.352  -5.906  1.00  0.00           C  
+HETATM   58  C27 Pol A   1      11.936   1.549  -7.132  1.00  0.00           C  
+HETATM   59  H26 Pol A   1      11.966   0.754  -7.862  1.00  0.00           H  
+HETATM   60  C28 Pol A   1      12.492   2.867  -7.530  1.00  0.00           C  
+HETATM   61  C29 Pol A   1      13.028   3.035  -8.926  1.00  0.00           C  
+HETATM   62  H27 Pol A   1      14.101   3.321  -8.887  1.00  0.00           H  
+HETATM   63  H28 Pol A   1      12.947   2.093  -9.508  1.00  0.00           H  
+HETATM   64  H29 Pol A   1      12.451   3.818  -9.461  1.00  0.00           H  
+HETATM   65  C30 Pol A   1      12.500   3.885  -6.640  1.00  0.00           C  
+HETATM   66  O04 Pol A   1      12.999   5.150  -6.968  1.00  0.00           O  
+HETATM   67  C31 Pol A   1      11.970   3.670  -5.270  1.00  0.00           C  
+HETATM   68  C32 Pol A   1      11.968   4.804  -4.284  1.00  0.00           C  
+HETATM   69  H30 Pol A   1      11.157   5.516  -4.544  1.00  0.00           H  
+HETATM   70  H31 Pol A   1      11.810   4.445  -3.244  1.00  0.00           H  
+HETATM   71  H32 Pol A   1      12.942   5.336  -4.314  1.00  0.00           H  
+HETATM   72  C33 Pol A   1      11.448   2.480  -4.935  1.00  0.00           C  
+HETATM   73  H33 Pol A   1      11.047   2.331  -3.939  1.00  0.00           H  
+HETATM   74  C34 Pol A   1      11.893  -0.630  -4.501  1.00  0.00           C  
+HETATM   75  H34 Pol A   1      12.013  -0.029  -3.575  1.00  0.00           H  
+HETATM   76  H35 Pol A   1      12.880  -0.677  -5.010  1.00  0.00           H  
+HETATM   77  H36 Pol A   1      11.618  -1.671  -4.222  1.00  0.00           H  
+HETATM   78  C35 Pol A   1      10.578  -0.995  -6.597  1.00  0.00           C  
+HETATM   79  H37 Pol A   1      11.531  -1.327  -7.063  1.00  0.00           H  
+HETATM   80  H38 Pol A   1       9.934  -0.539  -7.379  1.00  0.00           H  
+HETATM   81  H39 Pol A   1      10.063  -1.905  -6.218  1.00  0.00           H  
+HETATM   82  C36 Pol A   1       8.462   1.075  -5.458  1.00  0.00           C  
+HETATM   83  H40 Pol A   1       8.718   1.516  -6.414  1.00  0.00           H  
+HETATM   84  C37 Pol A   1       7.246   1.288  -4.932  1.00  0.00           C  
+HETATM   85  C38 Pol A   1       6.254   2.165  -5.644  1.00  0.00           C  
+HETATM   86  H41 Pol A   1       5.244   1.706  -5.604  1.00  0.00           H  
+HETATM   87  H42 Pol A   1       6.221   3.159  -5.152  1.00  0.00           H  
+HETATM   88  H43 Pol A   1       6.522   2.303  -6.714  1.00  0.00           H  
+HETATM   89  C39 Pol A   1      13.390   5.394  -7.909  1.00  0.00           C  
+HETATM   90  O05 Pol A   1      14.127   4.611  -8.485  1.00  0.00           O  
+HETATM   91  O06 Pol A   1      13.148   6.311  -8.356  1.00  0.00           O  
+HETATM   92  C40 Pol A   1      13.962   6.956  -9.294  1.00  0.00           C  
+HETATM   93  C41 Pol A   1      15.140   6.429  -9.700  1.00  0.00           C  
+HETATM   94  C42 Pol A   1      15.638   5.111  -9.172  1.00  0.00           C  
+HETATM   95  H44 Pol A   1      16.614   4.836  -9.624  1.00  0.00           H  
+HETATM   96  H45 Pol A   1      14.912   4.307  -9.413  1.00  0.00           H  
+HETATM   97  H46 Pol A   1      15.777   5.172  -8.072  1.00  0.00           H  
+HETATM   98  C43 Pol A   1      15.971   7.164 -10.686  1.00  0.00           C  
+HETATM   99  H47 Pol A   1      16.894   6.703 -11.003  1.00  0.00           H  
+HETATM  100  C44 Pol A   1      15.592   8.369 -11.163  1.00  0.00           C  
+HETATM  101  C45 Pol A   1      16.409   9.164 -12.200  1.00  0.00           C  
+HETATM  102  C46 Pol A   1      16.508  10.632 -11.743  1.00  0.00           C  
+HETATM  103  C47 Pol A   1      16.295  11.681 -12.566  1.00  0.00           C  
+HETATM  104  H48 Pol A   1      16.021  11.533 -13.600  1.00  0.00           H  
+HETATM  105  C48 Pol A   1      16.420  13.079 -12.082  1.00  0.00           C  
+HETATM  106  C49 Pol A   1      16.126  14.204 -13.037  1.00  0.00           C  
+HETATM  107  H49 Pol A   1      17.024  14.848 -13.151  1.00  0.00           H  
+HETATM  108  H50 Pol A   1      15.851  13.822 -14.042  1.00  0.00           H  
+HETATM  109  H51 Pol A   1      15.276  14.810 -12.657  1.00  0.00           H  
+HETATM  110  C50 Pol A   1      16.787  13.312 -10.802  1.00  0.00           C  
+HETATM  111  O07 Pol A   1      16.905  14.610 -10.292  1.00  0.00           O  
+HETATM  112  C51 Pol A   1      17.077  12.171  -9.899  1.00  0.00           C  
+HETATM  113  C52 Pol A   1      17.473  12.429  -8.472  1.00  0.00           C  
+HETATM  114  H52 Pol A   1      16.577  12.731  -7.890  1.00  0.00           H  
+HETATM  115  H53 Pol A   1      17.920  11.529  -8.000  1.00  0.00           H  
+HETATM  116  H54 Pol A   1      18.226  13.244  -8.428  1.00  0.00           H  
+HETATM  117  C53 Pol A   1      16.934  10.913 -10.345  1.00  0.00           C  
+HETATM  118  H55 Pol A   1      17.132  10.082  -9.678  1.00  0.00           H  
+HETATM  119  C54 Pol A   1      17.861   8.651 -12.366  1.00  0.00           C  
+HETATM  120  H56 Pol A   1      18.385   8.617 -11.386  1.00  0.00           H  
+HETATM  121  H57 Pol A   1      18.435   9.326 -13.037  1.00  0.00           H  
+HETATM  122  H58 Pol A   1      17.883   7.638 -12.822  1.00  0.00           H  
+HETATM  123  C55 Pol A   1      15.691   8.989 -13.561  1.00  0.00           C  
+HETATM  124  H59 Pol A   1      16.288   9.421 -14.393  1.00  0.00           H  
+HETATM  125  H60 Pol A   1      14.689   9.470 -13.547  1.00  0.00           H  
+HETATM  126  H61 Pol A   1      15.548   7.909 -13.786  1.00  0.00           H  
+HETATM  127  C56 Pol A   1      14.281   8.918 -10.720  1.00  0.00           C  
+HETATM  128  H62 Pol A   1      13.951   9.873 -11.113  1.00  0.00           H  
+HETATM  129  C57 Pol A   1      13.505   8.253  -9.850  1.00  0.00           C  
+HETATM  130  C58 Pol A   1      12.202   8.845  -9.390  1.00  0.00           C  
+HETATM  131  H63 Pol A   1      11.416   8.062  -9.365  1.00  0.00           H  
+HETATM  132  H64 Pol A   1      12.328   9.266  -8.370  1.00  0.00           H  
+HETATM  133  H65 Pol A   1      11.855   9.653 -10.070  1.00  0.00           H  
+HETATM  134  C59 Pol A   1      16.718  15.474 -10.854  1.00  0.00           C  
+HETATM  135  O08 Pol A   1      17.122  15.554 -12.002  1.00  0.00           O  
+HETATM  136  O09 Pol A   1      -5.376   2.041  -0.021  1.00  0.00           O  
+HETATM  137  C60 Pol A   1      -5.079   2.744   1.152  1.00  0.00           C  
+HETATM  138  C61 Pol A   1      -3.805   2.944   1.562  1.00  0.00           C  
+HETATM  139  C62 Pol A   1      -2.632   2.427   0.774  1.00  0.00           C  
+HETATM  140  H66 Pol A   1      -1.670   2.694   1.258  1.00  0.00           H  
+HETATM  141  H67 Pol A   1      -2.636   2.871  -0.245  1.00  0.00           H  
+HETATM  142  H68 Pol A   1      -2.683   1.320   0.701  1.00  0.00           H  
+HETATM  143  C63 Pol A   1      -3.549   3.683   2.824  1.00  0.00           C  
+HETATM  144  H69 Pol A   1      -2.519   3.842   3.108  1.00  0.00           H  
+HETATM  145  C64 Pol A   1      -4.564   4.135   3.591  1.00  0.00           C  
+HETATM  146  C65 Pol A   1      -4.350   4.923   4.898  1.00  0.00           C  
+HETATM  147  C66 Pol A   1      -5.273   4.345   5.988  1.00  0.00           C  
+HETATM  148  C67 Pol A   1      -6.026   5.113   6.806  1.00  0.00           C  
+HETATM  149  H70 Pol A   1      -6.028   6.188   6.717  1.00  0.00           H  
+HETATM  150  C68 Pol A   1      -6.886   4.509   7.854  1.00  0.00           C  
+HETATM  151  C69 Pol A   1      -7.735   5.415   8.705  1.00  0.00           C  
+HETATM  152  H71 Pol A   1      -7.462   5.296   9.774  1.00  0.00           H  
+HETATM  153  H72 Pol A   1      -7.590   6.481   8.431  1.00  0.00           H  
+HETATM  154  H73 Pol A   1      -8.809   5.170   8.563  1.00  0.00           H  
+HETATM  155  C70 Pol A   1      -6.896   3.167   8.020  1.00  0.00           C  
+HETATM  156  O10 Pol A   1      -7.699   2.546   8.983  1.00  0.00           O  
+HETATM  157  H74 Pol A   1      -8.318   3.050   9.606  1.00  0.00           H  
+HETATM  158  C71 Pol A   1      -6.034   2.313   7.166  1.00  0.00           C  
+HETATM  159  C72 Pol A   1      -6.053   0.820   7.341  1.00  0.00           C  
+HETATM  160  H75 Pol A   1      -6.986   0.410   6.903  1.00  0.00           H  
+HETATM  161  H76 Pol A   1      -5.182   0.337   6.848  1.00  0.00           H  
+HETATM  162  H77 Pol A   1      -6.015   0.564   8.421  1.00  0.00           H  
+HETATM  163  C73 Pol A   1      -5.281   2.872   6.205  1.00  0.00           C  
+HETATM  164  H78 Pol A   1      -4.665   2.245   5.573  1.00  0.00           H  
+HETATM  165  C74 Pol A   1      -2.905   4.830   5.445  1.00  0.00           C  
+HETATM  166  H79 Pol A   1      -2.590   3.771   5.562  1.00  0.00           H  
+HETATM  167  H80 Pol A   1      -2.836   5.320   6.441  1.00  0.00           H  
+HETATM  168  H81 Pol A   1      -2.185   5.348   4.775  1.00  0.00           H  
+HETATM  169  C75 Pol A   1      -4.636   6.409   4.572  1.00  0.00           C  
+HETATM  170  H82 Pol A   1      -4.377   7.068   5.429  1.00  0.00           H  
+HETATM  171  H83 Pol A   1      -5.706   6.561   4.311  1.00  0.00           H  
+HETATM  172  H84 Pol A   1      -4.022   6.740   3.706  1.00  0.00           H  
+HETATM  173  C76 Pol A   1      -5.956   3.925   3.107  1.00  0.00           C  
+HETATM  174  H85 Pol A   1      -6.781   4.302   3.700  1.00  0.00           H  
+HETATM  175  C77 Pol A   1      -6.204   3.281   1.956  1.00  0.00           C  
+HETATM  176  C78 Pol A   1      -7.620   3.049   1.507  1.00  0.00           C  
+HETATM  177  H86 Pol A   1      -7.709   3.243   0.417  1.00  0.00           H  
+HETATM  178  H87 Pol A   1      -7.904   1.996   1.713  1.00  0.00           H  
+HETATM  179  H88 Pol A   1      -8.333   3.722   2.030  1.00  0.00           H  
+HETATM  180  C79 Pol A   1      16.166  16.298 -10.415  1.00  0.00           C  
+HETATM  181  O11 Pol A   1      15.686  16.185  -9.300  1.00  0.00           O  
+HETATM  182 Cl00 Pol A   1      15.963  17.793 -11.309  1.00  0.00          Cl  
+TER     183      Pol A   1
+CONECT    1    2  136
+CONECT    2    1    3   39
+CONECT    3    2    4    8
+CONECT    4    3    5    6    7
+CONECT    5    4
+CONECT    6    4
+CONECT    7    4
+CONECT    8    3    9   10
+CONECT    9    8
+CONECT   10    8   11   37
+CONECT   11   10   12   29   33
+CONECT   12   11   13   27
+CONECT   13   12   14   15
+CONECT   14   13
+CONECT   15   13   16   20
+CONECT   16   15   17   18   19
+CONECT   17   16
+CONECT   18   16
+CONECT   19   16
+CONECT   20   15   21   22
+CONECT   21   20   44
+CONECT   22   20   23   27
+CONECT   23   22   24   25   26
+CONECT   24   23
+CONECT   25   23
+CONECT   26   23
+CONECT   27   12   22   28
+CONECT   28   27
+CONECT   29   11   30   31   32
+CONECT   30   29
+CONECT   31   29
+CONECT   32   29
+CONECT   33   11   34   35   36
+CONECT   34   33
+CONECT   35   33
+CONECT   36   33
+CONECT   37   10   38   39
+CONECT   38   37
+CONECT   39    2   37   40
+CONECT   40   39   41   42   43
+CONECT   41   40
+CONECT   42   40
+CONECT   43   40
+CONECT   44   21   45   46
+CONECT   45   44
+CONECT   46   44   47
+CONECT   47   46   48   84
+CONECT   48   47   49   53
+CONECT   49   48   50   51   52
+CONECT   50   49
+CONECT   51   49
+CONECT   52   49
+CONECT   53   48   54   55
+CONECT   54   53
+CONECT   55   53   56   82
+CONECT   56   55   57   74   78
+CONECT   57   56   58   72
+CONECT   58   57   59   60
+CONECT   59   58
+CONECT   60   58   61   65
+CONECT   61   60   62   63   64
+CONECT   62   61
+CONECT   63   61
+CONECT   64   61
+CONECT   65   60   66   67
+CONECT   66   65   89
+CONECT   67   65   68   72
+CONECT   68   67   69   70   71
+CONECT   69   68
+CONECT   70   68
+CONECT   71   68
+CONECT   72   57   67   73
+CONECT   73   72
+CONECT   74   56   75   76   77
+CONECT   75   74
+CONECT   76   74
+CONECT   77   74
+CONECT   78   56   79   80   81
+CONECT   79   78
+CONECT   80   78
+CONECT   81   78
+CONECT   82   55   83   84
+CONECT   83   82
+CONECT   84   47   82   85
+CONECT   85   84   86   87   88
+CONECT   86   85
+CONECT   87   85
+CONECT   88   85
+CONECT   89   66   90   91
+CONECT   90   89
+CONECT   91   89   92
+CONECT   92   91   93  129
+CONECT   93   92   94   98
+CONECT   94   93   95   96   97
+CONECT   95   94
+CONECT   96   94
+CONECT   97   94
+CONECT   98   93   99  100
+CONECT   99   98
+CONECT  100   98  101  127
+CONECT  101  100  102  119  123
+CONECT  102  101  103  117
+CONECT  103  102  104  105
+CONECT  104  103
+CONECT  105  103  106  110
+CONECT  106  105  107  108  109
+CONECT  107  106
+CONECT  108  106
+CONECT  109  106
+CONECT  110  105  111  112
+CONECT  111  110  134
+CONECT  112  110  113  117
+CONECT  113  112  114  115  116
+CONECT  114  113
+CONECT  115  113
+CONECT  116  113
+CONECT  117  102  112  118
+CONECT  118  117
+CONECT  119  101  120  121  122
+CONECT  120  119
+CONECT  121  119
+CONECT  122  119
+CONECT  123  101  124  125  126
+CONECT  124  123
+CONECT  125  123
+CONECT  126  123
+CONECT  127  100  128  129
+CONECT  128  127
+CONECT  129   92  127  130
+CONECT  130  129  131  132  133
+CONECT  131  130
+CONECT  132  130
+CONECT  133  130
+CONECT  134  111  135  180
+CONECT  135  134
+CONECT  136    1  137
+CONECT  137  136  138  175
+CONECT  138  137  139  143
+CONECT  139  138  140  141  142
+CONECT  140  139
+CONECT  141  139
+CONECT  142  139
+CONECT  143  138  144  145
+CONECT  144  143
+CONECT  145  143  146  173
+CONECT  146  145  147  165  169
+CONECT  147  146  148  163
+CONECT  148  147  149  150
+CONECT  149  148
+CONECT  150  148  151  155
+CONECT  151  150  152  153  154
+CONECT  152  151
+CONECT  153  151
+CONECT  154  151
+CONECT  155  150  156  158
+CONECT  156  155  157
+CONECT  157  156
+CONECT  158  155  159  163
+CONECT  159  158  160  161  162
+CONECT  160  159
+CONECT  161  159
+CONECT  162  159
+CONECT  163  147  158  164
+CONECT  164  163
+CONECT  165  146  166  167  168
+CONECT  166  165
+CONECT  167  165
+CONECT  168  165
+CONECT  169  146  170  171  172
+CONECT  170  169
+CONECT  171  169
+CONECT  172  169
+CONECT  173  145  174  175
+CONECT  174  173
+CONECT  175  137  173  176
+CONECT  176  175  177  178  179
+CONECT  177  176
+CONECT  178  176
+CONECT  179  176
+CONECT  180  134  181  182
+CONECT  181  180
+CONECT  182  180
+END
