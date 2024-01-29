@@ -1,0 +1,212 @@
+poly(1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene-co-[6-(hydroxymethyl)pyr
+  -OEChem-01292416083D
+
+ 96101  0     0  0  0  0  0  0999 V2000
+    5.5350   -0.7470    1.5320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3620    0.0240    2.5130 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6830   -0.6900    0.3820 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580    0.0600    0.3190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0510    0.5680   -0.8560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6510    0.4360   -1.7480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7880    1.3300   -0.9490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4860    1.7300   -1.9090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0280    1.5180    0.1430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2800    2.2570    0.0520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3970    1.2990   -0.2600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7290    1.0210   -1.5320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2140    1.5020   -2.3550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7990    0.0460   -1.8280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0560   -0.1540   -2.8610 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4290   -0.6000   -0.8330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4740   -1.5380   -1.1450 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7760   -2.6970   -0.3590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0100   -3.0810    0.5630 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0030   -1.4190   -2.0380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0680   -0.2840    0.5740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5980   -0.7470    1.3960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1050    0.6060    0.8420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8550    0.8290    1.8720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4860    2.7710    1.0150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2230    3.0550   -0.7220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4500    0.9210    1.4330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8240    1.0280    2.3100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5940    0.2310    1.5170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8620   -0.2270    2.4590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0230   -1.1690   -0.4830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6240   -3.2540   -0.5780 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7350   -3.2840   -1.9740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2670   -1.9760   -2.4750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5540   -1.7950   -2.5740 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.1180   -0.5460   -3.0170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.6060   -0.3930   -3.0870 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.0620    0.2440   -1.9270 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.0760   -1.3970   -3.1750 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.8850    0.2040   -3.9850 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3050    0.4830   -3.3080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7060    1.4390   -3.6220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8440    0.3090   -3.1920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1820    1.1330   -3.4250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3440   -0.8640   -2.7920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2730   -0.9940   -2.6990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7480   -3.5070   -2.4410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4290   -4.1030   -2.2600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3680   -1.4370    1.5440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3880   -2.3900    0.7220 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4500   -1.2190    2.4600 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5400   -2.1350    2.6680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3600   -3.4690    2.6350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3830   -3.8970    2.4590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4940   -4.3820    2.8880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3230   -5.4510    2.8590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7150   -3.8900    3.1590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8660   -4.8100    3.4600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9120   -5.1230    4.9310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5870   -4.3310    5.7820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1320   -3.4680    5.4190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5910   -4.6220    7.2300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1530   -3.9690    7.8860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9050   -5.6790    7.7150 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8750   -6.0050    9.1140 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4820   -5.3440   10.0180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0720   -4.7020   10.8970 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1500   -6.5390    6.7770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5900   -7.3850    7.1550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1500   -6.2770    5.4640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5880   -6.9130    4.7920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7700   -5.7530    2.8770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8210   -4.3400    3.1360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9060   -2.4220    3.2330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8780   -2.0120    3.4760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8790   -1.5950    3.0040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0300   -0.5250    3.0610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4950   -0.2870    2.9290 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.0470    0.3200   -2.0250 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.3060    0.4400   -3.3970 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.9870    1.8290   -3.8600 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.9020    2.7570   -3.8070 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6380    4.1140   -4.2080 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7250    5.1390   -4.1020 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.5720    5.8560   -2.9100 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.3120    6.5170   -2.8900 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.7140    4.6290   -4.1100 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.6820    5.8310   -4.9720 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4050    4.4580   -4.6180 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.1760    5.4780   -4.9030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.3480    3.4310   -4.6740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3520    3.6990   -5.0040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.6200    2.1740   -4.3110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.8450    1.4180   -4.3440 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.7140   -0.3070   -3.9730 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.3800    0.2240   -3.5780 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 49  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 31  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 29  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 32  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  2  0  0  0  0
+ 29 30  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 47  1  0  0  0  0
+ 33 48  1  0  0  0  0
+ 34 35  2  0  0  0  0
+ 34 45  1  0  0  0  0
+ 35 36  1  0  0  0  0
+ 36 37  1  0  0  0  0
+ 36 41  2  0  0  0  0
+ 37 38  1  0  0  0  0
+ 37 39  1  0  0  0  0
+ 37 40  1  0  0  0  0
+ 38 79  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 43  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 45  2  0  0  0  0
+ 45 46  1  0  0  0  0
+ 49 50  2  0  0  0  0
+ 49 51  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 78  1  0  0  0  0
+ 52 53  2  0  0  0  0
+ 52 76  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  1  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 57  2  0  0  0  0
+ 57 58  1  0  0  0  0
+ 57 74  1  0  0  0  0
+ 58 59  1  0  0  0  0
+ 58 72  1  0  0  0  0
+ 58 73  1  0  0  0  0
+ 59 60  2  0  0  0  0
+ 59 70  1  0  0  0  0
+ 60 61  1  0  0  0  0
+ 60 62  1  0  0  0  0
+ 62 63  1  0  0  0  0
+ 62 64  2  0  0  0  0
+ 64 65  1  0  0  0  0
+ 64 68  1  0  0  0  0
+ 65 66  2  0  0  0  0
+ 66 67  2  0  0  0  0
+ 68 69  1  0  0  0  0
+ 68 70  2  0  0  0  0
+ 70 71  1  0  0  0  0
+ 74 75  1  0  0  0  0
+ 74 76  2  0  0  0  0
+ 76 77  1  0  0  0  0
+ 79 80  1  0  0  0  0
+ 80 81  1  0  0  0  0
+ 80 95  1  0  0  0  0
+ 80 96  1  0  0  0  0
+ 81 82  2  0  0  0  0
+ 81 93  1  0  0  0  0
+ 82 83  1  0  0  0  0
+ 83 84  1  0  0  0  0
+ 83 89  2  0  0  0  0
+ 84 85  1  0  0  0  0
+ 84 87  1  0  0  0  0
+ 84 88  1  0  0  0  0
+ 85 86  1  0  0  0  0
+ 89 90  1  0  0  0  0
+ 89 91  1  0  0  0  0
+ 91 92  1  0  0  0  0
+ 91 93  2  0  0  0  0
+ 93 94  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 18]}', 'substructure_query_id': 18}, 1: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 20]}', 'substructure_query_id': 20}, 2: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 17]}', 'substructure_query_id': 17}, 3: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 16]}', 'substructure_query_id': 16}, 4: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 14]}', 'substructure_query_id': 14}, 5: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 15]}', 'substructure_query_id': 15}, 6: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 12]}', 'substructure_query_id': 12}, 7: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 13]}', 'substructure_query_id': 13}, 8: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 11]}', 'substructure_query_id': 11}, 9: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 10]}', 'substructure_query_id': 10}, 10: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 9]}', 'substructure_query_id': 9}, 11: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 7]}', 'substructure_query_id': 7}, 12: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 8]}', 'substructure_query_id': 8}, 13: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 5]}', 'substructure_query_id': 5}, 14: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 6]}', 'substructure_query_id': 6}, 15: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 4]}', 'substructure_query_id': 4}, 16: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 3]}', 'substructure_query_id': 3}, 17: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 1]}', 'substructure_query_id': 1}, 18: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 2]}', 'substructure_query_id': 2}, 19: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 32]}', 'substructure_query_id': 32}, 20: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 30]}', 'substructure_query_id': 30}, 21: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 31]}', 'substructure_query_id': 31}, 22: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 28]}', 'substructure_query_id': 28}, 23: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 29]}', 'substructure_query_id': 29}, 24: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 26]}', 'substructure_query_id': 26}, 25: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 27]}', 'substructure_query_id': 27}, 26: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 24]}', 'substructure_query_id': 24}, 27: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 25]}', 'substructure_query_id': 25}, 28: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 22]}', 'substructure_query_id': 22}, 29: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 23]}', 'substructure_query_id': 23}, 30: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID", 21]}', 'substructure_query_id': 21}, 31: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 1]}', 'substructure_query_id': 1}, 32: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 2]}', 'substructure_query_id': 2}, 33: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 3]}', 'substructure_query_id': 3}, 34: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 4]}', 'substructure_query_id': 4}, 35: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 5]}', 'substructure_query_id': 5}, 36: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 6]}', 'substructure_query_id': 6}, 37: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 7]}', 'substructure_query_id': 7}, 38: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 9]}', 'substructure_query_id': 9}, 39: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 10]}', 'substructure_query_id': 10}, 40: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 11]}', 'substructure_query_id': 11}, 41: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 12]}', 'substructure_query_id': 12}, 42: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 13]}', 'substructure_query_id': 13}, 43: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 14]}', 'substructure_query_id': 14}, 44: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 15]}', 'substructure_query_id': 15}, 45: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 16]}', 'substructure_query_id': 16}, 46: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 17]}', 'substructure_query_id': 17}, 47: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 18]}', 'substructure_query_id': 18}, 48: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 1]}', 'substructure_query_id': 1}, 49: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 2]}', 'substructure_query_id': 2}, 50: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 3]}', 'substructure_query_id': 3}, 51: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 4]}', 'substructure_query_id': 4}, 52: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 5]}', 'substructure_query_id': 5}, 53: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 6]}', 'substructure_query_id': 6}, 54: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 7]}', 'substructure_query_id': 7}, 55: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 8]}', 'substructure_query_id': 8}, 56: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 9]}', 'substructure_query_id': 9}, 57: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 10]}', 'substructure_query_id': 10}, 58: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 11]}', 'substructure_query_id': 11}, 59: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 12]}', 'substructure_query_id': 12}, 60: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 13]}', 'substructure_query_id': 13}, 61: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 14]}', 'substructure_query_id': 14}, 62: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 15]}', 'substructure_query_id': 15}, 63: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 16]}', 'substructure_query_id': 16}, 64: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 17]}', 'substructure_query_id': 17}, 65: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 18]}', 'substructure_query_id': 18}, 66: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 19]}', 'substructure_query_id': 19}, 67: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 20]}', 'substructure_query_id': 20}, 68: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 21]}', 'substructure_query_id': 21}, 69: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 22]}', 'substructure_query_id': 22}, 70: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 23]}', 'substructure_query_id': 23}, 71: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 24]}', 'substructure_query_id': 24}, 72: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 25]}', 'substructure_query_id': 25}, 73: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 26]}', 'substructure_query_id': 26}, 74: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 27]}', 'substructure_query_id': 27}, 75: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 28]}', 'substructure_query_id': 28}, 76: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 29]}', 'substructure_query_id': 29}, 77: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM", 30]}', 'substructure_query_id': 30}, 78: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 1], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 1]}', 'substructure_query_id': 1}, 79: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 2], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 2]}', 'substructure_query_id': 2}, 80: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 3], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 3]}', 'substructure_query_id': 3}, 81: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 4], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 4]}', 'substructure_query_id': 4}, 82: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 5], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 5]}', 'substructure_query_id': 5}, 83: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 6], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 6]}', 'substructure_query_id': 6}, 84: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 7], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 7]}', 'substructure_query_id': 7}, 85: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 8]}', 'substructure_query_id': 8}, 86: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 9], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 9]}', 'substructure_query_id': 9}, 87: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 10], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 10]}', 'substructure_query_id': 10}, 88: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 11], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 11]}', 'substructure_query_id': 11}, 89: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 12], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 12]}', 'substructure_query_id': 12}, 90: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 13], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 13]}', 'substructure_query_id': 13}, 91: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 14], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 14]}', 'substructure_query_id': 14}, 92: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 15], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 15]}', 'substructure_query_id': 15}, 93: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 16], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 16]}', 'substructure_query_id': 16}, 94: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 17], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 17]}', 'substructure_query_id': 17}, 95: {'residue_name': '[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_TERM", 18], "4": ["[6-(hydroxymethyl)pyridin-2-yl]methanol_MID", 18]}', 'substructure_query_id': 18}}
+
+> <atom.dprop.PartialCharge>
+0.575303 -0.585740 -0.503016 0.215446 -0.368476 0.226277 -0.131162 0.224195 -0.236608 -0.047799 -0.236608 -0.131162 0.224195 -0.356629 0.226277 0.239423 -0.465201 0.817150 -0.545841 0.330477 -0.356629 0.226277 -0.131162 0.224195 0.130960 0.130960 -0.131162 0.224195 -0.368476 0.226277 0.326689 -0.484711 0.176806 0.222044 -0.638104 0.263037 0.079990 -0.105530 0.116087 0.116087 -0.331675 0.224929 -0.134225 0.235978 -0.338814 0.224778 0.099660 0.099660 0.575303 -0.585740 -0.503016 0.215446 -0.368476 0.226277 -0.131162 0.224195 -0.236608 -0.047799 -0.250386 -0.176788 0.210802 -0.245324 0.217730 0.446500 -0.306115 0.617115 -0.247271 -0.245324 0.217730 -0.176788 0.210802 0.130960 0.130960 -0.131162 0.224195 -0.368476 0.226277 0.326689 -0.105530 0.079989 0.265506 -0.633613 0.212959 0.150156 -0.664387 0.401681 0.096146 0.096146 -0.332163 0.224929 -0.132393 0.235978 -0.331675 0.224929 0.116087 0.116087
+
+$$$$

@@ -1,0 +1,122 @@
+poly(Propane-1,3-diol-co-Terephthalic acid)
+  -OEChem-01292416073D
+
+ 53 54  0     0  0  0  0  0  0999 V2000
+   -1.8340    0.6650   -0.5180 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2880   -0.5450   -0.0650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1130   -0.3310    0.5170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0990    0.1730   -0.5410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3800    0.2990    0.0120 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7610    1.1500   -0.9550 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1490   -0.5560   -1.3780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4820   -1.2970    0.9260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0570    0.3990    1.3540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9490   -0.9970    0.7100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2360   -1.2580   -0.9160 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3710    1.1620    0.5880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4670    1.6510    0.9710 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0920    1.8000    0.9490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0680    1.2660    0.5330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0790    0.3650   -0.0690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3540    1.8990    0.8910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2740    1.4460    0.5410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3790    3.0170    1.6360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6660    3.6420    1.9880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7050    4.6900    2.6860 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0980    3.6090    2.0970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0960    4.5090    2.6980 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0680    3.0350    1.7730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920    3.4810    2.1180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1050    1.1740    0.2900 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3970    2.3840    0.2580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0720    2.1700    0.6390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2200    1.6660    2.0780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5760    1.5400    2.4100 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9010    0.7140    1.9650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2990    0.6880    2.2050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2460    2.3950    2.7760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6130    3.1350    0.5350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5330    1.4400   -0.0620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4560    2.8360   -0.7580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8680    3.0970    0.9680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5960    3.2040    1.6480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4300    3.9340    1.0510 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8740    1.7760    1.8840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9730    1.0110    2.5230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0370    1.4310    2.8700 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2440   -0.4210    2.7640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4950   -1.0070    3.2820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3960   -0.9790    2.3460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6830   -2.4120    2.5800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8490   -3.1450    3.1780 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8820   -2.9630    2.1380 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0920   -3.9430    2.2910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3910   -0.1320    1.6400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3250   -0.5580    1.2950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1450    1.1660    1.4230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8840    1.7660    0.9060 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 38  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 36  1  0  0  0  0
+ 27 37  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 34  1  0  0  0  0
+ 28 35  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 32  1  0  0  0  0
+ 29 33  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 38 39  2  0  0  0  0
+ 38 40  1  0  0  0  0
+ 40 41  2  0  0  0  0
+ 40 52  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 43  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 45  2  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 50  1  0  0  0  0
+ 46 47  2  0  0  0  0
+ 46 48  1  0  0  0  0
+ 48 49  1  0  0  0  0
+ 50 51  1  0  0  0  0
+ 50 52  2  0  0  0  0
+ 52 53  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 5]}', 'substructure_query_id': 5}, 1: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 4]}', 'substructure_query_id': 4}, 2: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 3]}', 'substructure_query_id': 3}, 3: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 2]}', 'substructure_query_id': 2}, 4: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 1]}', 'substructure_query_id': 1}, 5: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 11]}', 'substructure_query_id': 11}, 6: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 12]}', 'substructure_query_id': 12}, 7: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 9]}', 'substructure_query_id': 9}, 8: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 10]}', 'substructure_query_id': 10}, 9: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 7]}', 'substructure_query_id': 7}, 10: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Propane-1,3-diol_MID", 8]}', 'substructure_query_id': 8}, 11: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 1]}', 'substructure_query_id': 1}, 12: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 2]}', 'substructure_query_id': 2}, 13: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 3]}', 'substructure_query_id': 3}, 14: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 4]}', 'substructure_query_id': 4}, 15: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 5]}', 'substructure_query_id': 5}, 16: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 6]}', 'substructure_query_id': 6}, 17: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 7]}', 'substructure_query_id': 7}, 18: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 8]}', 'substructure_query_id': 8}, 19: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 9]}', 'substructure_query_id': 9}, 20: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 11]}', 'substructure_query_id': 11}, 21: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 12]}', 'substructure_query_id': 12}, 22: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 13]}', 'substructure_query_id': 13}, 23: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 14]}', 'substructure_query_id': 14}, 24: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Terephthalic acid_MID", 15]}', 'substructure_query_id': 15}, 25: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 1], "2": ["Propane-1,3-diol_MID", 1]}', 'substructure_query_id': 1}, 26: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 2], "2": ["Propane-1,3-diol_MID", 2]}', 'substructure_query_id': 2}, 27: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 3], "2": ["Propane-1,3-diol_MID", 3]}', 'substructure_query_id': 3}, 28: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 4], "2": ["Propane-1,3-diol_MID", 4]}', 'substructure_query_id': 4}, 29: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 5], "2": ["Propane-1,3-diol_MID", 5]}', 'substructure_query_id': 5}, 30: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 6]}', 'substructure_query_id': 6}, 31: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 7], "2": ["Propane-1,3-diol_MID", 7]}', 'substructure_query_id': 7}, 32: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 8], "2": ["Propane-1,3-diol_MID", 8]}', 'substructure_query_id': 8}, 33: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 9], "2": ["Propane-1,3-diol_MID", 9]}', 'substructure_query_id': 9}, 34: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 10], "2": ["Propane-1,3-diol_MID", 10]}', 'substructure_query_id': 10}, 35: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 11], "2": ["Propane-1,3-diol_MID", 11]}', 'substructure_query_id': 11}, 36: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Propane-1,3-diol_TERM", 12], "2": ["Propane-1,3-diol_MID", 12]}', 'substructure_query_id': 12}, 37: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 1], "5": ["Terephthalic acid_MID", 1]}', 'substructure_query_id': 1}, 38: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 2], "5": ["Terephthalic acid_MID", 2]}', 'substructure_query_id': 2}, 39: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 3], "5": ["Terephthalic acid_MID", 3]}', 'substructure_query_id': 3}, 40: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 4], "5": ["Terephthalic acid_MID", 4]}', 'substructure_query_id': 4}, 41: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 5], "5": ["Terephthalic acid_MID", 5]}', 'substructure_query_id': 5}, 42: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 6], "5": ["Terephthalic acid_MID", 6]}', 'substructure_query_id': 6}, 43: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 7], "5": ["Terephthalic acid_MID", 7]}', 'substructure_query_id': 7}, 44: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 8], "5": ["Terephthalic acid_MID", 8]}', 'substructure_query_id': 8}, 45: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 9], "5": ["Terephthalic acid_MID", 9]}', 'substructure_query_id': 9}, 46: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 10], "5": ["Terephthalic acid_MID", 11]}', 'substructure_query_id': 10}, 47: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 11]}', 'substructure_query_id': 11}, 48: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 12]}', 'substructure_query_id': 12}, 49: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 13], "5": ["Terephthalic acid_MID", 12]}', 'substructure_query_id': 13}, 50: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 14], "5": ["Terephthalic acid_MID", 13]}', 'substructure_query_id': 14}, 51: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 15], "5": ["Terephthalic acid_MID", 14]}', 'substructure_query_id': 15}, 52: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["Terephthalic acid_TERM", 16], "5": ["Terephthalic acid_MID", 15]}', 'substructure_query_id': 16}}
+
+> <atom.dprop.PartialCharge>
+-0.157495 0.045991 -0.131915 0.151130 -0.503939 0.087163 0.087163 0.103839 0.103839 0.095547 0.095547 0.790811 -0.559795 -0.304377 -0.103742 0.213104 -0.060291 0.195929 -0.366078 0.581738 -0.590524 -0.060291 0.195929 -0.103742 0.213105 -0.156727 0.054422 -0.166298 0.101519 -0.676707 0.391177 0.089649 0.089649 0.107875 0.107875 0.095424 0.095424 0.581738 -0.590524 -0.366078 -0.060291 0.195929 -0.101131 0.213104 -0.293545 0.829196 -0.535115 -0.675580 0.402761 -0.101131 0.213105 -0.060291 0.195929
+
+$$$$

@@ -1,0 +1,174 @@
+poly(1,6-Diisocyanatohexane-co-Butane-1,4-diol)
+  -OEChem-01292416083D
+
+ 80 79  0     0  0  0  0  0  0999 V2000
+   -4.6940    1.3310   -0.3860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1230    1.4280    0.7950 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4430    0.6960   -0.6610 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6160    0.1360    0.4070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3330   -0.4790   -0.1610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4520   -1.0530    0.9590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7570   -1.8430    0.4270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7490   -1.0230   -0.4180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3960    0.1280    0.3640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4520    0.7620   -0.4240 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2150    1.8580    0.0880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9980    2.3100    1.2440 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6680    0.4250   -1.3900 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6290    0.8920    0.6100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8320   -0.2640    1.3090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2490   -0.6290   -1.3280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5500   -1.7130   -0.7600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3010   -2.2810    1.2930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3880   -2.6930   -0.1860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1140   -0.2370    1.6330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0630   -1.7490    1.5740 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7750    0.3100   -0.7080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6020   -1.2890   -0.8750 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1960   -0.6450    0.9450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3520    0.9440    1.1250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1300    0.6400   -1.6570 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9560    2.2870   -0.4970 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6090    1.2350   -1.1550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5780    0.5350   -0.1960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2000   -0.7400   -0.7920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2060   -0.4610   -1.9150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5350   -0.1740   -3.1100 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8340   -1.3680   -2.0610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8750    0.3840   -1.6330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7370   -1.2680    0.0260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4030   -1.4240   -1.1560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0210    0.2460    0.7220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3790    1.2430    0.1100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8640    0.5110   -1.5560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1720    1.6630   -2.0100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2810    1.7340   -1.2000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3040    1.1300   -2.3050 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0130    2.9500   -1.0110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8260    3.5560   -2.0640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.1390    2.7860   -2.2380 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0120    3.4270   -3.3280 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.3940    2.7650   -3.4450 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.3270    1.3600   -4.0650 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7260    0.7580   -4.2700 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.5060    1.5190   -5.2420 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.1930    1.5580   -6.4750 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.8870    1.5970   -7.6740 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6320   -0.2970   -4.6100 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.2690    0.7510   -3.3010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7630    0.6820   -3.3900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7910    1.3970   -5.0380 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.8740    2.7150   -2.4430 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.0270    3.4150   -4.0880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.1660    4.4990   -3.0790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.4880    3.3810   -4.3080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9090    1.7360   -2.5130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6890    2.7870   -1.2710 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2540    3.5720   -3.0180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0530    4.6070   -1.7830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9110    3.4530   -0.1010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2410    0.0130   -3.7840 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7980   -1.2250   -4.1350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7680   -1.6950   -3.0460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2840   -3.1260   -3.2750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2500   -3.2450   -4.4580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5420   -3.2580   -5.6660 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2230   -3.3190   -6.3850 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8160   -4.1990   -4.3600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9800   -2.4050   -4.4470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8270   -3.4400   -2.3560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4310   -3.8270   -3.4060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2390   -1.6740   -2.0680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6240   -0.9880   -2.9770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9920   -1.9790   -4.2930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3440   -1.0950   -5.0920 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 41  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 39  1  0  0  0  0
+ 28 40  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 37  1  0  0  0  0
+ 29 38  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 35  1  0  0  0  0
+ 30 36  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 31 33  1  0  0  0  0
+ 31 34  1  0  0  0  0
+ 32 66  1  0  0  0  0
+ 41 42  2  0  0  0  0
+ 41 43  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 65  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 44 63  1  0  0  0  0
+ 44 64  1  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 61  1  0  0  0  0
+ 45 62  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 59  1  0  0  0  0
+ 46 60  1  0  0  0  0
+ 47 48  1  0  0  0  0
+ 47 57  1  0  0  0  0
+ 47 58  1  0  0  0  0
+ 48 49  1  0  0  0  0
+ 48 55  1  0  0  0  0
+ 48 56  1  0  0  0  0
+ 49 50  1  0  0  0  0
+ 49 53  1  0  0  0  0
+ 49 54  1  0  0  0  0
+ 50 51  2  0  0  0  0
+ 51 52  2  0  0  0  0
+ 66 67  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 79  1  0  0  0  0
+ 67 80  1  0  0  0  0
+ 68 69  1  0  0  0  0
+ 68 77  1  0  0  0  0
+ 68 78  1  0  0  0  0
+ 69 70  1  0  0  0  0
+ 69 75  1  0  0  0  0
+ 69 76  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 70 73  1  0  0  0  0
+ 70 74  1  0  0  0  0
+ 71 72  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 1], "5": ["1,6-Diisocyanatohexane_MID", 11]}', 'substructure_query_id': 11}, 1: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 2], "5": ["1,6-Diisocyanatohexane_MID", 13]}', 'substructure_query_id': 13}, 2: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 3], "5": ["1,6-Diisocyanatohexane_MID", 10]}', 'substructure_query_id': 10}, 3: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 5], "5": ["1,6-Diisocyanatohexane_MID", 9]}', 'substructure_query_id': 9}, 4: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 8]}', 'substructure_query_id': 8}, 5: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 7]}', 'substructure_query_id': 7}, 6: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 6]}', 'substructure_query_id': 6}, 7: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 5]}', 'substructure_query_id': 5}, 8: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 5], "5": ["1,6-Diisocyanatohexane_MID", 4]}', 'substructure_query_id': 4}, 9: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 3], "5": ["1,6-Diisocyanatohexane_MID", 3]}', 'substructure_query_id': 3}, 10: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 1], "5": ["1,6-Diisocyanatohexane_MID", 1]}', 'substructure_query_id': 1}, 11: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 2], "5": ["1,6-Diisocyanatohexane_MID", 2]}', 'substructure_query_id': 2}, 12: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 4], "5": ["1,6-Diisocyanatohexane_MID", 27]}', 'substructure_query_id': 27}, 13: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 25]}', 'substructure_query_id': 25}, 14: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 26]}', 'substructure_query_id': 26}, 15: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 23]}', 'substructure_query_id': 23}, 16: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 24]}', 'substructure_query_id': 24}, 17: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 21]}', 'substructure_query_id': 21}, 18: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 22]}', 'substructure_query_id': 22}, 19: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 19]}', 'substructure_query_id': 19}, 20: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 20]}', 'substructure_query_id': 20}, 21: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 17]}', 'substructure_query_id': 17}, 22: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 18]}', 'substructure_query_id': 18}, 23: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 15]}', 'substructure_query_id': 15}, 24: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,6-Diisocyanatohexane_MID", 16]}', 'substructure_query_id': 16}, 25: {'residue_name': '1,6-Diisocyanatohexane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 4], "5": ["1,6-Diisocyanatohexane_MID", 14]}', 'substructure_query_id': 14}, 26: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 1]}', 'substructure_query_id': 1}, 27: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 2]}', 'substructure_query_id': 2}, 28: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 3]}', 'substructure_query_id': 3}, 29: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 4]}', 'substructure_query_id': 4}, 30: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 5]}', 'substructure_query_id': 5}, 31: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 6]}', 'substructure_query_id': 6}, 32: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 8]}', 'substructure_query_id': 8}, 33: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 9]}', 'substructure_query_id': 9}, 34: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 10]}', 'substructure_query_id': 10}, 35: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 11]}', 'substructure_query_id': 11}, 36: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 12]}', 'substructure_query_id': 12}, 37: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 13]}', 'substructure_query_id': 13}, 38: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 14]}', 'substructure_query_id': 14}, 39: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Butane-1,4-diol_MID", 15]}', 'substructure_query_id': 15}, 40: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 1], "3": ["1,6-Diisocyanatohexane_TERM", 1]}', 'substructure_query_id': 1}, 41: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 2], "3": ["1,6-Diisocyanatohexane_TERM", 2]}', 'substructure_query_id': 2}, 42: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 3], "3": ["1,6-Diisocyanatohexane_TERM", 3]}', 'substructure_query_id': 3}, 43: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 5], "3": ["1,6-Diisocyanatohexane_TERM", 4]}', 'substructure_query_id': 4}, 44: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 5]}', 'substructure_query_id': 5}, 45: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 6]}', 'substructure_query_id': 6}, 46: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 7]}', 'substructure_query_id': 7}, 47: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 8]}', 'substructure_query_id': 8}, 48: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 9]}', 'substructure_query_id': 9}, 49: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 10]}', 'substructure_query_id': 10}, 50: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 11]}', 'substructure_query_id': 11}, 51: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 12]}', 'substructure_query_id': 12}, 52: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 13]}', 'substructure_query_id': 13}, 53: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 14]}', 'substructure_query_id': 14}, 54: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 15]}', 'substructure_query_id': 15}, 55: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 16]}', 'substructure_query_id': 16}, 56: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 17]}', 'substructure_query_id': 17}, 57: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 18]}', 'substructure_query_id': 18}, 58: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 19]}', 'substructure_query_id': 19}, 59: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 20]}', 'substructure_query_id': 20}, 60: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 21]}', 'substructure_query_id': 21}, 61: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 22]}', 'substructure_query_id': 22}, 62: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 23]}', 'substructure_query_id': 23}, 63: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,6-Diisocyanatohexane_TERM", 24]}', 'substructure_query_id': 24}, 64: {'residue_name': '1,6-Diisocyanatohexane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 4], "3": ["1,6-Diisocyanatohexane_TERM", 25]}', 'substructure_query_id': 25}, 65: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 1], "7": ["Butane-1,4-diol_MID", 1]}', 'substructure_query_id': 1}, 66: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 2], "7": ["Butane-1,4-diol_MID", 2]}', 'substructure_query_id': 2}, 67: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 3], "7": ["Butane-1,4-diol_MID", 3]}', 'substructure_query_id': 3}, 68: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 4], "7": ["Butane-1,4-diol_MID", 4]}', 'substructure_query_id': 4}, 69: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 5], "7": ["Butane-1,4-diol_MID", 5]}', 'substructure_query_id': 5}, 70: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 6], "7": ["Butane-1,4-diol_MID", 6]}', 'substructure_query_id': 6}, 71: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 7]}', 'substructure_query_id': 7}, 72: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 8], "7": ["Butane-1,4-diol_MID", 8]}', 'substructure_query_id': 8}, 73: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 9], "7": ["Butane-1,4-diol_MID", 9]}', 'substructure_query_id': 9}, 74: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 10], "7": ["Butane-1,4-diol_MID", 10]}', 'substructure_query_id': 10}, 75: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 11], "7": ["Butane-1,4-diol_MID", 11]}', 'substructure_query_id': 11}, 76: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 12], "7": ["Butane-1,4-diol_MID", 12]}', 'substructure_query_id': 12}, 77: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 13], "7": ["Butane-1,4-diol_MID", 13]}', 'substructure_query_id': 13}, 78: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 14], "7": ["Butane-1,4-diol_MID", 14]}', 'substructure_query_id': 14}, 79: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Butane-1,4-diol_TERM", 15], "7": ["Butane-1,4-diol_MID", 15]}', 'substructure_query_id': 15}}
+
+> <atom.dprop.PartialCharge>
+0.544784 -0.674734 -0.520042 0.032230 -0.144688 -0.141318 -0.141318 -0.143398 0.026455 -0.463449 0.788324 -0.600061 0.328124 0.060614 0.060614 0.090907 0.090907 0.089623 0.089623 0.089623 0.089623 0.090907 0.090907 0.057007 0.057007 0.321543 -0.495468 0.114816 -0.135501 -0.142705 0.036287 -0.161066 0.090196 0.090196 0.097685 0.097685 0.096539 0.096539 0.090102 0.090102 0.544784 -0.674734 -0.520042 0.032230 -0.144688 -0.141135 -0.136937 -0.121122 0.185565 -0.628668 0.594182 -0.451634 0.034941 0.034941 0.084525 0.084525 0.088337 0.088337 0.089623 0.089623 0.090907 0.090907 0.057007 0.057007 0.321543 -0.161066 0.036400 -0.136965 -0.164017 0.089909 -0.677898 0.388180 0.081897 0.081897 0.100149 0.100149 0.097862 0.097862 0.090196 0.090196
+
+$$$$

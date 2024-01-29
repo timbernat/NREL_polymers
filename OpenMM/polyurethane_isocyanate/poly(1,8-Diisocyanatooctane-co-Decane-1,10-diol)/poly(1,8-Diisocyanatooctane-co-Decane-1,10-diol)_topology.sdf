@@ -1,0 +1,270 @@
+poly(1,8-Diisocyanatooctane-co-Decane-1,10-diol)
+  -OEChem-01292416083D
+
+128127  0     0  0  0  0  0  0999 V2000
+   -6.6880   -0.2030   -0.0790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9690   -0.4590    1.1220 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3270   -0.1340   -0.5150 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2150   -0.3550    0.4080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8710   -0.2230   -0.3160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7000   -0.4540    0.6470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3560   -0.3230   -0.0790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8160   -0.5430    0.8900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1790   -0.5550    0.1790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5930    0.8370   -0.3290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0140    0.8340   -0.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0240    0.6960    0.1430 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4190    0.6260   -0.1640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8210    0.6720   -1.3570 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7440    0.6640    1.1490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1200    0.0040   -1.6410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1840    1.7920   -1.4440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8980    1.1550   -1.1350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5300    1.5830    0.4940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1550   -1.2740   -0.6690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9360   -0.9210    0.9050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6850   -1.5260    1.3930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8090    0.2420    1.6770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3060   -1.0740   -0.8970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2870    0.6930   -0.5240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7470    0.2920    1.4700 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7820   -1.4720    1.0870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8260   -0.9690   -1.1390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7930    0.7960   -0.7550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3010   -1.3740    0.8450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2680    0.3920    1.2300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1450    0.0820   -1.5210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1110    0.5360    0.6040 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4060    0.0840    1.7280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1050   -1.4110    1.5980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3510   -1.9320    2.8310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1480   -3.4550    2.7980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1390   -3.8930    1.7220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7480   -5.3770    1.8420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9170   -6.3720    1.6980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7290   -6.2410    0.3970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8800   -6.4790   -0.8620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7400   -6.5380   -2.1280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3150   -5.2870   -2.3960 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5200   -7.3300   -2.0360 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0900   -6.8130   -2.9850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1320   -5.6660   -0.9790 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3350   -7.4430   -0.7610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5430   -6.9970    0.4300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2150   -5.2440    0.3510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6050   -6.2580    2.5620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5070   -7.4040    1.7600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9740   -5.6050    1.0780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2690   -5.5410    2.8310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2110   -3.2900    1.8300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5400   -3.6930    0.7080 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7720   -3.7740    3.7950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1280   -3.9510    2.6300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3670   -1.4210    2.9170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9390   -1.6850    3.7420 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4930   -1.5720    0.6860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0640   -1.9640    1.4840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0320    0.2600    2.6290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4600    0.6600    1.8480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4870   -0.0340   -0.7880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2740    0.6840   -1.8020 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.7730   -0.6190   -0.5590 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9000   -0.4390   -1.4730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7220   -1.2750   -2.7480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7090   -2.7810   -2.4480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.5880   -3.5960   -3.7450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4300   -5.1030   -3.4860 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.7400   -5.7640   -3.0250 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.5800   -7.2700   -2.7500 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4050   -8.1170   -4.0170 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.5750   -7.9940   -4.8770 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6490   -8.6220   -5.9800 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7210   -9.2330   -7.0540 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.2810   -9.1810   -3.7160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4910   -7.8120   -4.5680 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4830   -7.6290   -2.2100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7100   -7.4350   -2.0780 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.5380   -5.5950   -3.7790 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.0730   -5.2900   -2.0770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.1020   -5.5700   -4.4390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6290   -5.2750   -2.7340 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6890   -3.2490   -4.3010 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4740   -3.4150   -4.3920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.8500   -3.0170   -1.7840 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.6500   -3.0490   -1.9220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.7790   -0.9840   -3.2590 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.5660   -1.0470   -3.4350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9970    0.6350   -1.7400 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.8410   -0.7410   -0.9640 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9240   -1.1500    0.3280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1890   -5.2650   -1.9250 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9320   -5.5850   -0.5850 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7000   -7.0910   -0.4360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4370   -7.4660    1.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3300   -8.9850    1.2400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0490   -9.5770    0.6280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8150  -11.0420    1.0400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9280  -12.0230    0.6200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2480  -12.0400   -0.8860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0430  -12.4550   -1.7460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4310  -12.6560   -3.2130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8030  -11.4370   -3.8000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7810  -11.3370   -3.6610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2440  -13.4130   -3.3040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5490  -13.0510   -3.7610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2490  -11.6790   -1.6910 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6240  -13.4090   -1.3580 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0710  -12.7690   -1.0470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6260  -11.0470   -1.2060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8580  -11.7850    1.1790 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6280  -13.0460    0.9330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8460  -11.3810    0.6160 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7060  -11.0890    2.1450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1750   -8.9850    0.9770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0740   -9.4990   -0.4780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3310   -9.1820    2.3340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2270   -9.4770    0.8060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5080   -6.9700    1.3880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2790   -7.0930    1.6540 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8290   -7.3790   -1.0610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5970   -7.6330   -0.8070 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8110   -5.2820    0.0230 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0460   -5.0180   -0.2160 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 65  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 32  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 30  1  0  0  0  0
+  4 31  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 28  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 33  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 34 35  1  0  0  0  0
+ 34 63  1  0  0  0  0
+ 34 64  1  0  0  0  0
+ 35 36  1  0  0  0  0
+ 35 61  1  0  0  0  0
+ 35 62  1  0  0  0  0
+ 36 37  1  0  0  0  0
+ 36 59  1  0  0  0  0
+ 36 60  1  0  0  0  0
+ 37 38  1  0  0  0  0
+ 37 57  1  0  0  0  0
+ 37 58  1  0  0  0  0
+ 38 39  1  0  0  0  0
+ 38 55  1  0  0  0  0
+ 38 56  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 39 53  1  0  0  0  0
+ 39 54  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 51  1  0  0  0  0
+ 40 52  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 49  1  0  0  0  0
+ 41 50  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 42 47  1  0  0  0  0
+ 42 48  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 45  1  0  0  0  0
+ 43 46  1  0  0  0  0
+ 44 96  1  0  0  0  0
+ 65 66  2  0  0  0  0
+ 65 67  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 95  1  0  0  0  0
+ 68 69  1  0  0  0  0
+ 68 93  1  0  0  0  0
+ 68 94  1  0  0  0  0
+ 69 70  1  0  0  0  0
+ 69 91  1  0  0  0  0
+ 69 92  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 70 89  1  0  0  0  0
+ 70 90  1  0  0  0  0
+ 71 72  1  0  0  0  0
+ 71 87  1  0  0  0  0
+ 71 88  1  0  0  0  0
+ 72 73  1  0  0  0  0
+ 72 85  1  0  0  0  0
+ 72 86  1  0  0  0  0
+ 73 74  1  0  0  0  0
+ 73 83  1  0  0  0  0
+ 73 84  1  0  0  0  0
+ 74 75  1  0  0  0  0
+ 74 81  1  0  0  0  0
+ 74 82  1  0  0  0  0
+ 75 76  1  0  0  0  0
+ 75 79  1  0  0  0  0
+ 75 80  1  0  0  0  0
+ 76 77  2  0  0  0  0
+ 77 78  2  0  0  0  0
+ 96 97  1  0  0  0  0
+ 97 98  1  0  0  0  0
+ 97127  1  0  0  0  0
+ 97128  1  0  0  0  0
+ 98 99  1  0  0  0  0
+ 98125  1  0  0  0  0
+ 98126  1  0  0  0  0
+ 99100  1  0  0  0  0
+ 99123  1  0  0  0  0
+ 99124  1  0  0  0  0
+100101  1  0  0  0  0
+100121  1  0  0  0  0
+100122  1  0  0  0  0
+101102  1  0  0  0  0
+101119  1  0  0  0  0
+101120  1  0  0  0  0
+102103  1  0  0  0  0
+102117  1  0  0  0  0
+102118  1  0  0  0  0
+103104  1  0  0  0  0
+103115  1  0  0  0  0
+103116  1  0  0  0  0
+104105  1  0  0  0  0
+104113  1  0  0  0  0
+104114  1  0  0  0  0
+105106  1  0  0  0  0
+105111  1  0  0  0  0
+105112  1  0  0  0  0
+106107  1  0  0  0  0
+106109  1  0  0  0  0
+106110  1  0  0  0  0
+107108  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 1], "5": ["1,8-Diisocyanatooctane_MID", 13]}', 'substructure_query_id': 13}, 1: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 2], "5": ["1,8-Diisocyanatooctane_MID", 15]}', 'substructure_query_id': 15}, 2: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 3], "5": ["1,8-Diisocyanatooctane_MID", 12]}', 'substructure_query_id': 12}, 3: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 5], "5": ["1,8-Diisocyanatooctane_MID", 11]}', 'substructure_query_id': 11}, 4: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 10]}', 'substructure_query_id': 10}, 5: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 9]}', 'substructure_query_id': 9}, 6: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 8]}', 'substructure_query_id': 8}, 7: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 7]}', 'substructure_query_id': 7}, 8: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 6]}', 'substructure_query_id': 6}, 9: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 5]}', 'substructure_query_id': 5}, 10: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 5], "5": ["1,8-Diisocyanatooctane_MID", 4]}', 'substructure_query_id': 4}, 11: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 3], "5": ["1,8-Diisocyanatooctane_MID", 3]}', 'substructure_query_id': 3}, 12: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 1], "5": ["1,8-Diisocyanatooctane_MID", 1]}', 'substructure_query_id': 1}, 13: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 2], "5": ["1,8-Diisocyanatooctane_MID", 2]}', 'substructure_query_id': 2}, 14: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 4], "5": ["1,8-Diisocyanatooctane_MID", 33]}', 'substructure_query_id': 33}, 15: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 31]}', 'substructure_query_id': 31}, 16: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 32]}', 'substructure_query_id': 32}, 17: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 29]}', 'substructure_query_id': 29}, 18: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 30]}', 'substructure_query_id': 30}, 19: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 27]}', 'substructure_query_id': 27}, 20: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 28]}', 'substructure_query_id': 28}, 21: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 25]}', 'substructure_query_id': 25}, 22: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 26]}', 'substructure_query_id': 26}, 23: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 23]}', 'substructure_query_id': 23}, 24: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 24]}', 'substructure_query_id': 24}, 25: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 21]}', 'substructure_query_id': 21}, 26: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 22]}', 'substructure_query_id': 22}, 27: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 19]}', 'substructure_query_id': 19}, 28: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 20]}', 'substructure_query_id': 20}, 29: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 17]}', 'substructure_query_id': 17}, 30: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,8-Diisocyanatooctane_MID", 18]}', 'substructure_query_id': 18}, 31: {'residue_name': '1,8-Diisocyanatooctane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 4], "5": ["1,8-Diisocyanatooctane_MID", 16]}', 'substructure_query_id': 16}, 32: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 1]}', 'substructure_query_id': 1}, 33: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 2]}', 'substructure_query_id': 2}, 34: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 3]}', 'substructure_query_id': 3}, 35: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 4]}', 'substructure_query_id': 4}, 36: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 5]}', 'substructure_query_id': 5}, 37: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 6]}', 'substructure_query_id': 6}, 38: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 7]}', 'substructure_query_id': 7}, 39: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 8]}', 'substructure_query_id': 8}, 40: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 9]}', 'substructure_query_id': 9}, 41: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 10]}', 'substructure_query_id': 10}, 42: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 11]}', 'substructure_query_id': 11}, 43: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 12]}', 'substructure_query_id': 12}, 44: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 14]}', 'substructure_query_id': 14}, 45: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 15]}', 'substructure_query_id': 15}, 46: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 16]}', 'substructure_query_id': 16}, 47: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 17]}', 'substructure_query_id': 17}, 48: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 18]}', 'substructure_query_id': 18}, 49: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 19]}', 'substructure_query_id': 19}, 50: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 20]}', 'substructure_query_id': 20}, 51: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 21]}', 'substructure_query_id': 21}, 52: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 22]}', 'substructure_query_id': 22}, 53: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 23]}', 'substructure_query_id': 23}, 54: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 24]}', 'substructure_query_id': 24}, 55: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 25]}', 'substructure_query_id': 25}, 56: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 26]}', 'substructure_query_id': 26}, 57: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 27]}', 'substructure_query_id': 27}, 58: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 28]}', 'substructure_query_id': 28}, 59: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 29]}', 'substructure_query_id': 29}, 60: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 30]}', 'substructure_query_id': 30}, 61: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 31]}', 'substructure_query_id': 31}, 62: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 32]}', 'substructure_query_id': 32}, 63: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 33]}', 'substructure_query_id': 33}, 64: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 1], "3": ["1,8-Diisocyanatooctane_TERM", 1]}', 'substructure_query_id': 1}, 65: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 2], "3": ["1,8-Diisocyanatooctane_TERM", 2]}', 'substructure_query_id': 2}, 66: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 3], "3": ["1,8-Diisocyanatooctane_TERM", 3]}', 'substructure_query_id': 3}, 67: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 5], "3": ["1,8-Diisocyanatooctane_TERM", 4]}', 'substructure_query_id': 4}, 68: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 5]}', 'substructure_query_id': 5}, 69: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 6]}', 'substructure_query_id': 6}, 70: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 7]}', 'substructure_query_id': 7}, 71: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 8]}', 'substructure_query_id': 8}, 72: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 9]}', 'substructure_query_id': 9}, 73: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 10]}', 'substructure_query_id': 10}, 74: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 11]}', 'substructure_query_id': 11}, 75: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 12]}', 'substructure_query_id': 12}, 76: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 13]}', 'substructure_query_id': 13}, 77: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 14]}', 'substructure_query_id': 14}, 78: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 15]}', 'substructure_query_id': 15}, 79: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 16]}', 'substructure_query_id': 16}, 80: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 17]}', 'substructure_query_id': 17}, 81: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 18]}', 'substructure_query_id': 18}, 82: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 19]}', 'substructure_query_id': 19}, 83: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 20]}', 'substructure_query_id': 20}, 84: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 21]}', 'substructure_query_id': 21}, 85: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 22]}', 'substructure_query_id': 22}, 86: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 23]}', 'substructure_query_id': 23}, 87: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 24]}', 'substructure_query_id': 24}, 88: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 25]}', 'substructure_query_id': 25}, 89: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 26]}', 'substructure_query_id': 26}, 90: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 27]}', 'substructure_query_id': 27}, 91: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 28]}', 'substructure_query_id': 28}, 92: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 29]}', 'substructure_query_id': 29}, 93: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,8-Diisocyanatooctane_TERM", 30]}', 'substructure_query_id': 30}, 94: {'residue_name': '1,8-Diisocyanatooctane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 4], "3": ["1,8-Diisocyanatooctane_TERM", 31]}', 'substructure_query_id': 31}, 95: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 1], "7": ["Decane-1,10-diol_MID", 1]}', 'substructure_query_id': 1}, 96: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 2], "7": ["Decane-1,10-diol_MID", 2]}', 'substructure_query_id': 2}, 97: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 3], "7": ["Decane-1,10-diol_MID", 3]}', 'substructure_query_id': 3}, 98: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 4], "7": ["Decane-1,10-diol_MID", 4]}', 'substructure_query_id': 4}, 99: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 5], "7": ["Decane-1,10-diol_MID", 5]}', 'substructure_query_id': 5}, 100: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 6], "7": ["Decane-1,10-diol_MID", 6]}', 'substructure_query_id': 6}, 101: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 7], "7": ["Decane-1,10-diol_MID", 7]}', 'substructure_query_id': 7}, 102: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 8], "7": ["Decane-1,10-diol_MID", 8]}', 'substructure_query_id': 8}, 103: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 9], "7": ["Decane-1,10-diol_MID", 9]}', 'substructure_query_id': 9}, 104: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 10], "7": ["Decane-1,10-diol_MID", 10]}', 'substructure_query_id': 10}, 105: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 11], "7": ["Decane-1,10-diol_MID", 11]}', 'substructure_query_id': 11}, 106: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 12], "7": ["Decane-1,10-diol_MID", 12]}', 'substructure_query_id': 12}, 107: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 13]}', 'substructure_query_id': 13}, 108: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 14], "7": ["Decane-1,10-diol_MID", 14]}', 'substructure_query_id': 14}, 109: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 15], "7": ["Decane-1,10-diol_MID", 15]}', 'substructure_query_id': 15}, 110: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 16], "7": ["Decane-1,10-diol_MID", 16]}', 'substructure_query_id': 16}, 111: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 17], "7": ["Decane-1,10-diol_MID", 17]}', 'substructure_query_id': 17}, 112: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 18], "7": ["Decane-1,10-diol_MID", 18]}', 'substructure_query_id': 18}, 113: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 19], "7": ["Decane-1,10-diol_MID", 19]}', 'substructure_query_id': 19}, 114: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 20], "7": ["Decane-1,10-diol_MID", 20]}', 'substructure_query_id': 20}, 115: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 21], "7": ["Decane-1,10-diol_MID", 21]}', 'substructure_query_id': 21}, 116: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 22], "7": ["Decane-1,10-diol_MID", 22]}', 'substructure_query_id': 22}, 117: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 23], "7": ["Decane-1,10-diol_MID", 23]}', 'substructure_query_id': 23}, 118: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 24], "7": ["Decane-1,10-diol_MID", 24]}', 'substructure_query_id': 24}, 119: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 25], "7": ["Decane-1,10-diol_MID", 25]}', 'substructure_query_id': 25}, 120: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 26], "7": ["Decane-1,10-diol_MID", 26]}', 'substructure_query_id': 26}, 121: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 27], "7": ["Decane-1,10-diol_MID", 27]}', 'substructure_query_id': 27}, 122: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 28], "7": ["Decane-1,10-diol_MID", 28]}', 'substructure_query_id': 28}, 123: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 29], "7": ["Decane-1,10-diol_MID", 29]}', 'substructure_query_id': 29}, 124: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 30], "7": ["Decane-1,10-diol_MID", 30]}', 'substructure_query_id': 30}, 125: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 31], "7": ["Decane-1,10-diol_MID", 31]}', 'substructure_query_id': 31}, 126: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 32], "7": ["Decane-1,10-diol_MID", 32]}', 'substructure_query_id': 32}, 127: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 33], "7": ["Decane-1,10-diol_MID", 33]}', 'substructure_query_id': 33}}
+
+> <atom.dprop.PartialCharge>
+0.541582 -0.695446 -0.523971 0.029960 -0.146567 -0.141882 -0.141496 -0.141496 -0.141882 -0.145286 0.024106 -0.467940 0.784492 -0.618034 0.323857 0.053977 0.053977 0.086062 0.086062 0.084917 0.084917 0.084151 0.084151 0.084151 0.084151 0.084917 0.084917 0.086062 0.086062 0.050439 0.050439 0.317273 -0.499245 0.113533 -0.139327 -0.140382 -0.141579 -0.140252 -0.140252 -0.141528 -0.139112 -0.145318 0.035131 -0.170905 0.083762 0.083762 0.091037 0.091037 0.086091 0.086091 0.084151 0.084151 0.084151 0.084151 0.084151 0.084151 0.084151 0.084151 0.085915 0.085915 0.089953 0.089953 0.083825 0.083825 0.541582 -0.695446 -0.523971 0.029960 -0.146567 -0.141882 -0.141496 -0.141315 -0.137500 -0.122942 0.183374 -0.654660 0.592632 -0.482389 0.029486 0.029486 0.079711 0.079711 0.083640 0.083640 0.084151 0.084151 0.084151 0.084151 0.084917 0.084917 0.086062 0.086062 0.050439 0.050439 0.317273 -0.170905 0.035131 -0.145318 -0.139112 -0.141528 -0.140252 -0.140252 -0.141528 -0.135027 -0.167242 0.088409 -0.681680 0.382447 0.074693 0.074693 0.093392 0.093392 0.086091 0.086091 0.084151 0.084151 0.084151 0.084151 0.084151 0.084151 0.084151 0.084151 0.086091 0.086091 0.091037 0.091037 0.083762 0.083762
+
+$$$$
