@@ -1,58 +1,73 @@
 Chemistry,Molecule,Angle (kcal/mol),Bond (kcal/mol),Dihedral (kcal/mol),Potential (kcal/mol),vdW (kcal/mol),Coulomb (kcal/mol)
-NIPU,NIPU_10,1464.979,1177.0361,315.7242,43627.066,41702.769799999995,-1033.4404
-NIPU,NIPU_11,940.1827,1039.7645,276.4011,3418594.7646,3416824.3483,-485.48930000000007
-NIPU,NIPU_12,936.3028,1033.4167,300.9877,2129.6208,698.2564,-839.3429
-NIPU,NIPU_2,1725.102,1050.6371,390.4701,64613163.8853,64611236.6278,-1235.0014999999999
-NIPU,NIPU_8,994.7223,939.9698,312.5088,2994.6808,1173.0706,-425.5897
-NIPU,NIPU_9,953.5693,1030.6256,281.7358,576201.7948,574282.4734,-346.57429999999994
-urethane,urethane_1,725.4003,841.3459,156.821,3775.9851,3169.3338,-1116.9160000000002
-urethane,urethane_10,1070.3106,633.0817,465.9121,1843.4328,501.4488,-827.3202999999999
-urethane,urethane_12,741.1011,936.4742,210.015,17941.8348,17671.0111,-1616.7657
-urethane,urethane_13,575.8502,717.7118,112.4079,1784.6714,1117.694,-738.9924
-urethane,urethane_14,1328.1954,650.5202,282.76,149199.3548,147559.26669999998,-621.341
-urethane,urethane_15,816.9968,629.7148,276.2996,635327190.4291,635326071.2842,-565.158
-urethane,urethane_16,897.4787,644.1676,194.8601,10648090.08,10646900.794,-547.9419
-urethane,urethane_17,1741.5982,1521.4752,326.812,76048515319.6603,76048513752.9641,-3566.1787
-urethane,urethane_18,718.5248,629.9913,170.9781,3527.4599,3015.9912000000004,-1008.0257
-urethane,urethane_19,1329.0353,651.3659,277.7959,23697417574.8029,23697416343.974697,-648.6794
-urethane,urethane_2,1307.5052,647.7079,219.9248,4010178.2094,4008808.7914,-805.9805
-urethane,urethane_21,2074.3112,1829.8451,396.4748,197280004264.8726,197279995250.1698,-2836.5144
-urethane,urethane_23,494.7744,712.3935,53.9121,2551.6797,2027.0526,-736.4531
-urethane,urethane_24,710.6854,616.4662,177.6603,2562604959797.691,2562604962435.4556,-201.38690000000003
-urethane,urethane_26,634.5888,624.8095,228.5454,18461.6821,17990.857799999998,-1017.1169
-urethane,urethane_29,599.1136,822.2865,177.7349,684.4724,405.1012,-1319.7637999999997
-urethane,urethane_3,409.0155,594.1615,91.3075,30035864.1994,30035438.3345,-670.2657
-urethane,urethane_31,888.5591,655.2848,233.4105,12921601.7451,12920057.796899999,-232.6207
-urethane,urethane_32,676.5683,627.5007,143.0098,592253921.035,592253612.1484,-1022.8579
-urethane,urethane_33,489.8905,599.0784,160.3545,3433711226521.388,3433711228619.588,-536.4574
-urethane,urethane_34,977.0853,628.2897,187.755,23990107466.676,23990108006.856503,-576.1867
-urethane,urethane_35,642.972,938.2825,72.7398,2740.225,2503.4215,-1417.1908999999998
-urethane,urethane_36,1137.2077,636.1647,519.3126,1830.6109,198.6711,-660.7453
-urethane,urethane_37,716.0589,619.4731,199.6749,4086.9329,3099.7484,-548.0228
-urethane,urethane_39,725.5664,625.8189,198.3839,7066.3608,6303.7941,-787.2013999999999
-urethane,urethane_40,632.5229,612.4052,150.9659,3335.4961,2652.0832,-712.4812999999999
-urethane,urethane_41,1772.6337,678.9329,328.0828,150478.2631,148247.01419999998,-548.3948
-urethane,urethane_42,1735.8002,1538.8286,231.4421,77019454800.9201,77019445931.0696,-3753.6093
-urethane,urethane_43,1223.0334,653.8066,484.001,2355304191342.7725,2355304193848.365,4664.1069
-urethane,urethane_44,996.7395,1131.6646,267.4205,22228429.1542,22227922.5421,-1890.7471999999998
-urethane,urethane_46,536.0869,603.6788,127.2272,180105.9546,179408.434,-569.4685
-urethane,urethane_47,1158.8372,965.5097,290.411,2004.0543,1310.1988999999999,-1720.9021
-urethane,urethane_48,2006.7206,1653.415,378.2049,1106.3023,498.1846,-3430.2236000000003
-urethane,urethane_49,1458.0015,720.0151,235.8394,3609.0344,2891.7774999999997,-1696.5990000000002
-urethane,urethane_5,1036.4399,625.9435,434.5786,2052738263347.1152,2052738265590.8003,-749.3645
-urethane,urethane_50,1287.421,646.3993,179.1081,387506180884839.4,387506180887738.0,-870.7818
-urethane,urethane_51,790.8953,617.6525,111.5041,23939432269.7676,23939431067.867,-555.6745
-urethane,urethane_52,884.4422,623.4035,186.273,23859198013.258,23859196471.6816,-678.8042
-urethane,urethane_53,802.3654,634.4806,204.0338,344287.1607,343729.642,-1083.3541
-urethane,urethane_54,625.173,613.7287,166.6244,345417.6007,344893.93340000004,-881.8317999999999
-urethane,urethane_55,627.7131,609.0258,282.3683,182280.2287,181628.1629,-867.0624
-urethane,urethane_56,577.0522,615.363,130.6595,123199790.7907,123198911.7031,-438.3736
-urethane,urethane_58,615.872,606.8109,136.0324,349735.015,348915.7074,-539.4167
-urethane,urethane_59,515.1033,817.6022,89.652,95349.1778,95235.54470000001,-1308.719
-urethane,urethane_6,1116.3384,937.7565,254.1276,22218983.7961,22218243.1979,-1571.47
-urethane,urethane_60,531.8399,602.0465,104.827,2938408.019,2937627.0476,-457.65369999999996
-urethane,urethane_61,447.9994,596.349,130.8403,678791687026.9127,678791689115.4194,-805.3534
-urethane,urethane_62,902.8854,647.2761,274.4898,2047.0165,1248.1216,-1025.7563
-urethane,urethane_7,658.954,607.2361,298.9246,242315.3208,241218.227,-468.0102
-urethane,urethane_8,710.0548,611.9141,196.0715,23907609992.4161,23907608191.681,-630.8235999999999
-urethane,urethane_9,592.8008,710.7822,195.9226,17884.459,17254.3664,-869.4128
+polycarbonate_phosgene,"poly(1,1,1',1'-tetramethyl-3,3'-spirobi[2H-indene]-5,5'-diol-co-Carbonyl dichloride)",187.141,173.0979,33.8524,310.1291,55.0063,-138.9685
+polyurethane_isocyanate,"poly(1,3-Bis(isocyanatomethyl)cyclohexane-co-Butane-1,4-diol)",132.1359,149.6479,31.4386,22642166.0386,22641824.7185,29.426800000000014
+polyurethane_isocyanate,"poly(1,3-Bis(isocyanatomethyl)cyclohexane-co-[4-(hydroxymethyl)cyclohexyl]methanol)",171.8093,153.7217,47.3881,519.6899,122.50559999999999,24.265299999999996
+polyurethane_isocyanate,"poly(1,3-Bis(isocyanatomethyl)cyclohexane-co-[8-(hydroxymethyl)-4-tricyclo[5.2.1.02,6]decanyl]methanol)",243.2126,155.0413,86.8057,76195.3768,75657.8804,52.4409
+polyurethane_isocyanate,"poly(1,4-Diisocyanatocyclohexane-co-[8-(hydroxymethyl)-3-tricyclo[5.2.1.02,6]decanyl]methanol)",225.4009,153.5499,78.1473,958542379.933,958542012.0678,10.8112
+polyurethane_isocyanate,"poly(1,4-diisocyanatobutane-co-Propane-1,3-diol)",80.9296,145.6617,12.9029,446.4052,216.4877,-9.576699999999988
+polyamide,"poly(1,5-bis(3-aminophenyl)penta-1,4-dien-3-one-co-Benzene-1,3-dicarboxylic acid)",138.9619,232.3977,27.334,396.042,240.9566,-243.6081
+polyamide,"poly(1,5-bis(3-aminophenyl)penta-1,4-dien-3-one-co-hexanedioic acid)",145.241,208.1702,35.1983,2621596383501.305,2621596384234.6704,-301.20730000000003
+polyurethane_isocyanate,"poly(1,6-Diisocyanatohexane-co-2,3,3a,5,6,6a-hexahydrofuro[5,4-d]furan-3,6-diol)",138.3516,148.3307,47.9924,469.5444,83.5955,51.274100000000004
+polyurethane_isocyanate,"poly(1,6-Diisocyanatohexane-co-Butane-1,4-diol)",111.4422,147.4894,15.4347,22352025.1579,22351741.7064,10.952299999999994
+polyurethane_isocyanate,"poly(1,6-Diisocyanatohexane-co-Decane-1,10-diol)",170.0814,151.291,21.5573,4528657.323,4528309.1491,5.207300000000004
+polyurethane_isocyanate,"poly(1,6-Diisocyanatohexane-co-[6-(hydroxymethyl)pyridin-2-yl]methanol)",119.8601,173.3177,7.0193,10644.6406,10339.7334,4.711500000000001
+polyurethane_isocyanate,"poly(1,6-Diisocyanatohexane-co-[8-(hydroxymethyl)-4-tricyclo[5.2.1.02,6]decanyl]methanol)",222.5734,152.4936,70.9224,504324.7614,503833.5965,45.191
+polyurethane_isocyanate,"poly(1,8-Diisocyanatooctane-co-icosane-1,20-diol)",285.5275,158.3242,54.7887,979.1167,465.7386,14.737699999999997
+polyurethane_isocyanate,poly(1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene-co-2-(2-hydroxyethyl-phenylamino)ethanol),157.8191,223.7433,22.5605,373.7652,188.09199999999998,-218.4495
+polyurethane_isocyanate,"poly(1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene-co-2-(dimethylaminomethyl)-2-methylpropane-1,3-diol)",152.6983,199.9714,19.2782,421.1355,129.1526,-79.96480000000001
+polyurethane_isocyanate,"poly(1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene-co-Ethane-1,2-diol)",106.1852,194.4924,17.5487,80449393.6514,80449193.5817,-102.82379999999999
+polyurethane_isocyanate,poly(1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene-co-[6-(hydroxymethyl)pyridin-2-yl]methanol),134.6298,221.3159,14.3269,13940.6888,13737.449799999999,-167.03269999999998
+polycarbonate_phosgene,"poly(2,6-dibromo-4-[2-(3,5-dibromo-4-hydroxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]phenol-co-Carbonyl dichloride)",113.4865,182.5675,4.1444,55039.9929,54766.7859,-26.9924
+polycarbonate_phosgene,"poly(2,6-dibromo-4-[2-(3,5-dibromo-4-hydroxyphenyl)propan-2-yl]phenol-co-Carbonyl dichloride)",109.0525,178.6317,3.7064,45549.1651,45301.7275,-43.9516
+polycarbonate_phosgene,"poly(2,6-dichloro-4-[2-(3,5-dichloro-4-hydroxyphenyl)propan-2-yl]phenol-co-Carbonyl dichloride)",108.6247,178.4559,3.6677,339.173,65.0997,-16.6751
+polycarbonate_phosgene,poly(2-ethyl-4-[2-(3-ethyl-4-hydroxyphenyl)propan-2-yl]phenol-co-Carbonyl dichloride),143.342,182.144,3.1816,400705.683,400474.0556,-97.05089999999998
+polycarbonate_phosgene,"poly(3,3,3',3'-tetramethyl-1,1'-spirobi[2H-indene]-5,5'-diol-co-Carbonyl dichloride)",187.6599,172.2915,34.132,5220.8892,4942.8682,-116.0618
+polyamide,"poly(3,3-bis[4-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]phenyl]-2-phenylisoindol-1-one-co-Benzene-1,3-dicarboxylic acid)",375.4158,392.4533,76.8642,645.7356,199.142,-398.13970000000006
+polycarbonate_phosgene,"poly(4,4-bis(4-hydroxy-3-methylphenyl)pentanenitrile-co-Carbonyl dichloride)",141.7665,183.9005,10.6994,141151399.6126,141151161.7685,-89.3508
+polyamide,poly(4-(4-amino-2-methylphenyl)-3-methylaniline-co-5-(3-carboxy-4-methoxycarbonylbenzoyl)-2-methoxycarbonylbenzoic acid),211.8583,269.3735,51.3932,3177470734.1184,3177470864.6183,-306.57759999999996
+polyamide,"poly(4-(4-aminophenoxy)aniline-co-1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid)",219.026,258.165,39.5765,469.9677,158.661,-205.4609
+polycarbonate_phosgene,poly(4-[(4-hydroxyphenyl)methyl]phenol-co-Carbonyl dichloride),86.8438,172.3549,9.6029,270.4301,53.510600000000004,-51.882
+polycarbonate_phosgene,"poly(4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxy-3,5-dimethylphenyl)propan-2-yl]-2,6-dimethylphenol-co-Carbonyl dichloride)",147.0793,186.4228,9.2455,256.9724,62.8334,-148.60860000000002
+polycarbonate_phosgene,"poly(4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenol-co-Carbonyl dichloride)",110.877,181.3827,3.9974,274.3059,64.5732,-86.52420000000001
+polycarbonate_phosgene,poly(4-[1-(4-hydroxy-3-methylphenyl)cyclohexyl]-2-methylphenol-co-Carbonyl dichloride),160.5598,183.4989,20.6734,393.3988,74.0956,-45.42890000000001
+polycarbonate_phosgene,poly(4-[1-(4-hydroxyphenyl)-1-phenylethyl]phenol-co-Carbonyl dichloride),129.5533,202.2251,10.2928,326.3815,65.8962,-81.58579999999999
+polycarbonate_phosgene,poly(4-[1-(4-hydroxyphenyl)cycloheptyl]phenol-co-Carbonyl dichloride),155.249,181.9174,19.6079,317.0711,74.9499,-114.65310000000001
+polycarbonate_phosgene,poly(4-[1-(4-hydroxyphenyl)cyclohexyl]phenol-co-Carbonyl dichloride),140.2579,181.7449,14.6873,62575678.3725,62575421.9663,-91.0968
+polycarbonate_phosgene,"poly(4-[2,2-dichloro-1-(4-hydroxyphenyl)ethenyl]phenol-co-Carbonyl dichloride)",89.1222,173.3408,29.6657,929111.7182,928913.9191,-94.1709
+polyamide,"poly(4-[2-(4-aminophenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]aniline-co-1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid)",243.5368,264.5068,26.0961,439.4044,201.2717,-296.0071
+polycarbonate_phosgene,"poly(4-[2-(4-hydroxy-3,5-dimethylphenyl)propan-2-yl]-2,6-dimethylphenol-co-Carbonyl dichloride)",144.4781,181.0593,7.4253,284.1793,61.013799999999996,-109.79729999999999
+polycarbonate_phosgene,poly(4-[2-(4-hydroxy-3-methylphenyl)propan-2-yl]-2-methylphenol-co-Carbonyl dichloride),123.7033,179.2051,3.2276,13857375.0154,13857176.795,-107.71790000000001
+polycarbonate_phosgene,poly(4-[2-(4-hydroxy-3-propan-2-ylphenyl)propan-2-yl]-2-propan-2-ylphenol-co-Carbonyl dichloride),164.9405,183.9265,10.4996,305.0757,64.05630000000001,-118.3473
+polycarbonate_phosgene,poly(4-[2-(4-hydroxyphenyl)butan-2-yl]phenol-co-Carbonyl dichloride),117.6524,178.5677,6.8761,6468.2637,6275.7297,-110.56219999999999
+polycarbonate_phosgene,poly(4-[2-(4-hydroxyphenyl)pentan-2-yl]phenol-co-Carbonyl dichloride),126.7682,179.853,12.5998,274.7396,51.7607,-96.2422
+polycarbonate_phosgene,poly(4-[2-(4-hydroxyphenyl)propan-2-yl]phenol-co-Carbonyl dichloride),106.5312,177.3639,3.6219,2693.9269,2524.5607999999997,-118.1508
+polycarbonate_phosgene,poly(4-[4-(4-hydroxy-3-methylphenyl)heptan-4-yl]-2-methylphenol-co-Carbonyl dichloride),168.6175,186.5676,14.9234,2210.1511,1894.0665,-54.02420000000001
+polycarbonate_phosgene,poly(4-[4-(4-hydroxyphenyl)heptan-4-yl]phenol-co-Carbonyl dichloride),149.6509,182.7333,11.6119,31367550.1212,31367326.2186,-119.1917
+polyamide,"poly(4-[4-[2-[4-(4-aminophenoxy)phenyl]propan-2-yl]phenoxy]aniline-co-1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid)",316.573,316.1709,36.6001,10104466.3673,10104174.8574,-378.8796
+polyamide,"poly(4-[4-[4-[1-[4-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]phenyl]cyclohexyl]phenoxy]-3-(trifluoromethyl)phenyl]aniline-co-4-[2-(4-carboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]benzoic acid)",399.1213,376.8418,90.4497,559.2511,144.1715,-451.33299999999997
+polyamide,"poly(4-[4-[4-[1-[4-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]phenyl]cyclohexyl]phenoxy]-3-(trifluoromethyl)phenyl]aniline-co-5-tert-butylbenzene-1,3-dicarboxylic acid)",370.8855,349.3092,72.0712,27540497.065,27540150.4219,-448.6082
+polyamide,"poly(4-[4-[4-[1-[4-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]phenyl]cyclohexyl]phenoxy]-3-(trifluoromethyl)phenyl]aniline-co-Benzene-1,3-dicarboxylic acid)",335.266,344.185,84.3849,520.0714,119.3517,-363.11609999999996
+polyamide,poly(4-[4-[4-[1-[4-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]phenyl]cyclohexyl]phenoxy]-3-(trifluoromethyl)phenyl]aniline-co-Terephthalic acid),335.1586,344.3505,85.3372,616.0232,174.3065,-323.1296
+polyamide,"poly(4-[4-[4-[1-[4-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]phenyl]cyclohexyl]phenoxy]-3-(trifluoromethyl)phenyl]aniline-co-naphthalene-2,6-dicarboxylic acid)",355.6838,365.6216,85.5834,6065.4355,5623.8489,-365.3021
+polyamide,"poly(4-[4-[4-[2-[4-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]phenyl]-1,1,1,3,3,3-hexafluoropropan-2-yl]phenoxy]-3-(trifluoromethyl)phenyl]aniline-co-Benzene-1,3-dicarboxylic acid)",300.7569,342.6682,48.7917,611790266.7713,611790007.2167,-442.89279999999997
+polyamide,"poly(4-[4-[4-[2-[4-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]phenyl]propan-2-yl]phenoxy]-3-(trifluoromethyl)phenyl]aniline-co-Benzene-1,3-dicarboxylic acid)",297.5241,338.5953,47.3553,88785239597.819,88785240714.9175,-494.5891
+polyamide,"poly(4-[4-[4-[9-[4-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]phenyl]fluoren-9-yl]phenoxy]-3-(trifluoromethyl)phenyl]aniline-co-Benzene-1,3-dicarboxylic acid)",377.9789,382.2463,62.3544,2942631559004.628,2942631560208.0435,-389.87010000000004
+polyamide,"poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-4-[2-(4-carboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]benzoic acid)",439.7001,412.7029,66.3887,191568122708343.0,191568122709816.88,-762.1904000000001
+polyamide,"poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-5-tert-butylbenzene-1,3-dicarboxylic acid)",411.4782,384.7087,54.0958,191568122708554.9,191568122709808.03,-740.3222000000001
+polyamide,"poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-Benzene-1,3-dicarboxylic acid)",375.7688,379.7002,59.0903,191568122708567.6,191568122709796.16,-669.2092
+polyamide,"poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-Terephthalic acid)",375.6986,379.7703,60.5061,191568122708567.6,191568122709797.7,-629.9997000000001
+polyamide,"poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-naphthalene-2,6-dicarboxylic acid)",396.1889,401.2896,62.9086,191568122708549.12,191568122709808.72,-675.2696000000001
+polyamide,"poly(4-[4-amino-2-(trifluoromethyl)phenyl]-3-(trifluoromethyl)aniline-co-1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid)",229.9663,260.6828,50.6868,5080.1126,4655.6803,-116.90279999999998
+polycarbonate_phosgene,poly(4-[5-(4-hydroxyphenyl)nonan-5-yl]phenol-co-Carbonyl dichloride),168.0249,184.9697,17.6676,354.083,61.970099999999995,-78.54929999999999
+polycarbonate_phosgene,poly(4-[6-(4-hydroxyphenyl)-6-bicyclo[2.2.1]heptanyl]phenol-co-Carbonyl dichloride),180.2728,181.302,37.5941,11949173.0028,11948872.501600001,-100.0602
+polycarbonate_phosgene,poly(4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol-co-Carbonyl dichloride),183.9051,218.2048,9.2798,504.4731,74.8454,18.2379
+polyurethane_isocyanate,"poly(5-Isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane-co-4-[[4-[(4-hydroxyphenyl)iminomethyl]phenyl]methylideneamino]phenol)",238.754,220.0398,32.8276,33772740309726.04,33772740310463.785,-273.733
+polyurethane_isocyanate,"poly(5-Isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane-co-Butane-1,4-diol)",152.7796,153.6711,31.967,22778025.2432,22777771.171099998,-81.8516
+polyurethane_isocyanate,"poly(5-Isocyanato-1-(isocyanatomethyl)-1,3,3-trimethylcyclohexane-co-HEXANE-1,6-DIOL)",170.9505,154.6331,39.4173,162806.0995,162519.0891,-77.99709999999999
+polyurethane_isocyanate,"poly(5-isocyanato-2-[4-[6-[4-(5-isocyanato-1,3-dioxoisoindol-2-yl)phenyl]-4-(4-phenylphenyl)pyridin-2-yl]phenyl]isoindole-1,3-dione-co-benzene-1,3-diol)",376.7105,354.5028,50.6468,141304.1047,141115.8498,-593.6138000000001
+polyamide,"poly(HEXANE-1,6-DIAMINE-co-Decanedioic acid)",154.3991,159.3881,48.93,1327909460.4052,1327908995.7152,97.5064
+polyamide,"poly(HEXANE-1,6-DIAMINE-co-Dodecanedioic acid)",171.6889,160.7975,51.1838,1327945428.7096,1327945088.2984998,79.8817
+polyamide,"poly(HEXANE-1,6-DIAMINE-co-hexanedioic acid)",115.0001,157.1983,49.8895,1328006518.6564,1328006030.6331,90.6053
+polyamide,"poly(benzene-1,3-diamine-co-1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid)",179.2985,231.7064,24.6403,29713.4561,29592.1056,-314.2872
+polyamide,"poly(benzene-1,4-diamine-co-1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid)",179.3701,231.2555,35.9005,398.9589,133.8748,-181.442
+polyamide,"poly(naphthalene-1,5-diamine-co-1-(4-carboxyphenyl)-1,3,3-trimethyl-2H-indene-5-carboxylic acid)",202.2276,257.4496,37.7482,763.7421,440.5348,-174.2181
