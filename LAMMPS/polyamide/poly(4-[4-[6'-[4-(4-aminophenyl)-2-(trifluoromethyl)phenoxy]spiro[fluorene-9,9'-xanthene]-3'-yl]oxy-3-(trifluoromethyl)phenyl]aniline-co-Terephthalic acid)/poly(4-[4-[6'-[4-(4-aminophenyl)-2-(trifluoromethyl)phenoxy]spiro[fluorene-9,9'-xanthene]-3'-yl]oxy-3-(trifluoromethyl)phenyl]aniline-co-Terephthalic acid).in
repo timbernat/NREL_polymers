@@ -12,7 +12,7 @@ special_bonds lj 0.0 0.0 0.5 coul 0.0 0.0 0.8333333333
 pair_style lj/cut/coul/long 9.0 9.0
 pair_modify mix arithmetic tail yes
 
-read_data LAMMPS/polyamide/poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-Terephthalic acid)/poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-Terephthalic acid).lammps
+read_data "LAMMPS/polyamide/poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-Terephthalic acid)/poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-Terephthalic acid).lammps"
 
 thermo_style custom ebond eangle edihed eimp epair evdwl ecoul elong etail pe
 

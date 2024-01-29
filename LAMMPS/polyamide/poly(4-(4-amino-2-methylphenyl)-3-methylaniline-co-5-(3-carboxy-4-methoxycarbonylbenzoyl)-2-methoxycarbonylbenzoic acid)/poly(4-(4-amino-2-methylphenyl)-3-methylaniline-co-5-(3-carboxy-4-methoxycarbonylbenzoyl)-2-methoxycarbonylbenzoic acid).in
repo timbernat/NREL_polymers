@@ -12,7 +12,7 @@ special_bonds lj 0.0 0.0 0.5 coul 0.0 0.0 0.8333333333
 pair_style lj/cut/coul/long 9.0 9.0
 pair_modify mix arithmetic tail yes
 
-read_data LAMMPS/polyamide/poly(4-(4-amino-2-methylphenyl)-3-methylaniline-co-5-(3-carboxy-4-methoxycarbonylbenzoyl)-2-methoxycarbonylbenzoic acid)/poly(4-(4-amino-2-methylphenyl)-3-methylaniline-co-5-(3-carboxy-4-methoxycarbonylbenzoyl)-2-methoxycarbonylbenzoic acid).lammps
+read_data "LAMMPS/polyamide/poly(4-(4-amino-2-methylphenyl)-3-methylaniline-co-5-(3-carboxy-4-methoxycarbonylbenzoyl)-2-methoxycarbonylbenzoic acid)/poly(4-(4-amino-2-methylphenyl)-3-methylaniline-co-5-(3-carboxy-4-methoxycarbonylbenzoyl)-2-methoxycarbonylbenzoic acid).lammps"
 
 thermo_style custom ebond eangle edihed eimp epair evdwl ecoul elong etail pe
 

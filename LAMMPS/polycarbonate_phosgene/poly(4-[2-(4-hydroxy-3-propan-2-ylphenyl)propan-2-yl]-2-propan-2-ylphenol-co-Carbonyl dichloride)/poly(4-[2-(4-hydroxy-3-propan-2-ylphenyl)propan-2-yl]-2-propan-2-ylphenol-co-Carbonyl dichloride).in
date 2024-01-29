@@ -12,7 +12,7 @@ special_bonds lj 0.0 0.0 0.5 coul 0.0 0.0 0.8333333333
 pair_style lj/cut/coul/long 9.0 9.0
 pair_modify mix arithmetic tail yes
 
-read_data LAMMPS/polycarbonate_phosgene/poly(4-[2-(4-hydroxy-3-propan-2-ylphenyl)propan-2-yl]-2-propan-2-ylphenol-co-Carbonyl dichloride)/poly(4-[2-(4-hydroxy-3-propan-2-ylphenyl)propan-2-yl]-2-propan-2-ylphenol-co-Carbonyl dichloride).lammps
+read_data "LAMMPS/polycarbonate_phosgene/poly(4-[2-(4-hydroxy-3-propan-2-ylphenyl)propan-2-yl]-2-propan-2-ylphenol-co-Carbonyl dichloride)/poly(4-[2-(4-hydroxy-3-propan-2-ylphenyl)propan-2-yl]-2-propan-2-ylphenol-co-Carbonyl dichloride).lammps"
 
 thermo_style custom ebond eangle edihed eimp epair evdwl ecoul elong etail pe
 

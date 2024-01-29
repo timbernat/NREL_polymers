@@ -12,7 +12,7 @@ special_bonds lj 0.0 0.0 0.5 coul 0.0 0.0 0.8333333333
 pair_style lj/cut/coul/long 9.0 9.0
 pair_modify mix arithmetic tail yes
 
-read_data LAMMPS/polyamide/poly(1,5-bis(3-aminophenyl)penta-1,4-dien-3-one-co-Benzene-1,3-dicarboxylic acid)/poly(1,5-bis(3-aminophenyl)penta-1,4-dien-3-one-co-Benzene-1,3-dicarboxylic acid).lammps
+read_data "LAMMPS/polyamide/poly(1,5-bis(3-aminophenyl)penta-1,4-dien-3-one-co-Benzene-1,3-dicarboxylic acid)/poly(1,5-bis(3-aminophenyl)penta-1,4-dien-3-one-co-Benzene-1,3-dicarboxylic acid).lammps"
 
 thermo_style custom ebond eangle edihed eimp epair evdwl ecoul elong etail pe
 
