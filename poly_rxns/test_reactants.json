@@ -1,0 +1,31 @@
+{
+    "polyester": [
+        "OCCO",
+        "O(C=O)c1ccc(cc1)C(=O)O"
+    ],
+    "polyamide": [
+        "NCCCCCCN",
+        "O=C(O)CCCCC(=O)O"
+    ],
+    "polyimide": [],
+    "polycarbonate_phosgene": [
+        "Oc1ccc(cc1)C(c2ccc(O)cc2)(C)C",
+        "ClC(=O)Cl"
+    ],
+    "polycarbonate_nonphosgene": [
+        "Oc1ccc(cc1)C(c2ccc(O)cc2)(C)C",
+        "O=C(Oc1ccccc1)Oc2ccccc2"
+    ],
+    "polyurethane_nonisocyanate": [
+        "CC(=C)C(=O)OCC1COC(=O)O1",
+        "NCCCCCCN"
+    ],
+    "polyurethane_isocyanate": [
+        "O=C=N\\CCCCCC/N=C=O",
+        "OCCCCO"
+    ],
+    "polyvinyl_head_tail": [
+        "c1ccccc1C=C",
+        "c1ccccc1C=C"
+    ]
+}
