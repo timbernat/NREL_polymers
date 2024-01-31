@@ -1,0 +1,265 @@
+poly(4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one-
+  -OEChem-01302420433D
+
+124126  0     1  0  0  0  0  0999 V2000
+   -5.7920    1.5940    0.4000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5980    1.7320   -0.8370 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9390    0.3280    0.9740 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8280   -0.8890    0.2350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3590   -1.2030   -0.1020 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.2800   -2.3460   -0.9170 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6560   -3.1090   -0.4040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5120   -1.3880    1.1710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1480   -1.6490    0.8380 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2170   -0.7010    0.3780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4840    0.6190    0.3100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4400    1.0220    0.6110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4600    1.5590   -0.1840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6870    2.6160   -0.2410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7420    1.1110   -0.5620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4720    1.8220   -0.9230 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0570   -0.3410   -0.4830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3020   -0.8660   -0.8640 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4340   -0.0930   -1.2610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1130    0.5440   -0.0390 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.5610   -0.4690    0.8230 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7210   -0.0440    1.7060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2840    1.4480   -0.4640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2660    0.7240   -1.2070 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2830   -0.0310   -0.6160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4360   -0.0580    0.6350 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7440    1.9290    0.4260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8900    2.2640   -1.1080 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660    1.1780    0.4900 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1360    0.6750   -2.0060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1540   -0.7740   -1.7630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1170   -1.1880   -0.0380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3330   -2.2480    0.0210 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9010   -2.2570    1.7430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5830   -0.5040    1.8400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9500   -0.3530   -0.6850 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2530   -1.7130    0.8480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4280   -0.8210   -0.6980 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9480   -0.5840   -1.2350 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1790   -1.1490   -2.3400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2470   -2.2480   -1.8360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0130   -3.2850   -1.2590 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1520   -4.2990   -0.7860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9830   -5.4140   -0.1540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7860   -4.9040    0.8950 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1370   -5.0200    2.1480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5530   -6.3170    2.8420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9190   -6.4140    4.1540 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3520   -5.6960    4.7800 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6600   -6.3450    2.9530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2410   -7.1850    2.2220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4610   -4.1630    2.7770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0250   -4.9550    2.0780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3210   -6.2540    0.1630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6580   -5.8300   -0.9320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4480   -3.8990   -0.0210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5650   -4.7390   -1.6250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5460   -1.8060   -1.0910 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6630   -2.6300   -2.7050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5800   -0.3500   -2.8320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8750   -1.5780   -3.0940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6220    0.1070   -1.6380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8530    2.4710    1.0290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0550    2.3360    2.2660 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7060    3.7360    0.4570 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7770    4.9380    1.2190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5890    6.1570    0.3080 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -5.4490    7.3000    1.1110 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0420    8.0040    0.5400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7870    6.3460   -0.6440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9430    5.2300   -1.5230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1130    4.9160   -2.6120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1470    5.7410   -3.0610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9610    6.7010   -2.6020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3080    5.3460   -4.2090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5300    6.0120   -4.5580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5040    4.1700   -4.8160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8700    3.9080   -5.6510 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5760    3.2530   -4.3410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8300    2.0070   -4.9360 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2270    1.5200   -6.1350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9510    2.0700   -7.3720 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -7.0310    1.8140   -7.3190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8080    3.4820   -7.4560 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2080    3.8000   -8.6500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9480    4.9780   -9.0100 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9190    2.6890   -9.4050 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3400    1.5310   -8.6970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4680    0.8640   -8.5260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1090    0.9910   -9.2910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3280    0.4140   -6.1400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1410    1.7450   -6.1600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3280    3.6190   -3.2920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1070    2.9590   -2.9320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6820    7.2840   -1.2300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7150    6.4490   -0.0430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6560    6.0050   -0.2820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7560    4.9990    1.7430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9690    4.9290    1.9840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1650   -7.3470    4.5580 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5850   -7.3360    4.9000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4400   -7.3160    3.6360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1810   -8.4780    2.8760 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9660   -8.4580    1.7020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6770   -9.7110    0.8790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2980   -9.7930    0.5630 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0200   -9.2050   -0.6950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0440  -10.2690   -1.7940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7110   -9.6710   -3.0830 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8160  -10.4120   -3.8130 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6980   -9.4100   -3.0710 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3160  -11.0760   -1.5510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0580  -10.7190   -1.8520 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9980   -8.7710   -0.6470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7060   -8.3650   -0.9530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3390   -9.7430   -0.0180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9410  -10.6000    1.4910 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7350   -7.5610    1.0840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0510   -8.4540    1.9560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1970   -6.3960    3.0560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5100   -7.2800    3.9450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8180   -6.4420    5.5210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8290   -8.2450    5.4920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6250   -7.4360    5.4480 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 63  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 37  1  0  0  0  0
+  4 38  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 36  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 34  1  0  0  0  0
+  8 35  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 32  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 32  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 20 29  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 23 28  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 39  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 39 62  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 60  1  0  0  0  0
+ 40 61  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 58  1  0  0  0  0
+ 41 59  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 56  1  0  0  0  0
+ 43 57  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 44 54  1  0  0  0  0
+ 44 55  1  0  0  0  0
+ 45 46  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 52  1  0  0  0  0
+ 46 53  1  0  0  0  0
+ 47 48  1  0  0  0  0
+ 47 50  1  0  0  0  0
+ 47 51  1  0  0  0  0
+ 48 49  1  0  0  0  0
+ 48100  1  0  0  0  0
+ 63 64  2  0  0  0  0
+ 63 65  1  0  0  0  0
+ 65 66  1  0  0  0  0
+ 66 67  1  0  0  0  0
+ 66 98  1  0  0  0  0
+ 66 99  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 70  1  0  0  0  0
+ 67 97  1  0  0  0  0
+ 68 69  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 70 95  1  0  0  0  0
+ 70 96  1  0  0  0  0
+ 71 72  1  0  0  0  0
+ 72 73  2  0  0  0  0
+ 72 93  1  0  0  0  0
+ 73 74  1  0  0  0  0
+ 73 75  1  0  0  0  0
+ 75 76  1  0  0  0  0
+ 75 77  2  0  0  0  0
+ 77 78  1  0  0  0  0
+ 77 79  1  0  0  0  0
+ 79 80  1  0  0  0  0
+ 79 93  2  0  0  0  0
+ 80 81  1  0  0  0  0
+ 81 82  1  0  0  0  0
+ 81 91  1  0  0  0  0
+ 81 92  1  0  0  0  0
+ 82 83  1  0  0  0  0
+ 82 84  1  0  0  0  0
+ 82 88  1  0  0  0  0
+ 84 85  1  0  0  0  0
+ 85 86  2  0  0  0  0
+ 85 87  1  0  0  0  0
+ 87 88  1  0  0  0  0
+ 88 89  1  0  0  0  0
+ 88 90  1  0  0  0  0
+ 93 94  1  0  0  0  0
+100101  1  0  0  0  0
+100124  1  0  0  0  0
+101102  1  0  0  0  0
+101122  1  0  0  0  0
+101123  1  0  0  0  0
+102103  1  0  0  0  0
+102120  1  0  0  0  0
+102121  1  0  0  0  0
+103104  1  0  0  0  0
+104105  1  0  0  0  0
+104118  1  0  0  0  0
+104119  1  0  0  0  0
+105106  1  0  0  0  0
+105116  1  0  0  0  0
+105117  1  0  0  0  0
+106107  1  0  0  0  0
+107108  1  0  0  0  0
+107114  1  0  0  0  0
+107115  1  0  0  0  0
+108109  1  0  0  0  0
+108112  1  0  0  0  0
+108113  1  0  0  0  0
+109110  1  0  0  0  0
+109111  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 25]}', 'substructure_query_id': 25}, 1: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 27]}', 'substructure_query_id': 27}, 2: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 24]}', 'substructure_query_id': 24}, 3: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 23]}', 'substructure_query_id': 23}, 4: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 20]}', 'substructure_query_id': 20}, 5: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 21]}', 'substructure_query_id': 21}, 6: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 22]}', 'substructure_query_id': 22}, 7: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 19]}', 'substructure_query_id': 19}, 8: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 18]}', 'substructure_query_id': 18}, 9: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 17]}', 'substructure_query_id': 17}, 10: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 15]}', 'substructure_query_id': 15}, 11: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 16]}', 'substructure_query_id': 16}, 12: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 13]}', 'substructure_query_id': 13}, 13: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 14]}', 'substructure_query_id': 14}, 14: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 11]}', 'substructure_query_id': 11}, 15: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 12]}', 'substructure_query_id': 12}, 16: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 10]}', 'substructure_query_id': 10}, 17: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 9]}', 'substructure_query_id': 9}, 18: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 8]}', 'substructure_query_id': 8}, 19: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 5]}', 'substructure_query_id': 5}, 20: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 6]}', 'substructure_query_id': 6}, 21: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 7]}', 'substructure_query_id': 7}, 22: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 4]}', 'substructure_query_id': 4}, 23: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 3]}', 'substructure_query_id': 3}, 24: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 1], "3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 1]}', 'substructure_query_id': 1}, 25: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 2], "3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 2]}', 'substructure_query_id': 2}, 26: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 38]}', 'substructure_query_id': 38}, 27: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 39]}', 'substructure_query_id': 39}, 28: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 37]}', 'substructure_query_id': 37}, 29: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 35]}', 'substructure_query_id': 35}, 30: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 36]}', 'substructure_query_id': 36}, 31: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 33]}', 'substructure_query_id': 33}, 32: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 34]}', 'substructure_query_id': 34}, 33: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 31]}', 'substructure_query_id': 31}, 34: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 32]}', 'substructure_query_id': 32}, 35: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 30]}', 'substructure_query_id': 30}, 36: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 28]}', 'substructure_query_id': 28}, 37: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_MID", 29]}', 'substructure_query_id': 29}, 38: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 3], "4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 1]}', 'substructure_query_id': 1}, 39: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 5], "4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 2]}', 'substructure_query_id': 2}, 40: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 3]}', 'substructure_query_id': 3}, 41: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 4]}', 'substructure_query_id': 4}, 42: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 5]}', 'substructure_query_id': 5}, 43: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 6]}', 'substructure_query_id': 6}, 44: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 7]}', 'substructure_query_id': 7}, 45: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 8]}', 'substructure_query_id': 8}, 46: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 9]}', 'substructure_query_id': 9}, 47: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 10]}', 'substructure_query_id': 10}, 48: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 12]}', 'substructure_query_id': 12}, 49: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 13]}', 'substructure_query_id': 13}, 50: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 14]}', 'substructure_query_id': 14}, 51: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 15]}', 'substructure_query_id': 15}, 52: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 16]}', 'substructure_query_id': 16}, 53: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 17]}', 'substructure_query_id': 17}, 54: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 18]}', 'substructure_query_id': 18}, 55: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 19]}', 'substructure_query_id': 19}, 56: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 20]}', 'substructure_query_id': 20}, 57: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 21]}', 'substructure_query_id': 21}, 58: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 22]}', 'substructure_query_id': 22}, 59: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 23]}', 'substructure_query_id': 23}, 60: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 24]}', 'substructure_query_id': 24}, 61: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 4], "4": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 25]}', 'substructure_query_id': 25}, 62: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 1]}', 'substructure_query_id': 1}, 63: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 2]}', 'substructure_query_id': 2}, 64: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 3]}', 'substructure_query_id': 3}, 65: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 4]}', 'substructure_query_id': 4}, 66: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 5]}', 'substructure_query_id': 5}, 67: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 6]}', 'substructure_query_id': 6}, 68: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 7]}', 'substructure_query_id': 7}, 69: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 8]}', 'substructure_query_id': 8}, 70: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 9]}', 'substructure_query_id': 9}, 71: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 10]}', 'substructure_query_id': 10}, 72: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 11]}', 'substructure_query_id': 11}, 73: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 12]}', 'substructure_query_id': 12}, 74: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 13]}', 'substructure_query_id': 13}, 75: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 14]}', 'substructure_query_id': 14}, 76: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 15]}', 'substructure_query_id': 15}, 77: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 16]}', 'substructure_query_id': 16}, 78: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 17]}', 'substructure_query_id': 17}, 79: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 18]}', 'substructure_query_id': 18}, 80: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 19]}', 'substructure_query_id': 19}, 81: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 20]}', 'substructure_query_id': 20}, 82: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 21]}', 'substructure_query_id': 21}, 83: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 22]}', 'substructure_query_id': 22}, 84: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 23]}', 'substructure_query_id': 23}, 85: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 24]}', 'substructure_query_id': 24}, 86: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 25]}', 'substructure_query_id': 25}, 87: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 26]}', 'substructure_query_id': 26}, 88: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 27]}', 'substructure_query_id': 27}, 89: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 28]}', 'substructure_query_id': 28}, 90: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 29]}', 'substructure_query_id': 29}, 91: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 30]}', 'substructure_query_id': 30}, 92: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 31]}', 'substructure_query_id': 31}, 93: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 32]}', 'substructure_query_id': 32}, 94: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 33]}', 'substructure_query_id': 33}, 95: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 34]}', 'substructure_query_id': 34}, 96: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 35]}', 'substructure_query_id': 35}, 97: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 36]}', 'substructure_query_id': 36}, 98: {'residue_name': '4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["4-[[3-[(2-oxo-1,3-dioxolan-4-yl)methoxy]phenoxy]methyl]-1,3-dioxolan-2-one_TERM", 37]}', 'substructure_query_id': 37}, 99: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 1], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 1]}', 'substructure_query_id': 1}, 100: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 2], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 2]}', 'substructure_query_id': 2}, 101: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 3], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 3]}', 'substructure_query_id': 3}, 102: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 4], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 4]}', 'substructure_query_id': 4}, 103: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 5], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 5]}', 'substructure_query_id': 5}, 104: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 6], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 6]}', 'substructure_query_id': 6}, 105: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 7], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 7]}', 'substructure_query_id': 7}, 106: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 8], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 8]}', 'substructure_query_id': 8}, 107: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 9], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 9]}', 'substructure_query_id': 9}, 108: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 10], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 10]}', 'substructure_query_id': 10}, 109: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 11]}', 'substructure_query_id': 11}, 110: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 12], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 12]}', 'substructure_query_id': 12}, 111: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 13], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 13]}', 'substructure_query_id': 13}, 112: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 14], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 14]}', 'substructure_query_id': 14}, 113: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 15], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 15]}', 'substructure_query_id': 15}, 114: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 16], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 16]}', 'substructure_query_id': 16}, 115: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 17], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 17]}', 'substructure_query_id': 17}, 116: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 18], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 18]}', 'substructure_query_id': 18}, 117: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 19], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 19]}', 'substructure_query_id': 19}, 118: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 20], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 20]}', 'substructure_query_id': 20}, 119: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 21], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 21]}', 'substructure_query_id': 21}, 120: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 22], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 22]}', 'substructure_query_id': 22}, 121: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 23], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 23]}', 'substructure_query_id': 23}, 122: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 24], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 24]}', 'substructure_query_id': 24}, 123: {'residue_name': '2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_TERM", 25], "5": ["2-[2-(2-aminoethoxy)ethoxy]ethanamine_MID", 25]}', 'substructure_query_id': 25}}
+
+> <atom.dprop.PartialCharge>
+0.629296 -0.522630 -0.489802 0.109009 0.145266 -0.696179 0.416707 0.053729 -0.412516 0.249322 -0.411135 0.216575 -0.048058 0.213099 -0.411135 0.216575 0.249322 -0.412516 0.053729 0.148695 -0.696179 0.416707 0.088807 -0.483500 0.789590 -0.580873 0.111095 0.111095 0.101293 0.099684 0.099684 -0.447815 0.217945 0.099684 0.099684 0.101293 0.100271 0.100271 -0.456196 0.015705 0.068591 -0.480125 0.063066 0.061726 -0.484554 0.074186 0.019596 -0.620043 0.372682 0.114577 0.114577 0.094628 0.094628 0.094827 0.094827 0.094827 0.094827 0.089227 0.089227 0.085440 0.085440 0.334084 0.629296 -0.522630 -0.489802 0.109009 0.145266 -0.696179 0.416707 0.053729 -0.412516 0.249322 -0.411135 0.216575 -0.048058 0.213099 -0.408105 0.216575 0.243494 -0.427008 0.132995 0.200846 0.164888 -0.388597 0.806979 -0.391336 -0.389375 0.165521 0.146230 0.146230 0.091719 0.091719 -0.444424 0.217945 0.099684 0.099684 0.101293 0.100271 0.100271 -0.620043 0.019596 0.074186 -0.484554 0.061726 0.061726 -0.484349 0.072234 0.019922 -0.963471 0.397139 0.397139 0.108482 0.108482 0.094673 0.094673 0.094827 0.094827 0.094827 0.094827 0.094628 0.094628 0.114577 0.114577 0.372682
+
+$$$$
