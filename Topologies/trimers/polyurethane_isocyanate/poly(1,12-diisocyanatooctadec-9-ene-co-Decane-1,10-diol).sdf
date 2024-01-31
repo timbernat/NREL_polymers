@@ -1,0 +1,382 @@
+poly(1,12-diisocyanatooctadec-9-ene-co-Decane-1,10-diol)
+  -OEChem-01302419223D
+
+184183  0     1  0  0  0  0  0999 V2000
+   -7.2150    2.5290    2.0650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6070    3.3280    1.1730 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8220    2.2600    2.2510 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7790    2.8720    1.4280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7390    2.2560    0.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5430    0.7290    0.0090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1520    0.3070    0.5130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9290   -1.2120    0.4260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6180   -1.6810   -1.0050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4000   -3.2030   -1.1000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1270   -3.7090   -0.4020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1190   -3.1360   -1.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7750   -2.1120   -0.4540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0190   -1.5290   -1.0700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2620   -1.8620   -0.2220 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4140   -3.3190   -0.1260 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0810   -4.0680    1.0490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6820   -3.4930    2.0960 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6760   -3.8550   -0.9840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5560   -1.2710   -0.8260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5850    0.2640   -0.9530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4060    0.9850    0.3940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7300    2.4850    0.3090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6970    3.2640   -0.5180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9750    4.7640   -0.4720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9850    4.9810   -0.8800 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2210    5.3000   -1.0860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9120    5.1360    0.5730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7300    2.9340   -1.5780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6760    3.0760   -0.1200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7460    2.6280   -0.1210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7430    2.8920    1.3440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3650    0.8600    0.7600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0890    0.5270    1.1430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5710    0.5450   -1.3840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8130    0.5970   -1.6760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4170   -1.5870   -0.1970 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7180   -1.7050   -1.8370 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1250   -1.4350    0.7940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1610   -1.8950   -2.1110 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8710   -0.4310   -1.1140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4320   -1.7040    0.4920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4570   -3.5430   -1.9690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0850   -4.8140   -0.5140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1660   -3.5080    0.6900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2800   -3.7250   -0.6650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3530   -3.4870   -2.1740 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7290   -1.1420   -1.3990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4720   -1.4290   -1.6670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8190   -1.7500    0.8200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0700   -1.4570    1.0840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0540    0.5980    1.5800 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3590    0.8390   -0.0560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3320    0.2400    0.6200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6770    0.3870   -1.0380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6900    2.4920   -0.5030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9230    2.7370   -0.5610 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9620    3.9650    1.3480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7930    2.7470    1.9230 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5380    1.6420    3.0440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1680   -5.1020    1.0380 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1350   -5.4340    1.9970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5420   -5.3310    3.4050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5800   -5.7120    4.4700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9860   -5.7480    5.8870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6320   -4.3470    6.4150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2670   -4.3500    7.9100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0470   -5.2170    8.2820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7530   -4.8830    7.5190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2740   -3.4430    7.7620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1110   -3.1920    7.1570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0570   -3.2500    5.7560 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8540   -3.9170    7.5630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4460   -2.1750    7.4500 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9910   -2.7200    7.3180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2190   -3.2530    8.8560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0340   -5.5870    7.8660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8940   -5.0640    6.4330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2930   -6.2880    8.1160 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8580   -5.1060    9.3720 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0870   -3.3030    8.2360 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1430   -4.7120    8.4920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5120   -3.6800    6.2840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8010   -3.9080    5.8280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7370   -6.2100    6.5640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0840   -6.3980    5.8880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4350   -5.0010    4.4380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9770   -6.7250    4.2400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1980   -4.2880    3.5690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6630   -6.0090    3.4780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4690   -6.4770    1.8110 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0200   -4.7650    1.9000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9440    2.0450    2.7020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9500    2.6940    3.0910 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7490    0.6800    3.0860 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6750   -0.0550    3.9550 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -7.9360   -0.4540    5.2450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.8840   -0.9930    6.2820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9220   -2.2970    6.5940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9110   -2.8370    7.5890 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.3360   -2.8090    7.0150 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.3600   -3.4890    7.9360 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.6140   -2.6950    9.2260 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.7750   -3.3060   10.0260 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.9500   -2.6570   11.4080 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.4820   -1.2170   11.3240 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7470   -0.6270   12.7120 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.8780   -1.2980   13.3450 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.7660   -1.8920   14.4640 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.6580   -2.4710   15.5530 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.8270   -0.6990   13.3370 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.9940    0.4500   12.6010 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -15.4210   -1.1910   10.7290 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.7320   -0.5730   10.8170 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.6710   -3.2780   11.9830 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.9830   -2.6720   11.9560 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.7210   -3.2190    9.4470 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.5730   -4.3890   10.1800 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.8560   -1.6430    8.9640 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6970   -2.7050    9.8530 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.3160   -3.5810    7.3760 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0160   -4.5170    8.1860 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6500   -1.7600    6.8200 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.3390   -3.3450    6.0410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.8510   -2.2370    8.5210 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.6330   -3.8860    7.8310 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2220   -2.9880    6.1320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.5890   -0.3070    6.7420 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4450    0.4470    5.6740 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1310   -1.1870    5.0130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.2190   -1.2910    3.2100 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.0540   -0.8960    1.9830 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.6080   -2.1360    1.2710 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4490   -1.7380    0.0500 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0970   -2.9480   -0.6400 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.0850   -3.8090   -1.3950 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.5060   -3.1890   -2.1130 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.3880   -4.3070   -0.6910 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6230   -4.5970   -1.9630 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.6350   -3.5730    0.1060 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.8490   -2.5760   -1.3690 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.8200   -1.1810   -0.6800 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.2630   -1.0560    0.3820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7580   -2.7740    0.9490 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.2400   -2.7160    1.9800 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.8980   -0.2480    2.3090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4230   -0.3210    1.2710 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3710   -1.9370    2.8910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.8640   -1.8830    3.8940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.5360    0.5930    4.2370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8950    0.1920    2.7350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2280   -4.1940    5.5000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3110   -4.9760    6.2150 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7570   -5.1150    7.6730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2240   -5.9870    8.4700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2590   -6.2590    9.9030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2090   -5.0040   10.7910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4560   -5.3170   12.2780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8260   -5.9530   12.5910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0450   -5.1460   12.1080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1270   -3.7510   12.7480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4420   -3.0440   12.4080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5040   -2.7420   11.0400 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9260   -3.5210   10.5920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3140   -3.6620   12.7260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4890   -2.0910   12.9770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2830   -3.1190   12.3970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0540   -3.8480   13.8530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9580   -5.7200   12.3790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0310   -5.0620   11.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8710   -6.9690   12.1440 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9030   -6.0920   13.6910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3430   -4.3810   12.8640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3390   -6.0070   12.6350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7990   -4.5430   10.7070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9420   -4.2500   10.4410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3980   -7.0400   10.3450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2930   -6.6650    9.8690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2260   -5.5050    8.4940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3350   -6.9670    7.9540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8140   -4.1020    8.1240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7710   -5.5720    7.6980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2640   -5.9810    5.7430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7060   -4.5230    6.1630 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 93  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 60  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 58  1  0  0  0  0
+  4 59  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 56  1  0  0  0  0
+  5 57  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 54  1  0  0  0  0
+  6 55  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 52  1  0  0  0  0
+  7 53  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 50  1  0  0  0  0
+  8 51  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 48  1  0  0  0  0
+  9 49  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 46  1  0  0  0  0
+ 10 47  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 44  1  0  0  0  0
+ 11 45  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 43  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 42  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 40  1  0  0  0  0
+ 14 41  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 39  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 61  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 37  1  0  0  0  0
+ 20 38  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 35  1  0  0  0  0
+ 21 36  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 33  1  0  0  0  0
+ 22 34  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 31  1  0  0  0  0
+ 23 32  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 29  1  0  0  0  0
+ 24 30  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 61 62  1  0  0  0  0
+ 62 63  1  0  0  0  0
+ 62 91  1  0  0  0  0
+ 62 92  1  0  0  0  0
+ 63 64  1  0  0  0  0
+ 63 89  1  0  0  0  0
+ 63 90  1  0  0  0  0
+ 64 65  1  0  0  0  0
+ 64 87  1  0  0  0  0
+ 64 88  1  0  0  0  0
+ 65 66  1  0  0  0  0
+ 65 85  1  0  0  0  0
+ 65 86  1  0  0  0  0
+ 66 67  1  0  0  0  0
+ 66 83  1  0  0  0  0
+ 66 84  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 81  1  0  0  0  0
+ 67 82  1  0  0  0  0
+ 68 69  1  0  0  0  0
+ 68 79  1  0  0  0  0
+ 68 80  1  0  0  0  0
+ 69 70  1  0  0  0  0
+ 69 77  1  0  0  0  0
+ 69 78  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 70 75  1  0  0  0  0
+ 70 76  1  0  0  0  0
+ 71 72  1  0  0  0  0
+ 71 73  1  0  0  0  0
+ 71 74  1  0  0  0  0
+ 72152  1  0  0  0  0
+ 93 94  2  0  0  0  0
+ 93 95  1  0  0  0  0
+ 95 96  1  0  0  0  0
+ 95151  1  0  0  0  0
+ 96 97  1  0  0  0  0
+ 96131  1  0  0  0  0
+ 96150  1  0  0  0  0
+ 97 98  1  0  0  0  0
+ 97129  1  0  0  0  0
+ 97130  1  0  0  0  0
+ 98 99  2  0  0  0  0
+ 98128  1  0  0  0  0
+ 99100  1  0  0  0  0
+ 99127  1  0  0  0  0
+100101  1  0  0  0  0
+100125  1  0  0  0  0
+100126  1  0  0  0  0
+101102  1  0  0  0  0
+101123  1  0  0  0  0
+101124  1  0  0  0  0
+102103  1  0  0  0  0
+102121  1  0  0  0  0
+102122  1  0  0  0  0
+103104  1  0  0  0  0
+103119  1  0  0  0  0
+103120  1  0  0  0  0
+104105  1  0  0  0  0
+104117  1  0  0  0  0
+104118  1  0  0  0  0
+105106  1  0  0  0  0
+105115  1  0  0  0  0
+105116  1  0  0  0  0
+106107  1  0  0  0  0
+106113  1  0  0  0  0
+106114  1  0  0  0  0
+107108  1  0  0  0  0
+107111  1  0  0  0  0
+107112  1  0  0  0  0
+108109  2  0  0  0  0
+109110  2  0  0  0  0
+131132  1  0  0  0  0
+131148  1  0  0  0  0
+131149  1  0  0  0  0
+132133  1  0  0  0  0
+132146  1  0  0  0  0
+132147  1  0  0  0  0
+133134  1  0  0  0  0
+133144  1  0  0  0  0
+133145  1  0  0  0  0
+134135  1  0  0  0  0
+134142  1  0  0  0  0
+134143  1  0  0  0  0
+135136  1  0  0  0  0
+135140  1  0  0  0  0
+135141  1  0  0  0  0
+136137  1  0  0  0  0
+136138  1  0  0  0  0
+136139  1  0  0  0  0
+152153  1  0  0  0  0
+153154  1  0  0  0  0
+153183  1  0  0  0  0
+153184  1  0  0  0  0
+154155  1  0  0  0  0
+154181  1  0  0  0  0
+154182  1  0  0  0  0
+155156  1  0  0  0  0
+155179  1  0  0  0  0
+155180  1  0  0  0  0
+156157  1  0  0  0  0
+156177  1  0  0  0  0
+156178  1  0  0  0  0
+157158  1  0  0  0  0
+157175  1  0  0  0  0
+157176  1  0  0  0  0
+158159  1  0  0  0  0
+158173  1  0  0  0  0
+158174  1  0  0  0  0
+159160  1  0  0  0  0
+159171  1  0  0  0  0
+159172  1  0  0  0  0
+160161  1  0  0  0  0
+160169  1  0  0  0  0
+160170  1  0  0  0  0
+161162  1  0  0  0  0
+161167  1  0  0  0  0
+161168  1  0  0  0  0
+162163  1  0  0  0  0
+162165  1  0  0  0  0
+162166  1  0  0  0  0
+163164  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 1], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 1]}', 'substructure_query_id': 1}, 1: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 2], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 2]}', 'substructure_query_id': 2}, 2: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 3], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 3]}', 'substructure_query_id': 3}, 3: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 5], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 4]}', 'substructure_query_id': 4}, 4: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 5]}', 'substructure_query_id': 5}, 5: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 6]}', 'substructure_query_id': 6}, 6: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 7]}', 'substructure_query_id': 7}, 7: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 8]}', 'substructure_query_id': 8}, 8: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 9]}', 'substructure_query_id': 9}, 9: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 10]}', 'substructure_query_id': 10}, 10: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 11]}', 'substructure_query_id': 11}, 11: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 12]}', 'substructure_query_id': 12}, 12: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 13]}', 'substructure_query_id': 13}, 13: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 14]}', 'substructure_query_id': 14}, 14: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 5], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 15]}', 'substructure_query_id': 15}, 15: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 3], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 16]}', 'substructure_query_id': 16}, 16: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 1], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 17]}', 'substructure_query_id': 17}, 17: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 2], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 19]}', 'substructure_query_id': 19}, 18: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["PEPTIDE_BOND", 4], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 20]}', 'substructure_query_id': 20}, 19: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 21]}', 'substructure_query_id': 21}, 20: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 22]}', 'substructure_query_id': 22}, 21: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 23]}', 'substructure_query_id': 23}, 22: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 24]}', 'substructure_query_id': 24}, 23: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 25]}', 'substructure_query_id': 25}, 24: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 26]}', 'substructure_query_id': 26}, 25: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 27]}', 'substructure_query_id': 27}, 26: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 28]}', 'substructure_query_id': 28}, 27: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 29]}', 'substructure_query_id': 29}, 28: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 30]}', 'substructure_query_id': 30}, 29: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 31]}', 'substructure_query_id': 31}, 30: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 32]}', 'substructure_query_id': 32}, 31: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 33]}', 'substructure_query_id': 33}, 32: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 34]}', 'substructure_query_id': 34}, 33: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 35]}', 'substructure_query_id': 35}, 34: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 36]}', 'substructure_query_id': 36}, 35: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 37]}', 'substructure_query_id': 37}, 36: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 38]}', 'substructure_query_id': 38}, 37: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 39]}', 'substructure_query_id': 39}, 38: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 40]}', 'substructure_query_id': 40}, 39: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 41]}', 'substructure_query_id': 41}, 40: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 42]}', 'substructure_query_id': 42}, 41: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 43]}', 'substructure_query_id': 43}, 42: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 44]}', 'substructure_query_id': 44}, 43: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 45]}', 'substructure_query_id': 45}, 44: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 46]}', 'substructure_query_id': 46}, 45: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 47]}', 'substructure_query_id': 47}, 46: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 48]}', 'substructure_query_id': 48}, 47: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 49]}', 'substructure_query_id': 49}, 48: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 50]}', 'substructure_query_id': 50}, 49: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 51]}', 'substructure_query_id': 51}, 50: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 52]}', 'substructure_query_id': 52}, 51: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 53]}', 'substructure_query_id': 53}, 52: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 54]}', 'substructure_query_id': 54}, 53: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 55]}', 'substructure_query_id': 55}, 54: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 56]}', 'substructure_query_id': 56}, 55: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 57]}', 'substructure_query_id': 57}, 56: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 58]}', 'substructure_query_id': 58}, 57: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 59]}', 'substructure_query_id': 59}, 58: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["1,12-diisocyanatooctadec-9-ene_MID", 60]}', 'substructure_query_id': 60}, 59: {'residue_name': '1,12-diisocyanatooctadec-9-ene_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["PEPTIDE_BOND", 4], "5": ["1,12-diisocyanatooctadec-9-ene_MID", 61]}', 'substructure_query_id': 61}, 60: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 1]}', 'substructure_query_id': 1}, 61: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 2]}', 'substructure_query_id': 2}, 62: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 3]}', 'substructure_query_id': 3}, 63: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 4]}', 'substructure_query_id': 4}, 64: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 5]}', 'substructure_query_id': 5}, 65: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 6]}', 'substructure_query_id': 6}, 66: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 7]}', 'substructure_query_id': 7}, 67: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 8]}', 'substructure_query_id': 8}, 68: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 9]}', 'substructure_query_id': 9}, 69: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 10]}', 'substructure_query_id': 10}, 70: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 11]}', 'substructure_query_id': 11}, 71: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 12]}', 'substructure_query_id': 12}, 72: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 14]}', 'substructure_query_id': 14}, 73: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 15]}', 'substructure_query_id': 15}, 74: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 16]}', 'substructure_query_id': 16}, 75: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 17]}', 'substructure_query_id': 17}, 76: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 18]}', 'substructure_query_id': 18}, 77: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 19]}', 'substructure_query_id': 19}, 78: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 20]}', 'substructure_query_id': 20}, 79: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 21]}', 'substructure_query_id': 21}, 80: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 22]}', 'substructure_query_id': 22}, 81: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 23]}', 'substructure_query_id': 23}, 82: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 24]}', 'substructure_query_id': 24}, 83: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 25]}', 'substructure_query_id': 25}, 84: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 26]}', 'substructure_query_id': 26}, 85: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 27]}', 'substructure_query_id': 27}, 86: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 28]}', 'substructure_query_id': 28}, 87: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 29]}', 'substructure_query_id': 29}, 88: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 30]}', 'substructure_query_id': 30}, 89: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 31]}', 'substructure_query_id': 31}, 90: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 32]}', 'substructure_query_id': 32}, 91: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["Decane-1,10-diol_MID", 33]}', 'substructure_query_id': 33}, 92: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 1], "3": ["1,12-diisocyanatooctadec-9-ene_TERM", 1]}', 'substructure_query_id': 1}, 93: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 2], "3": ["1,12-diisocyanatooctadec-9-ene_TERM", 2]}', 'substructure_query_id': 2}, 94: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 3], "3": ["1,12-diisocyanatooctadec-9-ene_TERM", 3]}', 'substructure_query_id': 3}, 95: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 5], "3": ["1,12-diisocyanatooctadec-9-ene_TERM", 4]}', 'substructure_query_id': 4}, 96: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 5]}', 'substructure_query_id': 5}, 97: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 6]}', 'substructure_query_id': 6}, 98: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 7]}', 'substructure_query_id': 7}, 99: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 8]}', 'substructure_query_id': 8}, 100: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 9]}', 'substructure_query_id': 9}, 101: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 10]}', 'substructure_query_id': 10}, 102: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 11]}', 'substructure_query_id': 11}, 103: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 12]}', 'substructure_query_id': 12}, 104: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 13]}', 'substructure_query_id': 13}, 105: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 14]}', 'substructure_query_id': 14}, 106: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 15]}', 'substructure_query_id': 15}, 107: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 16]}', 'substructure_query_id': 16}, 108: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 17]}', 'substructure_query_id': 17}, 109: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 18]}', 'substructure_query_id': 18}, 110: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 19]}', 'substructure_query_id': 19}, 111: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 20]}', 'substructure_query_id': 20}, 112: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 21]}', 'substructure_query_id': 21}, 113: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 22]}', 'substructure_query_id': 22}, 114: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 23]}', 'substructure_query_id': 23}, 115: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 24]}', 'substructure_query_id': 24}, 116: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 25]}', 'substructure_query_id': 25}, 117: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 26]}', 'substructure_query_id': 26}, 118: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 27]}', 'substructure_query_id': 27}, 119: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 28]}', 'substructure_query_id': 28}, 120: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 29]}', 'substructure_query_id': 29}, 121: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 30]}', 'substructure_query_id': 30}, 122: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 31]}', 'substructure_query_id': 31}, 123: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 32]}', 'substructure_query_id': 32}, 124: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 33]}', 'substructure_query_id': 33}, 125: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 34]}', 'substructure_query_id': 34}, 126: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 35]}', 'substructure_query_id': 35}, 127: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 36]}', 'substructure_query_id': 36}, 128: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 37]}', 'substructure_query_id': 37}, 129: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 38]}', 'substructure_query_id': 38}, 130: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 39]}', 'substructure_query_id': 39}, 131: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 40]}', 'substructure_query_id': 40}, 132: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 41]}', 'substructure_query_id': 41}, 133: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 42]}', 'substructure_query_id': 42}, 134: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 43]}', 'substructure_query_id': 43}, 135: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 44]}', 'substructure_query_id': 44}, 136: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 45]}', 'substructure_query_id': 45}, 137: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 46]}', 'substructure_query_id': 46}, 138: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 47]}', 'substructure_query_id': 47}, 139: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 48]}', 'substructure_query_id': 48}, 140: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 49]}', 'substructure_query_id': 49}, 141: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 50]}', 'substructure_query_id': 50}, 142: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 51]}', 'substructure_query_id': 51}, 143: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 52]}', 'substructure_query_id': 52}, 144: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 53]}', 'substructure_query_id': 53}, 145: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 54]}', 'substructure_query_id': 54}, 146: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 55]}', 'substructure_query_id': 55}, 147: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 56]}', 'substructure_query_id': 56}, 148: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 57]}', 'substructure_query_id': 57}, 149: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["1,12-diisocyanatooctadec-9-ene_TERM", 58]}', 'substructure_query_id': 58}, 150: {'residue_name': '1,12-diisocyanatooctadec-9-ene_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["PEPTIDE_BOND", 4], "3": ["1,12-diisocyanatooctadec-9-ene_TERM", 59]}', 'substructure_query_id': 59}, 151: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 1], "7": ["Decane-1,10-diol_MID", 1]}', 'substructure_query_id': 1}, 152: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 2], "7": ["Decane-1,10-diol_MID", 2]}', 'substructure_query_id': 2}, 153: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 3], "7": ["Decane-1,10-diol_MID", 3]}', 'substructure_query_id': 3}, 154: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 4], "7": ["Decane-1,10-diol_MID", 4]}', 'substructure_query_id': 4}, 155: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 5], "7": ["Decane-1,10-diol_MID", 5]}', 'substructure_query_id': 5}, 156: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 6], "7": ["Decane-1,10-diol_MID", 6]}', 'substructure_query_id': 6}, 157: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 7], "7": ["Decane-1,10-diol_MID", 7]}', 'substructure_query_id': 7}, 158: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 8], "7": ["Decane-1,10-diol_MID", 8]}', 'substructure_query_id': 8}, 159: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 9], "7": ["Decane-1,10-diol_MID", 9]}', 'substructure_query_id': 9}, 160: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 10], "7": ["Decane-1,10-diol_MID", 10]}', 'substructure_query_id': 10}, 161: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 11], "7": ["Decane-1,10-diol_MID", 11]}', 'substructure_query_id': 11}, 162: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 12], "7": ["Decane-1,10-diol_MID", 12]}', 'substructure_query_id': 12}, 163: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 13]}', 'substructure_query_id': 13}, 164: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 14], "7": ["Decane-1,10-diol_MID", 14]}', 'substructure_query_id': 14}, 165: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 15], "7": ["Decane-1,10-diol_MID", 15]}', 'substructure_query_id': 15}, 166: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 16], "7": ["Decane-1,10-diol_MID", 16]}', 'substructure_query_id': 16}, 167: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 17], "7": ["Decane-1,10-diol_MID", 17]}', 'substructure_query_id': 17}, 168: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 18], "7": ["Decane-1,10-diol_MID", 18]}', 'substructure_query_id': 18}, 169: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 19], "7": ["Decane-1,10-diol_MID", 19]}', 'substructure_query_id': 19}, 170: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 20], "7": ["Decane-1,10-diol_MID", 20]}', 'substructure_query_id': 20}, 171: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 21], "7": ["Decane-1,10-diol_MID", 21]}', 'substructure_query_id': 21}, 172: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 22], "7": ["Decane-1,10-diol_MID", 22]}', 'substructure_query_id': 22}, 173: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 23], "7": ["Decane-1,10-diol_MID", 23]}', 'substructure_query_id': 23}, 174: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 24], "7": ["Decane-1,10-diol_MID", 24]}', 'substructure_query_id': 24}, 175: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 25], "7": ["Decane-1,10-diol_MID", 25]}', 'substructure_query_id': 25}, 176: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 26], "7": ["Decane-1,10-diol_MID", 26]}', 'substructure_query_id': 26}, 177: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 27], "7": ["Decane-1,10-diol_MID", 27]}', 'substructure_query_id': 27}, 178: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 28], "7": ["Decane-1,10-diol_MID", 28]}', 'substructure_query_id': 28}, 179: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 29], "7": ["Decane-1,10-diol_MID", 29]}', 'substructure_query_id': 29}, 180: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 30], "7": ["Decane-1,10-diol_MID", 30]}', 'substructure_query_id': 30}, 181: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 31], "7": ["Decane-1,10-diol_MID", 31]}', 'substructure_query_id': 31}, 182: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 32], "7": ["Decane-1,10-diol_MID", 32]}', 'substructure_query_id': 32}, 183: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["Decane-1,10-diol_TERM", 33], "7": ["Decane-1,10-diol_MID", 33]}', 'substructure_query_id': 33}}
+
+> <atom.dprop.PartialCharge>
+0.537108 -0.716829 -0.528028 0.027616 -0.148507 -0.143762 -0.143357 -0.142012 -0.134907 -0.132905 -0.089470 -0.079567 -0.081723 -0.117768 0.079471 -0.481677 0.785900 -0.640925 0.321690 -0.151361 -0.139588 -0.143051 -0.146977 -0.140974 -0.128326 0.045357 0.045357 0.045357 0.069685 0.069685 0.080180 0.080180 0.079319 0.079319 0.079549 0.079549 0.085684 0.085684 0.046046 0.090853 0.090853 0.129729 0.129264 0.076592 0.076592 0.078984 0.078984 0.077448 0.077448 0.079319 0.079319 0.079319 0.079319 0.080058 0.080058 0.081060 0.081060 0.043658 0.043658 0.312864 -0.503954 0.111112 -0.141315 -0.142278 -0.143442 -0.142112 -0.142112 -0.143393 -0.141011 -0.147318 0.032670 -0.181063 0.077118 0.077118 0.085820 0.085820 0.081205 0.081205 0.079319 0.079319 0.079319 0.079319 0.079319 0.079319 0.079319 0.079319 0.081033 0.081033 0.084822 0.084822 0.077344 0.077344 0.543365 -0.716082 -0.539118 0.086254 -0.118625 -0.081723 -0.079567 -0.089470 -0.132905 -0.134907 -0.142012 -0.143174 -0.139368 -0.124822 0.181112 -0.681494 0.591031 -0.514141 0.023854 0.023854 0.074741 0.074741 0.078791 0.078791 0.079319 0.079319 0.079319 0.079319 0.077448 0.077448 0.078984 0.078984 0.076592 0.076592 0.129264 0.129729 0.090853 0.090853 -0.152679 -0.139588 -0.143051 -0.146977 -0.140974 -0.128326 0.045357 0.045357 0.045357 0.069685 0.069685 0.080180 0.080180 0.079319 0.079319 0.079549 0.079549 0.085684 0.085684 0.044638 0.317433 -0.181063 0.032670 -0.147318 -0.141011 -0.143393 -0.142112 -0.142112 -0.143393 -0.136927 -0.169242 0.085834 -0.685584 0.376529 0.067255 0.067255 0.088173 0.088173 0.081205 0.081205 0.079319 0.079319 0.079319 0.079319 0.079319 0.079319 0.079319 0.079319 0.081205 0.081205 0.085820 0.085820 0.077118 0.077118
+
+$$$$

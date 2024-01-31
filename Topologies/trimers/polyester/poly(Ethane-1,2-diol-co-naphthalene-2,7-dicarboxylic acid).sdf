@@ -1,0 +1,136 @@
+poly(Ethane-1,2-diol-co-naphthalene-2,7-dicarboxylic acid)
+  -OEChem-01302419033D
+
+ 59 62  0     0  0  0  0  0  0999 V2000
+    1.5760   -0.3360    0.8570 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6360   -0.4190   -0.1790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7190    0.1100    0.2900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6750   -0.0360   -0.7240 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0510   -0.4690    1.1770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6310    1.1800    0.5890 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5300   -1.4840   -0.4770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9870    0.1540   -1.0680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4900    0.7150   -1.4170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3630    0.7630   -1.9760 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5350    1.7040   -1.7360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7330    1.6360   -1.1280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9430    0.8600   -0.4020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7880    2.6230   -1.4400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7460    2.5500   -0.9390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5540    3.5950   -2.3340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5790    4.5980   -2.6730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5520    4.5660   -2.1980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3150    5.5560   -3.5700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0860    6.2800   -3.8010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9970    5.6510   -4.2550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7910    6.7390   -5.2310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6980    6.8730   -5.8440 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0190    4.7630   -3.9880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0600    4.8340   -4.4880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2380    3.6790   -3.0100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2790    2.7830   -2.7260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3170    2.8440   -3.2200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8450    0.6180    0.9200 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1480    0.7010    0.4110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1530    0.1720    1.4340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4610    0.3180    0.9520 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5970   -0.4000    0.2790 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0550    0.7520    2.3760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9410   -0.8970    1.6630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3760    1.7660    0.1920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2300    0.1280   -0.5410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5910    7.4400   -5.4300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3550    7.2320   -6.4100 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7670    8.6160   -4.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7500    9.5120   -4.7720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4420    9.3940   -5.5960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9030   10.6810   -3.8810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7000   11.3900   -4.0700 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0610   10.8540   -2.8520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1800   12.0060   -1.9400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9620   12.7410   -2.0900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3240   12.1520   -0.9210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4410   13.0110   -0.2720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2280   11.1750   -0.6630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3170   11.4000    0.4830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3800   10.5920    0.7300 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4900   12.5120    1.3040 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8740   12.6780    2.0910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0710   10.1010   -1.4640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2750    9.3890   -1.2790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9780    9.8750   -2.6070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8380    8.8130   -3.4160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0460    8.0940   -3.2410 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 29  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 38  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 36  1  0  0  0  0
+ 30 37  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 31 34  1  0  0  0  0
+ 31 35  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 38 39  2  0  0  0  0
+ 38 40  1  0  0  0  0
+ 40 41  2  0  0  0  0
+ 40 58  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 43  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 45  2  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 57  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 48  2  0  0  0  0
+ 48 49  1  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  1  0  0  0  0
+ 50 55  2  0  0  0  0
+ 51 52  2  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 57  1  0  0  0  0
+ 57 58  2  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <metadata>
+{0: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Ethane-1,2-diol_MID", 4]}', 'substructure_query_id': 4}, 1: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Ethane-1,2-diol_MID", 3]}', 'substructure_query_id': 3}, 2: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Ethane-1,2-diol_MID", 2]}', 'substructure_query_id': 2}, 3: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Ethane-1,2-diol_MID", 1]}', 'substructure_query_id': 1}, 4: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Ethane-1,2-diol_MID", 8]}', 'substructure_query_id': 8}, 5: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Ethane-1,2-diol_MID", 9]}', 'substructure_query_id': 9}, 6: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Ethane-1,2-diol_MID", 6]}', 'substructure_query_id': 6}, 7: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"3": ["Ethane-1,2-diol_MID", 7]}', 'substructure_query_id': 7}, 8: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 1]}', 'substructure_query_id': 1}, 9: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 2]}', 'substructure_query_id': 2}, 10: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 3]}', 'substructure_query_id': 3}, 11: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 4]}', 'substructure_query_id': 4}, 12: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 5]}', 'substructure_query_id': 5}, 13: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 6]}', 'substructure_query_id': 6}, 14: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 7]}', 'substructure_query_id': 7}, 15: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 8]}', 'substructure_query_id': 8}, 16: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 9]}', 'substructure_query_id': 9}, 17: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 10]}', 'substructure_query_id': 10}, 18: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 11]}', 'substructure_query_id': 11}, 19: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 12]}', 'substructure_query_id': 12}, 20: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 13]}', 'substructure_query_id': 13}, 21: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 14]}', 'substructure_query_id': 14}, 22: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 16]}', 'substructure_query_id': 16}, 23: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 17]}', 'substructure_query_id': 17}, 24: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 18]}', 'substructure_query_id': 18}, 25: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 19]}', 'substructure_query_id': 19}, 26: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 20]}', 'substructure_query_id': 20}, 27: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["naphthalene-2,7-dicarboxylic acid_MID", 21]}', 'substructure_query_id': 21}, 28: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Ethane-1,2-diol_TERM", 1], "2": ["Ethane-1,2-diol_MID", 1]}', 'substructure_query_id': 1}, 29: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Ethane-1,2-diol_TERM", 2], "2": ["Ethane-1,2-diol_MID", 2]}', 'substructure_query_id': 2}, 30: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Ethane-1,2-diol_TERM", 3], "2": ["Ethane-1,2-diol_MID", 3]}', 'substructure_query_id': 3}, 31: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Ethane-1,2-diol_TERM", 4], "2": ["Ethane-1,2-diol_MID", 4]}', 'substructure_query_id': 4}, 32: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Ethane-1,2-diol_TERM", 5]}', 'substructure_query_id': 5}, 33: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Ethane-1,2-diol_TERM", 6], "2": ["Ethane-1,2-diol_MID", 6]}', 'substructure_query_id': 6}, 34: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Ethane-1,2-diol_TERM", 7], "2": ["Ethane-1,2-diol_MID", 7]}', 'substructure_query_id': 7}, 35: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Ethane-1,2-diol_TERM", 8], "2": ["Ethane-1,2-diol_MID", 8]}', 'substructure_query_id': 8}, 36: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["Ethane-1,2-diol_TERM", 9], "2": ["Ethane-1,2-diol_MID", 9]}', 'substructure_query_id': 9}, 37: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 1], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 1]}', 'substructure_query_id': 1}, 38: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 2], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 2]}', 'substructure_query_id': 2}, 39: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 3], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 3]}', 'substructure_query_id': 3}, 40: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 4], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 4]}', 'substructure_query_id': 4}, 41: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 5], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 5]}', 'substructure_query_id': 5}, 42: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 6], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 6]}', 'substructure_query_id': 6}, 43: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 7], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 7]}', 'substructure_query_id': 7}, 44: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 8], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 8]}', 'substructure_query_id': 8}, 45: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 9], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 9]}', 'substructure_query_id': 9}, 46: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 10], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 10]}', 'substructure_query_id': 10}, 47: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 11], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 11]}', 'substructure_query_id': 11}, 48: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 12], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 12]}', 'substructure_query_id': 12}, 49: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 13], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 13]}', 'substructure_query_id': 13}, 50: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 14], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 14]}', 'substructure_query_id': 14}, 51: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 15], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 16]}', 'substructure_query_id': 15}, 52: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 16]}', 'substructure_query_id': 16}, 53: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 17]}', 'substructure_query_id': 17}, 54: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 18], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 17]}', 'substructure_query_id': 18}, 55: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 19], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 18]}', 'substructure_query_id': 19}, 56: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 20], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 19]}', 'substructure_query_id': 20}, 57: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 21], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 20]}', 'substructure_query_id': 21}, 58: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"1": ["naphthalene-2,7-dicarboxylic acid_TERM", 22], "5": ["naphthalene-2,7-dicarboxylic acid_MID", 21]}', 'substructure_query_id': 22}}
+
+> <atom.dprop.PartialCharge>
+-0.130638 0.053449 0.158435 -0.500723 0.093463 0.093463 0.101105 0.101105 0.794090 -0.546236 -0.269077 -0.081724 0.222235 -0.217232 0.191620 -0.083241 -0.210837 0.191620 -0.049052 0.204425 -0.331468 0.581253 -0.568739 0.010823 0.201764 -0.178024 -0.032966 0.212487 -0.125016 0.025431 0.097459 -0.675380 0.399821 0.099360 0.099360 0.101806 0.101806 0.581253 -0.568740 -0.331468 -0.049052 0.204425 -0.210837 0.191620 -0.083241 -0.217232 0.191620 -0.074252 0.222235 -0.261972 0.833435 -0.519057 -0.672065 0.407874 -0.027619 0.212487 -0.178024 0.010823 0.201764
+
+$$$$
