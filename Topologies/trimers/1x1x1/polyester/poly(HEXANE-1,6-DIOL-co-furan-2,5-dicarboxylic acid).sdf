@@ -1,0 +1,146 @@
+poly(HEXANE-1,6-DIOL-co-furan-2,5-dicarboxylic acid)
+  -OEChem-02022413473D
+
+ 65 66  0     0  0  0  0  0  0999 V2000
+    2.9818   -1.6908    6.6049 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9214   -0.5005    5.8685 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6174   -0.8011    4.3988 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5014    0.4951    3.5827 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3286    0.2339    2.0788 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9450   -0.3420    1.7338 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7380   -0.4474    0.2219 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6446   -1.3640   -0.3269 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8720    0.5531   -0.2484 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3022   -0.7922    0.0268 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8284   -1.3534    2.1789 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1543    0.3167    2.1541 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4561    1.2018    1.5470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1272   -0.4525    1.7238 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6507    1.1054    3.9599 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4304    1.0905    3.7217 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4325   -1.4327    3.9815 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6654   -1.3691    4.3443 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1129    0.1336    6.2922 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8818    0.0588    5.9611 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4540   -1.3809   -1.3464 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3534   -1.7600   -2.1400 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1477   -0.9670   -1.8602 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8695   -0.5503   -1.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8823   -0.4575   -0.0395 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9596   -0.2457   -2.0394 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9465    0.1200   -1.7837 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5074   -0.5043   -3.2589 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2720   -0.3388   -4.4961 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7457   -0.6135   -5.6058 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1960   -0.9573   -3.2052 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8562   -2.1119    6.3941 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8803   -2.3110    5.0062 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1467   -0.9869    4.2852 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2226   -1.1916    2.7652 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3569    0.1317    1.9963 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7367    0.7846    2.1778 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9027    2.0135    1.2827 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9932    3.0106    1.6592 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1482    3.7713    1.0408 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7419    1.7310    0.2183 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9416    2.3994    1.3928 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8794    1.0940    3.2358 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5310    0.0505    1.9202 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2015   -0.0834    0.9165 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5575    0.8350    2.3178 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0745   -1.8609    2.5155 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2901   -1.6929    2.4244 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3290   -0.2721    4.5252 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1047   -0.5671    4.6605 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6922   -3.0320    4.7690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9168   -2.7529    4.6643 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2922    0.0206   -4.4633 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0171   -0.0735   -5.4872 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8278    0.6121   -3.2355 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1567    0.7598   -2.1020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1298    0.4708   -1.9207 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0732    1.3879   -1.1553 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8612    1.6576   -0.1286 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2218    1.5652   -1.7983 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4369    2.1659   -1.2382 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4591    2.5714   -0.0454 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5720    2.2888   -2.0328 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.4209    2.7007   -1.6666 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1216    1.0972   -3.1011 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 32  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 31  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 31  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 29 53  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 51  1  0  0  0  0
+ 33 52  1  0  0  0  0
+ 34 35  1  0  0  0  0
+ 34 49  1  0  0  0  0
+ 34 50  1  0  0  0  0
+ 35 36  1  0  0  0  0
+ 35 47  1  0  0  0  0
+ 35 48  1  0  0  0  0
+ 36 37  1  0  0  0  0
+ 36 45  1  0  0  0  0
+ 36 46  1  0  0  0  0
+ 37 38  1  0  0  0  0
+ 37 43  1  0  0  0  0
+ 37 44  1  0  0  0  0
+ 38 39  1  0  0  0  0
+ 38 41  1  0  0  0  0
+ 38 42  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 53 54  2  0  0  0  0
+ 53 55  1  0  0  0  0
+ 55 56  2  0  0  0  0
+ 55 65  1  0  0  0  0
+ 56 57  1  0  0  0  0
+ 56 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+ 58 60  2  0  0  0  0
+ 60 61  1  0  0  0  0
+ 60 65  1  0  0  0  0
+ 61 62  2  0  0  0  0
+ 61 63  1  0  0  0  0
+ 63 64  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+-0.170603 0.035204 -0.145259 -0.140408 -0.141627 -0.140725 0.140115 -0.495167 0.074142 0.074142 0.090106 0.090106 0.086060 0.086060 0.086236 0.086236 0.091192 0.091192 0.083959 0.083959 0.672342 -0.538089 0.249241 -0.289584 0.174314 -0.301519 0.158952 0.301256 0.435250 -0.543420 -0.224744 -0.170603 0.035204 -0.145259 -0.140356 -0.136261 -0.167183 0.088486 -0.681564 0.382623 0.074914 0.074914 0.093547 0.093547 0.086236 0.086236 0.086236 0.086236 0.091192 0.091192 0.083959 0.083959 0.435250 -0.543420 0.301256 -0.301520 0.158952 -0.293294 0.174314 0.260118 0.716567 -0.529768 -0.700035 0.393664 -0.228257
+
+> <metadata>
+{0: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'HEXANE-1,6-DIOL_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'HEXANE-1,6-DIOL_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 60: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 61: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 62: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 63: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 64: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

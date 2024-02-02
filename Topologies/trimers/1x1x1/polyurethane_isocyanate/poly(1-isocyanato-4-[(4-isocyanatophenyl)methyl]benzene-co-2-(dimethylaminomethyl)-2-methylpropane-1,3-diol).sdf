@@ -1,0 +1,242 @@
+poly(1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene-co-2-(dimethylaminomethy
+  -OEChem-02022413543D
+
+112115  0     1  0  0  0  0  0999 V2000
+   -0.2185   -3.8863    4.0264 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9553   -4.3206    4.1690 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8638   -3.8934    2.7476 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1953   -4.1719    1.5055 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8753   -4.7494    0.5013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9142   -5.0267    0.6306 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2140   -5.0323   -0.7899 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7863   -5.5008   -1.5809 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0766   -4.7081   -0.9756 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7487   -4.9541   -2.2997 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5739   -3.7618   -3.2001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5114   -3.6674   -4.0172 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2249   -4.4611   -4.0598 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3267   -2.4723   -4.8662 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5321   -2.4236   -5.5244 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1974   -1.4513   -4.8073 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0022   -0.3020   -5.6502 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3924    1.0304   -5.2971 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7617    1.3168   -4.1284 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4766   -0.4213   -6.5451 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3780   -1.5613   -3.9107 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1253   -0.7791   -3.8853 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5499   -2.6480   -3.1485 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4167   -2.7160   -2.5026 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8310   -5.1460   -2.1389 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3373   -5.8698   -2.7807 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8190   -4.0296    0.1139 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8463   -3.7237   -0.0393 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2199   -3.7736    1.2833 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7697   -3.2442    2.0491 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9006   -3.7584    2.7400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3337    1.7837   -6.0087 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4946    1.1594   -7.2543 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4291    2.1959   -8.4073 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5903    1.4303   -9.7407 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846    0.6736   -9.8572 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5389    2.1174  -10.6117 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5687    0.9042   -9.7732 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0473    2.9022   -8.3690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357    3.7268   -9.4886 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7635    2.1382   -8.3499 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0392    3.5141   -7.4423 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5879    3.2208   -8.2327 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6254    4.1963   -9.3519 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8652    4.0702  -10.1368 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7583    4.3094   -9.5183 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9657    3.0365  -10.5324 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8347    4.7543  -11.0127 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4826    5.5795   -8.8679 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5275    5.6927   -8.3129 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4498    6.2848   -9.7258 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3265    5.8582   -8.1983 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4670    3.7335   -7.2503 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5500    2.6645   -8.1437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4747    0.6302   -7.2757 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6958    0.3947   -7.3862 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7616   -3.5390    4.8950 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035   -2.8516    4.7336 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3097   -3.9128    6.2040 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8597   -3.4049    7.4329 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2794   -2.1307    7.5475 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2079   -1.4418    6.7175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8064   -1.6310    8.8345 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1348   -0.6013    8.9022 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8668   -2.4418    9.9047 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3614   -1.9313   11.2300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2232   -1.3443   12.0199 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4751   -2.1170   12.8265 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6961   -3.1713   12.9419 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6668   -1.5407   13.5649 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2422   -2.1895   14.2134 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9791   -0.2345   13.4264 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0797    0.3750   14.1203 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8539   -0.2432   14.9210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6065   -0.8435   15.6995 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1632    0.6092   12.5252 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4086    1.6562   12.4002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8743    0.0870   11.8591 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4576    0.7168   11.1996 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1506   -1.1617   11.0778 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8396   -2.7586   11.7998 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3698   -3.8335    9.7899 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3881   -4.4898   10.6506 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8924   -4.2861    8.6244 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5320   -5.3039    8.5523 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3972   -4.6793    6.2617 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0242    4.1532   -9.3759 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7805    5.5211   -9.1815 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1076    6.3003   -8.9875 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7561    7.7955   -8.8040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2102    8.1801   -9.6919 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6690    8.4129   -8.6723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1113    7.9381   -7.9099 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9864    6.1185  -10.2552 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1245    6.9366  -10.2090 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6368    6.7443  -11.0366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3934    6.3773  -11.1610 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3015    5.0539  -10.3460 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8324    5.7585   -7.7199 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0754    6.5201   -7.4365 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9883    7.2407   -6.1559 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8843    6.5329   -5.3037 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1159    7.9296   -6.1615 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8960    7.8629   -6.0038 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2570    5.6417   -7.4323 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3544    5.1285   -8.4134 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1801    6.2411   -7.2821 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1839    4.8747   -6.6290 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0430    4.6740   -7.8656 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1251    5.7967   -6.8586 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1289    5.6541   -8.2871 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2299    5.9234  -10.0627 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 57  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 31  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 29  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 32  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  2  0  0  0  0
+ 29 30  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 55  1  0  0  0  0
+ 33 56  1  0  0  0  0
+ 34 35  1  0  0  0  0
+ 34 39  1  0  0  0  0
+ 34 43  1  0  0  0  0
+ 35 36  1  0  0  0  0
+ 35 37  1  0  0  0  0
+ 35 38  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 39 41  1  0  0  0  0
+ 39 42  1  0  0  0  0
+ 40 87  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 53  1  0  0  0  0
+ 43 54  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 44 49  1  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 47  1  0  0  0  0
+ 45 48  1  0  0  0  0
+ 49 50  1  0  0  0  0
+ 49 51  1  0  0  0  0
+ 49 52  1  0  0  0  0
+ 57 58  2  0  0  0  0
+ 57 59  1  0  0  0  0
+ 59 60  1  0  0  0  0
+ 59 86  1  0  0  0  0
+ 60 61  2  0  0  0  0
+ 60 84  1  0  0  0  0
+ 61 62  1  0  0  0  0
+ 61 63  1  0  0  0  0
+ 63 64  1  0  0  0  0
+ 63 65  2  0  0  0  0
+ 65 66  1  0  0  0  0
+ 65 82  1  0  0  0  0
+ 66 67  1  0  0  0  0
+ 66 80  1  0  0  0  0
+ 66 81  1  0  0  0  0
+ 67 68  2  0  0  0  0
+ 67 78  1  0  0  0  0
+ 68 69  1  0  0  0  0
+ 68 70  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 70 72  2  0  0  0  0
+ 72 73  1  0  0  0  0
+ 72 76  1  0  0  0  0
+ 73 74  2  0  0  0  0
+ 74 75  2  0  0  0  0
+ 76 77  1  0  0  0  0
+ 76 78  2  0  0  0  0
+ 78 79  1  0  0  0  0
+ 82 83  1  0  0  0  0
+ 82 84  2  0  0  0  0
+ 84 85  1  0  0  0  0
+ 87 88  1  0  0  0  0
+ 88 89  1  0  0  0  0
+ 88111  1  0  0  0  0
+ 88112  1  0  0  0  0
+ 89 90  1  0  0  0  0
+ 89 94  1  0  0  0  0
+ 89 99  1  0  0  0  0
+ 90 91  1  0  0  0  0
+ 90 92  1  0  0  0  0
+ 90 93  1  0  0  0  0
+ 94 95  1  0  0  0  0
+ 94 97  1  0  0  0  0
+ 94 98  1  0  0  0  0
+ 95 96  1  0  0  0  0
+ 99100  1  0  0  0  0
+ 99109  1  0  0  0  0
+ 99110  1  0  0  0  0
+100101  1  0  0  0  0
+100105  1  0  0  0  0
+101102  1  0  0  0  0
+101103  1  0  0  0  0
+101104  1  0  0  0  0
+105106  1  0  0  0  0
+105107  1  0  0  0  0
+105108  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.569847 -0.619206 -0.509465 0.202238 -0.383410 0.213305 -0.146055 0.211643 -0.248347 -0.051707 -0.248347 -0.146055 0.211643 -0.371075 0.213306 0.225833 -0.471916 0.816143 -0.559547 0.323495 -0.371075 0.213305 -0.146055 0.211643 0.124240 0.124240 -0.146055 0.211643 -0.383410 0.213306 0.319445 -0.484853 0.103132 -0.012750 -0.158160 0.091700 0.091700 0.091700 0.008419 -0.124052 0.118556 0.118556 0.066960 -0.714287 0.087049 0.078994 0.078994 0.078994 0.087049 0.078994 0.078994 0.078994 0.098831 0.098831 0.109079 0.109079 0.569847 -0.619206 -0.509465 0.202238 -0.383410 0.213305 -0.146055 0.211643 -0.248347 -0.051707 -0.263061 -0.190879 0.197568 -0.264316 0.205552 0.439365 -0.362015 0.614284 -0.325299 -0.264316 0.205552 -0.190879 0.197568 0.124240 0.124240 -0.146055 0.211643 -0.383410 0.213306 0.319445 -0.123583 0.018396 -0.046713 -0.151013 0.091506 0.091506 0.091506 0.072252 -0.666630 0.399649 0.105786 0.105786 0.077803 -0.714539 0.087049 0.078994 0.078994 0.078994 0.087049 0.078994 0.078994 0.078994 0.098751 0.098751 0.118648 0.118648
+
+> <metadata>
+{0: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 60: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 61: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 62: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 63: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 64: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 65: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 66: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 67: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 68: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 69: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 70: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 71: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 72: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 73: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 74: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 75: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 76: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 77: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 78: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 79: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 80: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 81: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 82: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 83: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 84: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 85: {'residue_name': '1-isocyanato-4-[(4-isocyanatophenyl)methyl]benzene_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 86: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 87: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 88: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 89: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 90: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 91: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 92: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 93: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 94: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 95: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 96: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 97: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 98: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 99: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 100: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 101: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 102: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 103: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 104: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 105: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 106: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 107: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 108: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 109: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 110: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 111: {'residue_name': '2-(dimethylaminomethyl)-2-methylpropane-1,3-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

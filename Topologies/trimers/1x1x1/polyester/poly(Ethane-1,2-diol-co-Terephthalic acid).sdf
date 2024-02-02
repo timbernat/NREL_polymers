@@ -1,0 +1,110 @@
+poly(Ethane-1,2-diol-co-Terephthalic acid)
+  -OEChem-02022413533D
+
+ 47 48  0     0  0  0  0  0  0999 V2000
+    1.5541    3.1894   -4.9601 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4400    2.7738   -4.2187 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8531    2.4279   -2.7884 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2713    2.0777   -2.0291 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3347    3.3128   -2.3223 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5929    1.5944   -2.7933 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2998    3.6023   -4.1958 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0428    1.8944   -4.7040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5319    1.1130   -2.3119 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4703    0.7984   -3.5296 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9652    0.1346   -1.2981 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0255    0.4876   -0.0039 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7574    1.4890    0.3115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4596   -0.4877    1.0180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4980   -0.1752    2.0548 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7991   -1.7391    0.6642 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2306   -2.7053    1.6901 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5522   -3.8806    1.3738 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7340   -2.1306   -0.7663 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0036   -3.1334   -1.0708 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3401   -1.2469   -1.6921 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2989   -1.5503   -2.7310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0654    2.3689   -5.1876 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8708    2.1426   -6.5568 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7216    3.1084   -7.3813 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5789    2.8370   -8.7490 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6966    3.2044   -9.0204 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7896    2.9825   -7.1040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4295    4.1604   -7.1620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1728    1.0993   -6.7902 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7943    2.2571   -6.8199 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2755   -2.4114    2.7309 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3371   -2.6187    3.3774 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1103   -1.7807    3.3760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0147   -1.5670    2.6727 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0784   -1.8543    1.6294 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1875   -0.9351    3.3110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0775   -0.7779    2.7137 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1461   -0.5653    4.6053 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3118    0.0681    5.2587 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3757    0.2767    4.6148 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2419    0.4413    6.5980 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0327    0.8760    7.0597 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0979   -0.8024    5.3803 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1563   -0.5137    6.4225 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1611   -1.3747    4.8015 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0576   -1.5387    5.3853 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 23  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 32  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 30  1  0  0  0  0
+ 24 31  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 25 29  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 32 33  2  0  0  0  0
+ 32 34  1  0  0  0  0
+ 34 35  2  0  0  0  0
+ 34 46  1  0  0  0  0
+ 35 36  1  0  0  0  0
+ 35 37  1  0  0  0  0
+ 37 38  1  0  0  0  0
+ 37 39  2  0  0  0  0
+ 39 40  1  0  0  0  0
+ 39 44  1  0  0  0  0
+ 40 41  2  0  0  0  0
+ 40 42  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 44 46  2  0  0  0  0
+ 46 47  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+-0.136787 0.051915 0.156981 -0.502690 0.089729 0.089729 0.097276 0.097276 0.791808 -0.555488 -0.302927 -0.101251 0.215078 -0.057620 0.198021 -0.364517 0.582856 -0.583605 -0.057620 0.198021 -0.101251 0.215078 -0.131128 0.023863 0.095883 -0.677695 0.396407 0.095099 0.095099 0.097969 0.097969 0.582856 -0.583605 -0.364517 -0.057620 0.198021 -0.098600 0.215078 -0.292099 0.830224 -0.530015 -0.674463 0.404385 -0.098600 0.215078 -0.057620 0.198021
+
+> <metadata>
+{0: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'Terephthalic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'Terephthalic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

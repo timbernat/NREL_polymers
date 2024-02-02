@@ -1,0 +1,136 @@
+poly(Ethane-1,2-diol-co-naphthalene-2,7-dicarboxylic acid)
+  -OEChem-02022413353D
+
+ 59 62  0     0  0  0  0  0  0999 V2000
+    2.6733   -6.9753    2.0222 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9634   -6.6783    0.8511 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6184   -6.0383    1.1935 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1195   -5.8038    0.0256 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0412   -6.7261    1.8461 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7769   -5.0858    1.7500 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7878   -7.6232    0.2937 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5587   -5.9990    0.1984 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2969   -4.9663   -0.4257 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5116   -4.9932   -0.7553 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5275   -3.7700   -0.6734 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8237   -3.7607   -0.3138 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2742   -4.6250    0.1587 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6595   -2.5661   -0.5571 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7014   -2.5797   -0.2598 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1265   -1.4818   -1.1393 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9256   -0.2713   -1.3993 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9716   -0.2373   -1.1197 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3647    0.7951   -1.9826 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9745    1.6713   -2.1626 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9328    0.8076   -2.3888 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3956    2.0256   -3.0264 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8080    2.0986   -3.3930 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1501   -0.2691   -2.1781 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8923   -0.2579   -2.4747 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6998   -1.4815   -1.5398 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0600   -2.5662   -1.3180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1028   -2.5664   -1.6107 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0414   -6.1155    2.3564 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4210   -6.1491    2.1131 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1198   -7.0436    3.1367 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5066   -7.0230    2.9351 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6866   -7.5959    2.1436 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9040   -6.6667    4.1589 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7326   -8.0852    3.0639 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8212   -5.1161    2.1972 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6241   -6.5145    1.0803 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0430    2.8778   -3.1863 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6094    3.0129   -4.3036 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2454    3.8563   -2.1011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0426    4.9307   -2.2610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5598    5.1074   -3.1954 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2272    5.8948   -1.1564 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8728    6.7521   -1.3043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5997    5.7025    0.0128 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7577    6.6400    1.1393 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3935    7.5116    1.0374 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1179    6.4215    2.2948 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2568    7.1319    3.1003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2300    5.2410    2.4958 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4470    5.0625    3.8011 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2041    4.0739    4.0047 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2503    5.9898    4.8218 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7073    5.8799    5.7192 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0481    4.3487    1.5006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5970    3.4896    1.6438 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7220    4.5250    0.1987 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5534    3.6489   -0.8043 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0890    2.7857   -0.6730 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 29  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 38  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 36  1  0  0  0  0
+ 30 37  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 31 34  1  0  0  0  0
+ 31 35  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 38 39  2  0  0  0  0
+ 38 40  1  0  0  0  0
+ 40 41  2  0  0  0  0
+ 40 58  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 43  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 45  2  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 57  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 48  2  0  0  0  0
+ 48 49  1  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  1  0  0  0  0
+ 50 55  2  0  0  0  0
+ 51 52  2  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 57  1  0  0  0  0
+ 57 58  2  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+-0.130638 0.053449 0.158435 -0.500723 0.093463 0.093463 0.101105 0.101105 0.794090 -0.546236 -0.269077 -0.081724 0.222235 -0.217232 0.191620 -0.083241 -0.210837 0.191620 -0.049052 0.204425 -0.331468 0.581253 -0.568739 0.010823 0.201764 -0.178024 -0.032966 0.212487 -0.125016 0.025431 0.097459 -0.675380 0.399821 0.099360 0.099360 0.101806 0.101806 0.581253 -0.568740 -0.331468 -0.049052 0.204425 -0.210837 0.191620 -0.083241 -0.217232 0.191620 -0.074252 0.222235 -0.261972 0.833435 -0.519057 -0.672065 0.407874 -0.027619 0.212487 -0.178024 0.010823 0.201764
+
+> <metadata>
+{0: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'Ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'Ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'naphthalene-2,7-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

@@ -1,0 +1,188 @@
+poly(Butane-1,4-diol-co-Decanedioic acid)
+  -OEChem-02022413513D
+
+ 87 86  0     0  0  0  0  0  0999 V2000
+   -1.9882    3.9241   -0.0174 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2370    3.6244    0.5443 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0541    2.8410    1.8496 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3707    2.6304    2.6160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3245    1.6448    1.9318 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9891    2.2686    0.8695 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0764    1.3022    2.6782 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7645    0.7538    1.5679 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1162    2.2205    3.6180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8817    3.6042    2.7807 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3614    3.4086    2.5084 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5765    1.8598    1.6325 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8107    4.5616    0.7291 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8018    3.0090   -0.1853 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5999    1.5422    0.4442 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7584    1.4479    0.8155 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0741    0.6154   -0.6113 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6030    0.9180   -0.9319 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0605    0.0653   -2.0909 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7734   -1.3858   -1.6699 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3267   -2.2738   -2.8462 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0136   -1.8466   -3.5270 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8095   -1.8662   -2.5734 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4983   -1.6220   -3.3358 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6774   -1.6231   -2.4082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7988   -1.4410   -2.8506 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6416   -2.4186   -4.0972 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4499   -0.6395   -3.8533 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9286   -1.0694   -1.8080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7576   -2.8524   -2.0612 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8227   -2.5567   -4.3603 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1236   -0.8388   -3.9812 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2139   -3.3171   -2.4776 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1330   -2.2876   -3.6111 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0119   -1.4063   -0.8616 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6975   -1.8388   -1.2537 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7756    0.0838   -2.9421 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1137    0.5350   -2.4323 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5171    1.9882   -1.2256 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9767    0.7666   -0.0254 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6900    0.7353   -1.5292 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1802   -0.4259   -0.2439 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6213    4.6899    0.4960 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6727    5.1930    1.2751 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6093    6.0437    0.4094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8834    6.4835    1.1520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6235    7.5310    2.2420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1080    6.9204    3.3912 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9480    7.6504    4.0433 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5880    8.0243    2.4959 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9210    8.3096    1.8686 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5723    6.9312    0.4043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3998    5.6009    1.5875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9197    5.4410   -0.4726 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0632    6.9342    0.0297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2330    4.3574    1.7517 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2337    5.8201    2.0782 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5476   -1.7843   -1.3431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4909   -0.8248   -0.5906 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4228   -3.1811   -0.8067 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5856   -3.5463    0.1268 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9222   -3.6414   -0.6231 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0561   -4.0530    0.3243 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3955   -4.1343   -0.4237 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5344   -4.6741    0.4558 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9888   -3.6627    1.5227 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1776   -4.1815    2.3421 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4325   -4.2369    1.5259 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8651   -5.3432    1.1044 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1074   -3.0617    1.2111 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9508   -3.0814    0.6511 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3489   -3.4959    3.1996 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9448   -5.1856    2.7594 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2577   -2.6958    1.0430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1524   -3.4711    2.2265 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2188   -5.6226    0.9418 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3924   -4.9077   -0.2106 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6695   -3.1325   -0.8225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2793   -4.8205   -1.2912 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1289   -3.3040    1.1415 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8199   -5.0447    0.7700 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1664   -2.6557   -1.0761 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8332   -4.3925   -1.4389 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606   -2.7938    0.9436 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3609   -4.5300    0.5928 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3825   -3.8998   -1.6545 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4663   -3.2644   -0.2478 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 43  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 41  1  0  0  0  0
+ 17 42  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 39  1  0  0  0  0
+ 18 40  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 37  1  0  0  0  0
+ 19 38  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 35  1  0  0  0  0
+ 20 36  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 33  1  0  0  0  0
+ 21 34  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 31  1  0  0  0  0
+ 22 32  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 29  1  0  0  0  0
+ 23 30  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 24 28  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 58  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 44 56  1  0  0  0  0
+ 44 57  1  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 54  1  0  0  0  0
+ 45 55  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 52  1  0  0  0  0
+ 46 53  1  0  0  0  0
+ 47 48  1  0  0  0  0
+ 47 50  1  0  0  0  0
+ 47 51  1  0  0  0  0
+ 48 49  1  0  0  0  0
+ 58 59  2  0  0  0  0
+ 58 60  1  0  0  0  0
+ 60 61  1  0  0  0  0
+ 60 86  1  0  0  0  0
+ 60 87  1  0  0  0  0
+ 61 62  1  0  0  0  0
+ 61 84  1  0  0  0  0
+ 61 85  1  0  0  0  0
+ 62 63  1  0  0  0  0
+ 62 82  1  0  0  0  0
+ 62 83  1  0  0  0  0
+ 63 64  1  0  0  0  0
+ 63 80  1  0  0  0  0
+ 63 81  1  0  0  0  0
+ 64 65  1  0  0  0  0
+ 64 78  1  0  0  0  0
+ 64 79  1  0  0  0  0
+ 65 66  1  0  0  0  0
+ 65 76  1  0  0  0  0
+ 65 77  1  0  0  0  0
+ 66 67  1  0  0  0  0
+ 66 74  1  0  0  0  0
+ 66 75  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 72  1  0  0  0  0
+ 67 73  1  0  0  0  0
+ 68 69  2  0  0  0  0
+ 68 70  1  0  0  0  0
+ 70 71  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+-0.180474 0.031574 -0.146612 -0.139233 0.133855 -0.495184 0.077910 0.077910 0.086662 0.086662 0.087626 0.087626 0.077503 0.077503 0.761011 -0.558550 -0.209034 -0.115894 -0.136565 -0.141905 -0.141905 -0.139221 -0.097557 -0.258041 0.516410 -0.692545 0.112866 0.112866 0.076040 0.076040 0.077727 0.077727 0.079599 0.079599 0.079599 0.079599 0.077727 0.077727 0.084813 0.084813 0.116016 0.116016 -0.180474 0.031685 -0.140880 -0.167929 0.084974 -0.685358 0.376871 0.067685 0.067685 0.090089 0.090089 0.087794 0.087794 0.077503 0.077503 0.516410 -0.692545 -0.258041 -0.097557 -0.139221 -0.141905 -0.141905 -0.136565 -0.113360 -0.219130 0.823068 -0.560183 -0.666265 0.393052 0.117034 0.117034 0.084813 0.084813 0.077727 0.077727 0.079599 0.079599 0.079599 0.079599 0.077727 0.077727 0.076040 0.076040 0.112866 0.112866
+
+> <metadata>
+{0: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'Butane-1,4-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'Decanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'Butane-1,4-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 60: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 61: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 62: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 63: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 64: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 65: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 66: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 67: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 68: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 69: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 70: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 71: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 72: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 73: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 74: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 75: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 76: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 77: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 78: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 79: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 80: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 81: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 82: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 83: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 84: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 85: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 86: {'residue_name': 'Decanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

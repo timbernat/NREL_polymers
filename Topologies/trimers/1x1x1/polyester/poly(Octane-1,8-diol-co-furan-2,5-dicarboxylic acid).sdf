@@ -1,0 +1,170 @@
+poly(Octane-1,8-diol-co-furan-2,5-dicarboxylic acid)
+  -OEChem-02022413413D
+
+ 77 78  0     0  0  0  0  0  0999 V2000
+   -1.7915   -0.2903   -2.3262 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9436    0.2110   -1.3279 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7590    0.9699   -0.2740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8722    1.5651    0.8413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6644    3.0871    0.7231 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1130    3.5383   -0.5251 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5790    3.0792   -0.5116 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3395    3.6427   -1.7197 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7849    3.1387   -1.7739 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5311    3.6536   -0.7021 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8109    2.0241   -1.7865 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2470    3.4904   -2.7198 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3405    4.7543   -1.6798 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8245    3.3302   -2.6544 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6287    1.9703   -0.5429 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0624    3.4294    0.4263 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0916    4.6497   -0.5522 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3961    3.1836   -1.4451 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1295    3.4451    1.6298 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6578    3.5854    0.7203 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1039    1.0394    0.9103 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3803    1.3838    1.8142 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4751    0.2539    0.1869 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3648    1.7608   -0.7665 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3777   -0.6217   -0.8508 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2087    0.8883   -1.8058 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4542    2.9697    0.0738 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4588    2.7352    0.7953 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1886    2.2799    0.3290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0716    2.4489   -0.3659 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9348    3.1116   -1.2104 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0729    1.5695    0.2326 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0433    1.4457   -0.0782 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6729    0.9445    1.2374 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0389   -0.0369    2.1190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7001   -0.5733    3.0460 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9953    1.3510    1.3426 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2439   -1.0861   -1.9414 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2310   -1.9619   -1.5255 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6225   -2.6795   -2.7364 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4858   -3.6768   -2.3349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0455   -5.1518   -2.3935 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0567   -5.5377   -1.3921 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5838   -5.4690    0.0680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6793   -5.9651    1.0215 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2648   -5.8362    2.4900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2105   -6.7134    2.7863 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6336   -6.2144    2.6298 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9923   -4.7820    2.7282 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1325   -6.1063    3.1276 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9185   -7.0288    0.8006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6016   -5.3641    0.8632 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3260   -4.4224    0.3334 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3235   -6.0993    0.1872 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3637   -6.5823   -1.6154 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9521   -4.8993   -1.5405 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9337   -5.7967   -2.2183 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3156   -5.3767   -3.4211 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9121   -3.4340   -1.3390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3248   -3.5624   -3.0561 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1799   -1.9084   -3.4051 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4251   -3.1867   -3.3144 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4427   -1.4022   -0.9731 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6747   -2.6980   -0.8263 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0002   -0.3073    1.9789 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4642   -1.3178    2.5697 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8606    0.4950    1.1080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4776    1.5740    0.4396 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5115    2.0138    0.4388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500    2.0470   -0.2909 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7035    2.9096   -0.9431 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6415    1.2121   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0140    1.2966   -0.5109 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3477    2.2212   -1.3002 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9523    0.3480   -0.1193 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9048    0.3875   -0.4597 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2009    0.2250    0.8694 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 38  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 25  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 23  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 27 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 29 37  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 34  2  0  0  0  0
+ 34 35  1  0  0  0  0
+ 34 37  1  0  0  0  0
+ 35 36  2  0  0  0  0
+ 35 65  1  0  0  0  0
+ 38 39  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 39 63  1  0  0  0  0
+ 39 64  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 61  1  0  0  0  0
+ 40 62  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 59  1  0  0  0  0
+ 41 60  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 42 57  1  0  0  0  0
+ 42 58  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 55  1  0  0  0  0
+ 43 56  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 44 53  1  0  0  0  0
+ 44 54  1  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 51  1  0  0  0  0
+ 45 52  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 49  1  0  0  0  0
+ 46 50  1  0  0  0  0
+ 47 48  1  0  0  0  0
+ 65 66  2  0  0  0  0
+ 65 67  1  0  0  0  0
+ 67 68  2  0  0  0  0
+ 67 77  1  0  0  0  0
+ 68 69  1  0  0  0  0
+ 68 70  1  0  0  0  0
+ 70 71  1  0  0  0  0
+ 70 72  2  0  0  0  0
+ 72 73  1  0  0  0  0
+ 72 77  1  0  0  0  0
+ 73 74  2  0  0  0  0
+ 73 75  1  0  0  0  0
+ 75 76  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+-0.172885 0.034651 -0.145708 -0.139483 -0.141892 -0.141942 -0.140752 -0.141167 0.139597 -0.495981 0.072732 0.072732 0.088953 0.088953 0.084963 0.084963 0.083209 0.083209 0.083209 0.083209 0.085139 0.085139 0.090020 0.090020 0.082467 0.082467 0.671531 -0.541986 0.247015 -0.292315 0.172188 -0.303789 0.156760 0.298785 0.434371 -0.550659 -0.226174 -0.172885 0.034651 -0.145708 -0.139483 -0.141892 -0.141892 -0.135398 -0.167632 0.087907 -0.682441 0.381294 0.073243 0.073243 0.092374 0.092374 0.085139 0.085139 0.083209 0.083209 0.083209 0.083209 0.085139 0.085139 0.090020 0.090020 0.082467 0.082467 0.434372 -0.550659 0.298785 -0.303789 0.156760 -0.296082 0.172188 0.257897 0.715642 -0.534323 -0.701042 0.392285 -0.229705
+
+> <metadata>
+{0: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'Octane-1,8-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 60: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 61: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 62: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 63: {'residue_name': 'Octane-1,8-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 64: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 65: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 66: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 67: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 68: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 69: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 70: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 71: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 72: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 73: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 74: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 75: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 76: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

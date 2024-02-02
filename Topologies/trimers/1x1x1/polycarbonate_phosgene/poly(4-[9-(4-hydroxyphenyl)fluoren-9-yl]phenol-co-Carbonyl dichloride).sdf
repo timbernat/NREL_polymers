@@ -1,0 +1,208 @@
+poly(4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol-co-Carbonyl dichloride)
+  -OEChem-02022413163D
+
+ 92101  0     0  0  0  0  0  0999 V2000
+    1.7884    2.7663    1.1773 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9032    2.0555   -0.0153 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8195    1.7528   -0.7440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1655    2.0553   -0.4132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9598    0.9991   -2.0058 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0587    0.7433   -2.5486 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1767    0.6394   -2.4709 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -0.1991   -3.7508 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3403    0.2292   -4.8667 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8296   -0.6581   -5.7513 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0520   -1.7139   -5.6857 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0447   -0.2094   -6.8545 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4650   -0.9449   -7.5292 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3092    1.0939   -7.0196 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1328    1.5309   -8.0559 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2836    2.0809   -6.0985 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0905    3.1360   -6.2449 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0665    1.6783   -5.0917 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5059    2.4248   -4.4414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1766   -1.6692   -3.3696 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1170   -2.2894   -2.8283 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2062   -1.7491   -2.6081 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2100   -3.7438   -2.5441 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3637   -4.2578   -2.1054 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3366   -4.4246   -2.8311 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3960   -5.4849   -2.6225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4988   -3.7293   -3.4361 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4027   -4.2748   -3.6741 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3903   -2.4200   -3.6797 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3415   -1.5030   -4.2641 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5858   -1.7204   -4.7026 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0355   -2.7038   -4.6559 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3415   -0.5704   -5.2558 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3506   -0.7175   -5.6181 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7786    0.6529   -5.3074 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3363    1.4878   -5.7107 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3950    0.8649   -4.8116 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9519    1.8508   -4.8443 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7188   -0.1824   -4.3168 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3682    0.9483   -1.6245 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3575    0.6227   -1.9189 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2358    1.6232   -0.4761 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1089    1.8421    0.1254 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5713    0.8609   -8.7331 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7853    0.8004   -8.8313 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8897    3.0791    1.5282 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1819    2.3503    2.4818 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6659    1.2000    2.9697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6174    0.8152    2.6250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0975    0.4420    3.9806 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3095   -0.5003    4.3247 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2695    0.9105    4.4637 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0862    0.0830    5.4674 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2269   -0.6053    6.5411 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5729   -1.7963    7.0808 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4520   -2.3323    6.7501 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7642   -2.4038    8.1566 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0470   -3.3718    8.5500 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3038   -1.7578    8.6462 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0761   -2.3190    9.6620 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8591   -3.2257   10.0586 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651   -0.4328    8.1084 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5124    0.1009    8.5187 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0582    0.1153    7.1259 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2150    1.0981    6.7626 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9611   -0.8858    4.6823 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5682   -1.8813    3.8731 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5191   -2.0850    3.7079 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6036   -2.7137    3.2094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3022   -3.5181    2.5524 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9119   -2.4732    3.4223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6613   -3.0852    2.9364 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3359   -1.3749    4.3253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3849   -1.1834    4.5043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3830   -0.6393    4.9077 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5000    0.4692    5.8295 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5911    1.0577    6.3284 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5845    0.7221    6.0640 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4034    2.1961    7.2624 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2688    2.6914    7.6824 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1640    2.6133    7.5861 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0341    3.4453    8.2659 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9696    1.9404    7.0137 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9771    2.2859    7.2671 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1513    0.9100    6.1734 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8133    2.1725    3.8791 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7787    2.5535    4.1823 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1228    2.8511    2.9552 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5286    3.7654    2.5417 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9451    0.2223   -9.3466 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2638    0.2179   -9.1866 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6718   -0.8053  -10.5676 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 46  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 42  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 40  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 39  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 44  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 29  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  2  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  2  0  0  0  0
+ 30 39  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 31 33  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  2  0  0  0  0
+ 35 36  1  0  0  0  0
+ 35 37  1  0  0  0  0
+ 37 38  1  0  0  0  0
+ 37 39  2  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 42  2  0  0  0  0
+ 42 43  1  0  0  0  0
+ 44 45  2  0  0  0  0
+ 44 90  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 47 48  2  0  0  0  0
+ 47 88  1  0  0  0  0
+ 48 49  1  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  1  0  0  0  0
+ 50 52  2  0  0  0  0
+ 52 53  1  0  0  0  0
+ 52 86  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 66  1  0  0  0  0
+ 53 85  1  0  0  0  0
+ 54 55  2  0  0  0  0
+ 54 64  1  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 57  1  0  0  0  0
+ 57 58  1  0  0  0  0
+ 57 59  2  0  0  0  0
+ 59 60  1  0  0  0  0
+ 59 62  1  0  0  0  0
+ 60 61  1  0  0  0  0
+ 62 63  1  0  0  0  0
+ 62 64  2  0  0  0  0
+ 64 65  1  0  0  0  0
+ 66 67  2  0  0  0  0
+ 66 75  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 69  1  0  0  0  0
+ 69 70  1  0  0  0  0
+ 69 71  2  0  0  0  0
+ 71 72  1  0  0  0  0
+ 71 73  1  0  0  0  0
+ 73 74  1  0  0  0  0
+ 73 75  2  0  0  0  0
+ 75 76  1  0  0  0  0
+ 76 77  2  0  0  0  0
+ 76 85  1  0  0  0  0
+ 77 78  1  0  0  0  0
+ 77 79  1  0  0  0  0
+ 79 80  1  0  0  0  0
+ 79 81  2  0  0  0  0
+ 81 82  1  0  0  0  0
+ 81 83  1  0  0  0  0
+ 83 84  1  0  0  0  0
+ 83 85  2  0  0  0  0
+ 86 87  1  0  0  0  0
+ 86 88  2  0  0  0  0
+ 88 89  1  0  0  0  0
+ 90 91  2  0  0  0  0
+ 90 92  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+-0.032207 0.272616 -0.336859 0.223483 -0.132765 0.206013 -0.114736 0.208742 -0.114736 -0.133937 0.206013 -0.296669 0.222763 0.432905 -0.444080 -0.296669 0.222763 -0.133937 0.206013 -0.058525 -0.061158 0.202579 -0.282705 0.210792 -0.244444 0.204881 -0.197959 0.193326 -0.015303 -0.015303 -0.197959 0.193326 -0.244444 0.204881 -0.282705 0.210792 -0.061158 0.202579 -0.058525 -0.132765 0.206013 -0.336859 0.223483 0.626192 -0.510335 -0.032207 0.272616 -0.336859 0.223483 -0.132765 0.206013 -0.114736 0.208742 -0.114736 -0.086660 0.206013 -0.434523 0.228546 0.426175 -0.652559 0.431039 -0.434523 0.228546 -0.086660 0.206013 -0.058525 -0.061158 0.202579 -0.282705 0.210792 -0.244444 0.204881 -0.197959 0.193326 -0.015303 -0.015303 -0.197959 0.193326 -0.244444 0.204881 -0.282705 0.210792 -0.061158 0.202579 -0.058525 -0.132765 0.206013 -0.336859 0.223483 0.465786 -0.590957 -0.092045
+
+> <metadata>
+{0: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'Carbonyl dichloride_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'Carbonyl dichloride_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 60: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 61: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 62: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 63: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 64: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 65: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 66: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 67: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 68: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 69: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 70: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 71: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 72: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 73: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 74: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 75: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 76: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 77: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 78: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 79: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 80: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 81: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 82: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 83: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 84: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 85: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 86: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 87: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 88: {'residue_name': '4-[9-(4-hydroxyphenyl)fluoren-9-yl]phenol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 89: {'residue_name': 'Carbonyl dichloride_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 90: {'residue_name': 'Carbonyl dichloride_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 91: {'residue_name': 'Carbonyl dichloride_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

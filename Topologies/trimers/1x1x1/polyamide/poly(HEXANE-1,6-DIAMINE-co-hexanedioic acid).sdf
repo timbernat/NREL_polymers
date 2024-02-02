@@ -1,0 +1,172 @@
+poly(HEXANE-1,6-DIAMINE-co-hexanedioic acid)
+  -OEChem-02022412293D
+
+ 79 78  0     0  0  0  0  0  0999 V2000
+   -0.8784   -6.1941   -2.8350 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0636   -5.7111   -1.8255 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2453   -4.2744   -1.3704 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0125   -3.2370   -2.4732 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1691   -1.8107   -1.9395 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0754   -0.7748   -3.0425 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1027    0.6500   -2.5110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1128    1.6175   -3.5819 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1299    1.6122   -3.8273 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1354    0.7689   -2.1161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6164    0.8401   -1.6818 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1101   -0.8917   -3.4363 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6400   -0.9436   -3.8769 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2034   -1.6942   -1.5476 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5467   -1.6361   -1.1058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6990   -3.3994   -3.3118 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0494   -3.3559   -2.8581 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4066   -4.0438   -0.4995 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3009   -4.2061   -1.0275 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1000   -5.7729   -2.2221 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0058   -6.3820   -0.9421 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7193   -5.6775   -3.7296 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0990    2.5862   -3.1914 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6198    3.4191   -3.9152 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2350    2.9333   -1.7707 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8797    1.7459   -1.0453 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2194    2.1065    0.4055 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8631    0.9202    1.1305 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1971    1.2673    2.5512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7189    0.4343    3.2752 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7973    0.6237    0.6057 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1633    0.0558    1.1278 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9217    2.9687    0.4161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2885    2.4019    0.9392 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8106    1.4516   -1.5792 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1764    0.8838   -1.0562 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9348    3.7967   -1.7679 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6982    3.2297   -1.2457 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8570   -6.0044   -2.5180 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6322   -5.4568   -3.6299 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9063   -4.3022   -4.3431 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7952   -3.0459   -3.4689 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1955   -1.8769   -4.2610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0724   -0.6241   -3.3861 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4762    0.5444   -4.1757 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3466    1.7172   -3.3179 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1345    2.4639   -3.8702 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3069    2.0765   -3.1078 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5302    0.2583   -4.5539 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1260    0.7855   -5.0479 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0784   -0.3352   -3.0092 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4181   -0.8431   -2.5128 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1888   -2.1656   -4.6357 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8465   -1.6520   -5.1344 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1433   -3.2564   -2.5931 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8048   -2.7599   -3.1005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4819   -4.0530   -5.2620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8934   -4.6336   -4.6599 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6242   -5.1151   -3.2614 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8143   -6.2695   -4.3658 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8191   -5.3035   -1.7444 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9823    2.2532    2.9492 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8555    3.1070    2.9488 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6141    2.5650    3.4767 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6589    2.8530    4.9811 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7471    3.1427    5.5280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7288    3.4990    7.0196 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3547    2.3218    7.8672 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2086    1.4326    8.1250 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9465    2.1962    8.3441 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2186    1.3997    8.9077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0205    4.3355    7.2039 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7412    3.8485    7.3198 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1809    4.0029    4.9709 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4078    2.2638    5.3612 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3142    3.7309    5.1706 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0881    1.9710    5.5064 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0507    1.6952    3.2843 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2068    3.4446    2.9323 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 22  1  0  0  0  0
+  1 39  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 37  1  0  0  0  0
+ 25 38  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 35  1  0  0  0  0
+ 26 36  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 33  1  0  0  0  0
+ 27 34  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 31  1  0  0  0  0
+ 28 32  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 29 62  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 39 61  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 59  1  0  0  0  0
+ 40 60  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 57  1  0  0  0  0
+ 41 58  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 42 55  1  0  0  0  0
+ 42 56  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 53  1  0  0  0  0
+ 43 54  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 44 51  1  0  0  0  0
+ 44 52  1  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 49  1  0  0  0  0
+ 45 50  1  0  0  0  0
+ 46 47  1  0  0  0  0
+ 46 48  1  0  0  0  0
+ 62 63  2  0  0  0  0
+ 62 64  1  0  0  0  0
+ 64 65  1  0  0  0  0
+ 64 78  1  0  0  0  0
+ 64 79  1  0  0  0  0
+ 65 66  1  0  0  0  0
+ 65 76  1  0  0  0  0
+ 65 77  1  0  0  0  0
+ 66 67  1  0  0  0  0
+ 66 74  1  0  0  0  0
+ 66 75  1  0  0  0  0
+ 67 68  1  0  0  0  0
+ 67 72  1  0  0  0  0
+ 67 73  1  0  0  0  0
+ 68 69  2  0  0  0  0
+ 68 70  1  0  0  0  0
+ 70 71  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+-0.636038 0.032151 -0.154937 -0.143584 -0.143622 -0.144985 0.016359 -0.488807 0.319373 0.051218 0.051218 0.084980 0.084980 0.083866 0.083866 0.085365 0.085365 0.090707 0.090707 0.092005 0.092005 0.362350 0.727281 -0.735195 -0.181695 -0.118286 -0.092309 -0.256717 0.518777 -0.671682 0.115846 0.115846 0.077588 0.077588 0.085687 0.085687 0.118924 0.118924 -0.636038 0.032151 -0.154937 -0.143659 -0.142296 -0.156423 0.029228 -0.973740 0.382672 0.382672 0.080224 0.080224 0.091590 0.091590 0.085365 0.085365 0.085365 0.085365 0.090707 0.090707 0.092005 0.092005 0.362350 0.518777 -0.671682 -0.256717 -0.091405 -0.109706 -0.218438 0.826099 -0.545337 -0.663113 0.397381 0.120431 0.120431 0.086560 0.086560 0.077588 0.077588 0.115846 0.115846
+
+> <metadata>
+{0: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'HEXANE-1,6-DIAMINE_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 60: {'residue_name': 'HEXANE-1,6-DIAMINE_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 61: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 62: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 63: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 64: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 65: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 66: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 67: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 68: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 69: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 70: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 71: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 72: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 73: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 74: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 75: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 76: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 77: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 78: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

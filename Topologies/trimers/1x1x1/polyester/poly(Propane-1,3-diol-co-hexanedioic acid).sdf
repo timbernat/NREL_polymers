@@ -1,0 +1,128 @@
+poly(Propane-1,3-diol-co-hexanedioic acid)
+  -OEChem-02022413393D
+
+ 57 56  0     0  0  0  0  0  0999 V2000
+    5.3858   -0.5164    4.9417 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8830    0.0764    3.7717 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7572    0.3306    2.7642 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1051   -0.9739    2.2968 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1237   -0.7066    1.3334 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6587   -1.5178    3.1599 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8759   -1.6301    1.8387 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1789    0.8616    1.8828 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9890    0.9876    3.2277 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3899    1.0384    4.0156 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6443   -0.5970    3.3219 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2976   -0.3365    1.8453 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3421   -0.2470    3.0617 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0615    0.0872    1.1090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2211   -0.1084   -0.4036 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0453    0.3250   -1.1506 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1140    0.1304   -2.6632 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1226    0.5529   -3.3989 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1674    0.4643   -4.6153 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9728    0.7343   -3.0281 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3127   -0.9408   -2.8820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2489    1.3988   -0.9389 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9095   -0.2775   -0.7921 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0853    0.4941   -0.7620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4244   -1.1812   -0.6153 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8629    1.1584    1.3278 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2019   -0.5170    1.4745 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9188    0.1997    5.4461 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5901   -0.2204    5.6019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8130   -0.0800    4.2884 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7131    1.3810    3.8387 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9460    1.4764    2.6693 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5251    1.1664    1.9247 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7283    1.8078    3.6680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2179    1.9805    4.6332 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7888   -0.4860    4.4332 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3126   -0.6812    3.4973 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5604   -1.2809    5.9404 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1067    0.3949    6.3906 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9840    0.9402   -2.8647 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1222    2.1460   -2.7371 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9849   -0.0070   -2.2726 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3499    0.1435   -2.9521 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3671   -0.8483   -2.3669 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7636   -0.6785   -2.9798 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7914   -1.0911   -4.4193 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8434   -2.3129   -4.7251 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7302   -0.1264   -5.4192 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7348   -0.3899   -6.3968 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0955    0.3780   -2.8851 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4846   -1.3074   -2.4137 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4469   -0.6779   -1.2706 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0141   -1.8916   -2.5232 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7234    1.1805   -2.8060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2354   -0.0415   -4.0421 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6152   -1.0470   -2.4079 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0751    0.1945   -1.1836 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 28  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 40  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 38  1  0  0  0  0
+ 29 39  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 36  1  0  0  0  0
+ 30 37  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 31 34  1  0  0  0  0
+ 31 35  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 40 41  2  0  0  0  0
+ 40 42  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 42 56  1  0  0  0  0
+ 42 57  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 54  1  0  0  0  0
+ 43 55  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 44 52  1  0  0  0  0
+ 44 53  1  0  0  0  0
+ 45 46  1  0  0  0  0
+ 45 50  1  0  0  0  0
+ 45 51  1  0  0  0  0
+ 46 47  2  0  0  0  0
+ 46 48  1  0  0  0  0
+ 48 49  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+-0.178079 0.040878 -0.135521 0.145870 -0.494274 0.080020 0.080020 0.092398 0.092398 0.082124 0.082124 0.762509 -0.550719 -0.209138 -0.112833 -0.091990 -0.257343 0.517719 -0.681012 0.114513 0.114513 0.076050 0.076050 0.084991 0.084991 0.117880 0.117880 -0.177351 0.049295 -0.170763 0.096167 -0.684610 0.379246 0.074517 0.074517 0.096241 0.096241 0.081971 0.081971 0.517719 -0.681012 -0.257343 -0.091990 -0.110309 -0.219147 0.824744 -0.551976 -0.664522 0.395445 0.118912 0.118912 0.084991 0.084991 0.076050 0.076050 0.114513 0.114513
+
+> <metadata>
+{0: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'Propane-1,3-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'hexanedioic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'Propane-1,3-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'hexanedioic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

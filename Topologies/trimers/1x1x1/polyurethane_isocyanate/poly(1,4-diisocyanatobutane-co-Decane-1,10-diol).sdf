@@ -1,0 +1,222 @@
+poly(1,4-diisocyanatobutane-co-Decane-1,10-diol)
+  -OEChem-02022414013D
+
+104103  0     0  0  0  0  0  0999 V2000
+   -0.4493   -4.0671   -2.2863 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -5.3237   -2.2798 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3371   -3.4023   -3.1888 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1612   -4.1479   -4.1420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0604   -3.2149   -4.9625 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1859   -2.6071   -4.1094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1093   -1.7072   -4.9407 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3891   -0.5467   -5.4644 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0037    0.5614   -4.6454 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2870    0.5888   -3.4181 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1942   -0.4963   -6.4892 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9625   -1.3658   -4.3157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5306   -2.2934   -5.7863 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7581   -2.0245   -3.2671 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7973   -3.4283   -3.6754 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4400   -2.4102   -5.4139 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5121   -3.8019   -5.7910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7847   -4.8905   -3.5987 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4931   -4.7018   -4.8371 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3685   -2.3583   -3.1618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4895    1.3575   -5.0677 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9610    2.5182   -4.4383 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3495    2.6481   -3.0407 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8370    3.9255   -2.3417 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1445    4.1597   -0.9897 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5804    3.1440    0.0803 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0821    3.5136    1.4887 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5501    3.5932    1.6390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7873    2.3198    1.2297 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1800    1.0945    2.0693 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2767   -0.1080    1.7817 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4740   -0.5758    0.4735 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7919    0.1523    1.9612 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5401   -0.9255    2.4857 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2321    0.8068    1.8578 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0979    1.3466    3.1492 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2985    2.5176    1.3676 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9440    2.1132    0.1494 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1654    4.4471    1.0417 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3133    3.8242    2.7004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4856    2.7757    2.2152 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5127    4.4985    1.7735 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6903    3.1083    0.1137 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2301    2.1246   -0.1848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4048    5.1827   -0.6427 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0431    4.1196   -1.1328 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9402    3.8830   -2.1983 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6170    4.7990   -2.9941 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6389    1.7574   -2.4433 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2423    2.6692   -3.1310 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6680    3.3945   -5.0546 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0733    2.4979   -4.3746 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1511   -3.4857   -1.5996 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3862   -2.5571   -0.9395 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5429   -3.7791   -1.4516 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3932   -3.0206   -0.5359 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8342   -3.5403   -0.5718 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7312   -2.7483    0.3862 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1740   -3.2673    0.3466 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0129   -2.5528    1.3031 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3111   -1.3239    1.1526 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5996   -0.1298    1.0056 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1820   -4.3457    0.6138 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5962   -3.1618   -0.6776 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3396   -2.8425    1.4236 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7177   -1.6741    0.0987 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2291   -3.4488   -1.6083 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8412   -4.6147   -0.2837 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3788   -1.9483   -0.8290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9918   -3.1143    0.4972 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9426   -4.5596   -2.0214 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1653   -0.0849   -0.1065 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0423    1.2805    0.1306 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5928    1.6892    1.4621 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3946    3.1881    1.7324 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1325    3.6627    2.9939 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4988    3.1209    4.2872 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0753    3.7800    5.5525 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5915    3.5833    5.7576 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0616    2.1182    5.7788 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4242    1.3038    6.9151 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0482   -0.0892    7.0391 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7459   -0.8712    5.9146 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4698   -0.7168    5.2535 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1495   -0.0128    7.1940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6228   -0.5890    7.9358 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3333    1.1893    6.7386 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5661    1.8414    7.8778 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1653    2.1204    5.9133 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8561    1.6381    4.7981 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1437    4.1249    4.9600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8795    4.0642    6.7182 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5307    3.3893    6.4388 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8671    4.8720    5.5140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5935    3.3261    4.2678 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6219    2.0205    4.3495 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0986    4.7742    3.0139 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1982    3.3575    2.9302 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6898    3.4169    1.8200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7903    3.7645    0.8673 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1258    1.0949    2.2760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6800    1.4539    1.4309 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4250    1.8560   -0.6961 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1328    1.5091    0.1363 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 53  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 51  1  0  0  0  0
+ 22 52  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 49  1  0  0  0  0
+ 23 50  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 47  1  0  0  0  0
+ 24 48  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 45  1  0  0  0  0
+ 25 46  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 43  1  0  0  0  0
+ 26 44  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 41  1  0  0  0  0
+ 27 42  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 39  1  0  0  0  0
+ 28 40  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 37  1  0  0  0  0
+ 29 38  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 35  1  0  0  0  0
+ 30 36  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 31 33  1  0  0  0  0
+ 31 34  1  0  0  0  0
+ 32 72  1  0  0  0  0
+ 53 54  2  0  0  0  0
+ 53 55  1  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 71  1  0  0  0  0
+ 56 57  1  0  0  0  0
+ 56 69  1  0  0  0  0
+ 56 70  1  0  0  0  0
+ 57 58  1  0  0  0  0
+ 57 67  1  0  0  0  0
+ 57 68  1  0  0  0  0
+ 58 59  1  0  0  0  0
+ 58 65  1  0  0  0  0
+ 58 66  1  0  0  0  0
+ 59 60  1  0  0  0  0
+ 59 63  1  0  0  0  0
+ 59 64  1  0  0  0  0
+ 60 61  2  0  0  0  0
+ 61 62  2  0  0  0  0
+ 72 73  1  0  0  0  0
+ 73 74  1  0  0  0  0
+ 73103  1  0  0  0  0
+ 73104  1  0  0  0  0
+ 74 75  1  0  0  0  0
+ 74101  1  0  0  0  0
+ 74102  1  0  0  0  0
+ 75 76  1  0  0  0  0
+ 75 99  1  0  0  0  0
+ 75100  1  0  0  0  0
+ 76 77  1  0  0  0  0
+ 76 97  1  0  0  0  0
+ 76 98  1  0  0  0  0
+ 77 78  1  0  0  0  0
+ 77 95  1  0  0  0  0
+ 77 96  1  0  0  0  0
+ 78 79  1  0  0  0  0
+ 78 93  1  0  0  0  0
+ 78 94  1  0  0  0  0
+ 79 80  1  0  0  0  0
+ 79 91  1  0  0  0  0
+ 79 92  1  0  0  0  0
+ 80 81  1  0  0  0  0
+ 80 89  1  0  0  0  0
+ 80 90  1  0  0  0  0
+ 81 82  1  0  0  0  0
+ 81 87  1  0  0  0  0
+ 81 88  1  0  0  0  0
+ 82 83  1  0  0  0  0
+ 82 85  1  0  0  0  0
+ 82 86  1  0  0  0  0
+ 83 84  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.542904 -0.686898 -0.522349 0.029514 -0.146585 -0.145287 0.023641 -0.466087 0.786073 -0.610616 0.325618 0.056716 0.056716 0.088548 0.088548 0.088548 0.088548 0.053150 0.053150 0.319035 -0.497686 0.114500 -0.138532 -0.139625 -0.140834 -0.139509 -0.139509 -0.140783 -0.138353 -0.144519 0.036114 -0.166844 0.086417 0.086417 0.093122 0.093122 0.088044 0.088044 0.086082 0.086082 0.086082 0.086082 0.086082 0.086082 0.086082 0.086082 0.087866 0.087866 0.092004 0.092004 0.086415 0.086415 0.542904 -0.686898 -0.522349 0.029806 -0.141453 -0.123407 0.183907 -0.643933 0.593272 -0.469696 0.031737 0.031737 0.082438 0.082438 0.087508 0.087508 0.053150 0.053150 0.319035 -0.166844 0.036114 -0.144519 -0.138353 -0.140783 -0.139509 -0.139509 -0.140783 -0.134268 -0.166443 0.089439 -0.680119 0.384813 0.077666 0.077666 0.095478 0.095478 0.088044 0.088044 0.086082 0.086082 0.086082 0.086082 0.086082 0.086082 0.086082 0.086082 0.088044 0.088044 0.093122 0.093122 0.086417 0.086417
+
+> <metadata>
+{0: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': '1,4-diisocyanatobutane_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'Decane-1,10-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 60: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 61: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 62: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 63: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 64: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 65: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 66: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 67: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 68: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 69: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 70: {'residue_name': '1,4-diisocyanatobutane_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 71: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 72: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 73: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 74: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 75: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 76: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 77: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 78: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 79: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 80: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 81: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 82: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 83: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 84: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 85: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 86: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 87: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 88: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 89: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 90: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 91: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 92: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 93: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 94: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 95: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 96: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 97: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 98: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 99: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 100: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 101: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 102: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 103: {'residue_name': 'Decane-1,10-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$
