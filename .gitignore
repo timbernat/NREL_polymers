@@ -4,7 +4,11 @@ polymerist/*
 # large data directories
 monomer_files/*
 pdb_files/*
+polymer_structures/*
+
 OpenMM/*
+Topologies/**/5x5x5/**/*
+Interchanges/*
 
 # testing dirs
 sdf_testing/*
