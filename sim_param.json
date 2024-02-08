@@ -1,0 +1,76 @@
+{
+    "integ_params": {
+        "__class__": "IntegratorParameters",
+        "__values__": {
+            "time_step": {
+                "__class__": "Quantity",
+                "__values__": {
+                    "value": 2,
+                    "unit": "femtosecond"
+                }
+            },
+            "total_time": {
+                "__class__": "Quantity",
+                "__values__": {
+                    "value": 1,
+                    "unit": "nanosecond"
+                }
+            },
+            "num_samples": 10
+        }
+    },
+    "thermo_params": {
+        "__class__": "ThermoParameters",
+        "__values__": {
+            "ensemble": "NVT",
+            "temperature": {
+                "__class__": "Quantity",
+                "__values__": {
+                    "value": 300,
+                    "unit": "kelvin"
+                }
+            },
+            "pressure": {
+                "__class__": "Quantity",
+                "__values__": {
+                    "value": 1,
+                    "unit": "atmosphere"
+                }
+            },
+            "friction_coeff": {
+                "__class__": "Quantity",
+                "__values__": {
+                    "value": 1,
+                    "unit": "/picosecond"
+                }
+            },
+            "barostat_freq": 25
+        }
+    },
+    "reporter_params": {
+        "__class__": "ReporterParameters",
+        "__values__": {
+            "report_checkpoint": true,
+            "report_state": true,
+            "report_trajectory": true,
+            "report_state_data": true,
+            "traj_ext": "dcd",
+            "num_steps": 500000,
+            "state_data": {
+                "step": true,
+                "time": true,
+                "potentialEnergy": true,
+                "kineticEnergy": true,
+                "totalEnergy": true,
+                "temperature": true,
+                "volume": true,
+                "density": true,
+                "speed": true,
+                "progress": false,
+                "remainingTime": false,
+                "elapsedTime": false
+            },
+            "reporter_paths": null
+        }
+    }
+}
