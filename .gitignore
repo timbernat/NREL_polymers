@@ -5,10 +5,16 @@ polymerist/*
 monomer_files/*
 pdb_files/*
 polymer_structures/*
+polymer_structures_timed/*
 
 OpenMM/*
 Topologies/**/5x5x5/**/*
 Interchanges/*
+
+# testing files
+amine_symmetry.ipynb
+coordgen.ipynb
+log.lammps
 
 # testing dirs
 sdf_testing/*
