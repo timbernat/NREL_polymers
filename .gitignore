@@ -15,9 +15,12 @@ Interchanges/*
 amine_symmetry.ipynb
 coordgen.ipynb
 log.lammps
+cubane.mol
 
 # testing dirs
 sdf_testing/*
+energy_tables/*
+polymer_validation/*
 
 # stray files
 **/__pycache__/*
