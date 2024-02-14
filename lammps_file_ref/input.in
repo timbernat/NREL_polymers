@@ -1,0 +1,59 @@
+#-------------------INITIALIZATION-------------------------
+
+units 				real
+atom_style 			full
+dimension 			3
+boundary 			p p p
+
+#---------------------VARIABLES----------------------------
+
+variable	       		Temperature equal  300
+variable	       		Pressure equal  1
+variable    			cod1 equal 9.0
+variable 			tempdamp equal 100
+variable 			pressdamp equal 1000
+variable			cod equal 9.0
+
+#--------------------FORCE FIELD---------------------------
+
+bond_style 			harmonic
+angle_style 			harmonic
+dihedral_style 			fourier
+improper_style 			cvff
+special_bonds 			lj 0.0 0.0 0.5 coul 0.0 0.0 0.8333333333 
+pair_style 			lj/cut/coul/long ${cod1} ${cod1}
+pair_modify 			mix arithmetic tail yes
+kspace_style 			pppm 1e-4
+
+#------------------SIMULATION SETTINGS---------------------
+
+read_data 			data.data
+
+#replicate 			5 5 5
+#variable                	Lx equal lx
+#variable                	Ly equal ly
+#variable               	Lz equal lz
+#change_box              	all x final 0.0 ${Lx} y final 0.0 ${Ly} z final 0.0 ${Lz}
+
+neighbor        		2.0 bin
+neigh_modify    		delay 0 every 1 check yes page 1000000 one 20000
+
+timestep 			1.0
+
+thermo_style 			custom step density etotal pe ke enthalpy lx ly lz cpu temp press ebond eangle edihed eimp epair evdwl ecoul elong etail
+thermo         			1000
+thermo_modify			flush yes
+
+velocity 			all create ${Temperature} 4928459 dist gaussian
+minimize 			0.0 1.0e-8 1000 100000
+
+dump 				traj all dcd 1000 traj.dcd
+dump_modify 			traj sort id
+
+#-----------------ENSEMBLE SETUP: NPT ENSEMBLE--------------
+
+fix           			NPT all npt temp ${Temperature} ${Temperature} ${tempdamp} iso ${Pressure} ${Pressure} ${pressdamp}
+
+run 				500000
+write_data 			data1.data
+write_restart			restart.*
