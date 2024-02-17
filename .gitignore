@@ -6,6 +6,9 @@ monomer_files/*
 pdb_files/*
 polymer_structures/*
 polymer_structures_timed/*
+polymer_validation/*
+polymer_update/*
+polymer_filtered/*
 
 OpenMM/*
 Topologies/**/5x5x5/**/*
@@ -13,14 +16,13 @@ Interchanges/*
 
 # testing files
 amine_symmetry.ipynb
-coordgen.ipynb
 log.lammps
 cubane.mol
 
 # testing dirs
 sdf_testing/*
 energy_tables/*
-polymer_validation/*
+gif_frames/*
 
 # stray files
 **/__pycache__/*
