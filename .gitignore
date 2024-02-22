@@ -9,6 +9,7 @@ polymer_structures_timed/*
 polymer_validation/*
 polymer_update/*
 polymer_filtered/*
+polymer_revision/*
 
 OpenMM/*
 Topologies/**/5x5x5/**/*
