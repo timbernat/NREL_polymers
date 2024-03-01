@@ -1,0 +1,20 @@
+{
+    "mechanism": "polyester",
+    "polymer_name": "poly(ethane-1,2-diol-co-furan-2,5-dicarboxylic acid)",
+    "exper_density": 1.46,
+    "lattice_size": "1x1x1",
+    "oligomer_type": "trimer",
+    "n_atoms_in_topology": 60,
+    "unique_elems_in_topology": [
+        "C",
+        "H",
+        "O"
+    ],
+    "directory": "polymer_benchmark/polyester/poly(ethane-1,2-diol-co-furan-2,5-dicarboxylic acid)/trimer/1x1x1",
+    "topology_path": "polymer_benchmark/polyester/poly(ethane-1,2-diol-co-furan-2,5-dicarboxylic acid)/trimer/1x1x1/1x1x1_poly(ethane-1,2-diol-co-furan-2,5-dicarboxylic acid).sdf",
+    "topology_time": 0.10108160972595215,
+    "interchange_path": "polymer_benchmark/polyester/poly(ethane-1,2-diol-co-furan-2,5-dicarboxylic acid)/trimer/1x1x1/1x1x1_poly(ethane-1,2-diol-co-furan-2,5-dicarboxylic acid).pkl",
+    "interchange_time": 0.40729379653930664,
+    "lammps_time": 0.08422613143920898,
+    "openmm_time": 0.5244266986846924
+}

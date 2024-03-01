@@ -1,0 +1,1096 @@
+
+  -OEChem-02292414053D
+
+ 60 62  0     0  0  0  0  0  0999 V2000
+   -1.3298   -1.1054    3.5649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2365   -0.8043    4.0204 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9771   -0.2656    2.5538 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2526   -0.4906    2.0798 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9439   -1.2615    2.3910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4596    0.4402    1.1043 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3434    0.5429    0.4899 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2936    1.1708    1.0212 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0499    2.1765   -0.0192 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9678    2.7391   -0.1069 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4207    0.7447    1.9124 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0128    2.3297   -0.9677 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8356    2.7795   -2.2598 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2846    1.6819   -3.2425 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4573    0.5766   -3.1462 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1906    2.0906   -4.2702 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3479    1.3989   -3.0793 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4552    3.6863   -2.4094 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7726    3.0383   -2.4657 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4762   -0.3201   -2.1255 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5339   -0.7168   -1.6596 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1989   -0.7000   -1.5096 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0168   -0.2394   -1.9431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2090    0.3965   -2.7956 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9342   -0.7225   -1.0546 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9760   -0.5389   -1.1161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2368   -1.4402   -0.1022 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7719   -2.1049    1.1266 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0306   -2.8975    1.6825 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0458   -1.4292   -0.4218 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9890   -1.8696    1.7049 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9686   -0.9470    1.3668 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5084    0.5108    1.5627 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4258    1.3647    0.9634 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3988    0.7502    2.6414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5048    0.6458    1.1064 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8610   -1.1090    2.0078 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3123   -1.1536    0.3401 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9208   -2.2926    3.8654 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4395   -3.2512    4.7295 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7898   -2.8889    6.1672 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4014   -3.9149    7.0375 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4129   -3.8626    7.1118 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8919   -2.7627    6.2448 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3177   -1.9257    6.4618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9402   -4.2134    4.4833 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3445   -3.3940    4.5922 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0718    2.0634   -0.1450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2187    2.9358   -0.0718 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4286    1.4968   -1.4522 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4190    0.5604   -1.6769 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1284    0.1719   -0.9582 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2805    0.1751   -2.9891 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8632   -0.5755   -3.5071 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2052    0.8902   -3.4808 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6017    0.7319   -4.8112 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0743   -0.0625   -5.6107 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4748    1.4088   -5.1190 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0195    1.2718   -5.9619 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7279    1.6865   -2.5480 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 39  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 30  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 37  1  0  0  0  0
+ 32 38  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  1  0  0  0  0
+ 33 36  1  0  0  0  0
+ 34 48  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 46  1  0  0  0  0
+ 40 47  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 44  1  0  0  0  0
+ 41 45  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 48 49  2  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  2  0  0  0  0
+ 50 60  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  2  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 60  1  0  0  0  0
+ 56 57  2  0  0  0  0
+ 56 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.675996 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 -0.487617 0.131568 0.091016 -0.678898 0.393692 0.089542 0.089542 0.088386 0.088386 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.286061 0.186438 0.237786 0.721842 -0.503795 -0.694297 0.401527 -0.212053
+
+> <metadata>
+{0: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$
+
+  -OEChem-02292414053D
+
+ 60 62  0     0  0  0  0  0  0999 V2000
+   -3.2686    2.1963   16.7859 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5455    1.9415   15.6232 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7209    1.1635   17.6691 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4890    1.3567   19.0148 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6965    2.2433   19.5977 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9064    0.2078   19.4636 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5575    0.0129   20.4683 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7960   -0.6177   18.3650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0782   -1.8972   18.3923 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9312   -2.5562   17.3728 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3075   -0.0340   17.2994 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4511   -2.2288   19.5530 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6530   -3.0444   19.6918 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7979   -2.2391   20.3340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2188   -1.2316   19.4835 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6506   -2.9321   20.4910 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5011   -1.8268   21.3235 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3860   -3.8965   20.3484 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9966   -3.4458   18.7119 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5352   -0.0819   19.2446 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9924    0.5251   20.1557 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3532    0.3423   17.8510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8808   -0.3305   16.7802 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5238   -1.1988   16.8058 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3986    0.3027   15.6707 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6260    0.0164   14.6761 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5780    1.3230   16.1112 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2487    2.2614   15.2900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6880    3.2434   15.8641 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5942    1.3361   17.4328 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5933    2.0934   13.9769 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3439    1.0285   13.1232 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0625   -0.2643   13.5562 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5632   -1.3330   12.8224 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1602   -0.1734   13.4163 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8961   -0.4338   14.6412 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6978    1.2867   12.1027 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7464    0.9002   13.0241 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3197    3.4679   17.2650 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7311    4.5868   16.5750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2514    4.6851   16.5879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6683    5.8784   15.9853 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5392    5.7610   15.0081 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5997    4.6860   17.6439 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7117    3.8085   16.0808 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3221    5.4788   17.0985 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3238    4.5852   15.5394 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1806   -2.2855   13.4401 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3335   -3.0200   14.2710 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6423   -2.1522   13.3859 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3461   -1.4125   12.4554 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9482   -0.8996   11.5898 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6508   -1.4089   12.8879 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4832   -0.8940   12.4262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6607   -2.1354   14.0634 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8137   -2.3118   14.9570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8970   -1.8259   14.6670 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6530   -2.9444   16.1388 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3787   -3.0147   16.7752 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4520   -2.5845   14.3269 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 39  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 30  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 37  1  0  0  0  0
+ 32 38  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  1  0  0  0  0
+ 33 36  1  0  0  0  0
+ 34 48  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 46  1  0  0  0  0
+ 40 47  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 44  1  0  0  0  0
+ 41 45  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 48 49  2  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  2  0  0  0  0
+ 50 60  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  2  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 60  1  0  0  0  0
+ 56 57  2  0  0  0  0
+ 56 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.675996 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 -0.487617 0.131568 0.091016 -0.678898 0.393692 0.089542 0.089542 0.088386 0.088386 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.286061 0.186438 0.237786 0.721842 -0.503795 -0.694297 0.401527 -0.212053
+
+> <metadata>
+{0: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$
+
+  -OEChem-02292414053D
+
+ 60 62  0     0  0  0  0  0  0999 V2000
+   -0.5216   16.2835    3.9272 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7236   16.3776    3.7275 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3116   15.4180    3.0885 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   15.1854    3.3274 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2472   15.5612    4.1464 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0852   14.4073    2.2949 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0951   14.0551    2.1358 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9954   14.2226    1.4712 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0821   13.5658    0.1618 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1070   13.5004   -0.5732 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0661   14.8215    1.9735 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3191   13.1867   -0.2582 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7406   13.0444   -1.5641 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9146   14.0068   -1.8233 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4914   15.3219   -1.7394 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2741   13.8290   -2.8583 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7601   13.8154   -1.1263 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0774   11.9997   -1.7178 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9244   13.2641   -2.2886 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2051   15.9724   -0.5814 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9161   15.8405    0.4036 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9512   16.7318   -0.5019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0788   16.8639   -1.5503 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2059   16.4931   -2.5575 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0019   17.5326   -1.0510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8575   17.7902   -1.6206 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2468   17.7613    0.2885 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6578   18.3911    1.3001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1439   18.7298    2.3527 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4462   17.2891    0.5812 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0071   18.5754    1.1706 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8628   18.1811    0.1521 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9839   16.6491    0.0341 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6329   16.3315   -1.1524 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5303   16.2266    0.9034 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9698   16.1962    0.0489 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8779   18.5864    0.3493 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5412   18.6592   -0.7876 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1115   17.0776    4.8314 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4784   18.0067    5.6597 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0538   17.3232    6.8937 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5542   18.2755    7.7902 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4037   18.6103    7.4009 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2407   16.7588    7.4005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8465   16.5950    6.6128 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3114   18.7153    5.9931 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2498   18.5923    5.1117 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9470   15.7250   -2.1543 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5308   14.5851   -2.0081 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3917   16.5763   -3.2145 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8213   17.8517   -3.5262 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6698   18.3775   -3.1087 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9126   18.3426   -4.4332 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9079   19.3316   -4.8725 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9764   17.3415   -4.6089 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2562   17.4447   -5.4023 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5102   18.4720   -6.0137 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1466   16.4301   -5.3891 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9961   16.4996   -5.8476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2976   16.2906   -3.8847 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 39  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 30  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 37  1  0  0  0  0
+ 32 38  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  1  0  0  0  0
+ 33 36  1  0  0  0  0
+ 34 48  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 46  1  0  0  0  0
+ 40 47  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 44  1  0  0  0  0
+ 41 45  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 48 49  2  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  2  0  0  0  0
+ 50 60  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  2  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 60  1  0  0  0  0
+ 56 57  2  0  0  0  0
+ 56 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.675996 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 -0.487617 0.131568 0.091016 -0.678898 0.393692 0.089542 0.089542 0.088386 0.088386 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.286061 0.186438 0.237786 0.721842 -0.503795 -0.694297 0.401527 -0.212053
+
+> <metadata>
+{0: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$
+
+  -OEChem-02292414053D
+
+ 60 62  0     0  0  0  0  0  0999 V2000
+   -0.3014   17.8045   20.0209 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3754   16.8624   20.4056 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0225   18.4991   18.7722 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6334   19.6322   18.3386 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4229   20.1699   18.8450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1082   19.9239   17.1139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4071   20.7326   16.4614 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8259   18.9433   16.8566 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5108   18.8070   15.5660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2678   17.8706   15.3531 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9042   18.1064   17.8722 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1415   19.6652   14.5773 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2223   19.4435   13.2180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1893   19.5273   12.6081 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9831   18.4957   13.0785 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0893   19.4075   11.5091 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6611   20.5149   12.8064 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8672   20.2244   12.7676 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6591   18.4460   12.9867 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5183   18.4356   14.3260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0053   19.4277   14.8473 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3799   17.1852   15.0827 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7860   16.0577   14.5790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4008   15.9122   13.5797 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7506   15.1649   15.6115 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3462   14.1880   15.5399 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3047   15.7935   16.7098 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4302   15.2707   18.1059 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1803   15.8803   18.8492 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6989   17.0025   16.3490 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7482   14.2084   18.6329 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2436   13.4211   18.0658 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5378   14.2071   17.7785 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3746   13.4352   16.9822 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0484   14.4889   18.7233 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2859   15.1570   17.2609 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4976   12.5942   18.7624 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1647   12.9255   17.1699 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4549   18.1532   20.6510 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9720   17.5768   21.7902 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3010   18.1598   23.0274 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9012   17.6594   24.1895 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5914   16.7212   24.2853 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4286   19.2643   23.0154 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2093   17.9456   23.0270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0554   17.8244   21.8349 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8789   16.4687   21.7504 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6107   13.8037   15.6975 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2323   14.8289   15.4593 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7905   13.1849   14.6479 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0986   11.9953   14.7679 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1215   11.3053   15.6011 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3246   11.8955   13.6364 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3801   11.1080   13.4030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5815   13.0372   12.9016 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1006   13.4355   11.6625 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9549   12.7129   11.1708 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1623   14.6399   11.1121 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3214   14.9550   10.3353 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4754   13.7800   13.5191 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 39  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 30  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 37  1  0  0  0  0
+ 32 38  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  1  0  0  0  0
+ 33 36  1  0  0  0  0
+ 34 48  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 46  1  0  0  0  0
+ 40 47  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 44  1  0  0  0  0
+ 41 45  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 48 49  2  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  2  0  0  0  0
+ 50 60  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  2  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 60  1  0  0  0  0
+ 56 57  2  0  0  0  0
+ 56 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.675996 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 -0.487617 0.131568 0.091016 -0.678898 0.393692 0.089542 0.089542 0.088386 0.088386 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.286061 0.186438 0.237786 0.721842 -0.503795 -0.694297 0.401527 -0.212053
+
+> <metadata>
+{0: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$
+
+  -OEChem-02292414053D
+
+ 60 62  0     0  0  0  0  0  0999 V2000
+   18.4984    0.6166   -3.2705 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4621    0.1605   -2.6731 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1741    0.0050   -3.1336 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0722    0.4037   -3.8609 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0294    1.1664   -4.6260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0267   -0.3379   -3.3943 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9960   -0.2699   -3.7140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5415   -1.1354   -2.3946 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7061   -1.9759   -1.5292 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1959   -2.6007   -0.5992 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8370   -0.9292   -2.2646 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3596   -1.8973   -1.7054 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3866   -2.1450   -0.7593 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5457   -0.8712   -0.5543 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3171    0.1352    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7344   -1.1146    0.1631 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0767   -0.5350   -1.5052 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7350   -2.9639   -1.1244 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8267   -2.4504    0.2167 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2545    0.8539   -0.6712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0433    1.2525   -1.8069 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5739    1.0272   -0.0514 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8949    0.5480    1.1917 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2390    0.0450    1.8880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2253    0.8073    1.3565 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7777    0.5543    2.2247 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6664    1.4145    0.1967 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0605    1.8276   -0.1554 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1808    2.5761   -1.1105 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6383    1.5567   -0.6219 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2060    1.4065    0.4624 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3762    0.4761    1.4775 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9921   -0.9532    1.0475 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9342   -1.7688    2.1706 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7193   -1.3542    0.3106 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0055   -0.9330    0.5377 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4431    0.4615    1.7856 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8255    0.8181    2.3690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5815    1.7827   -3.9651 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7121    2.5480   -4.1478 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5499    1.9870   -5.2899 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6407    2.8251   -5.5522 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2891    2.6835   -4.8140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9189    1.9374   -6.2041 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8952    0.9546   -5.0611 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3867    3.5739   -4.4286 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2955    2.6241   -3.2032 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7373   -2.2491    2.5936 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1227   -3.0517    1.9064 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0406   -1.5088    3.6537 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6325   -0.6296    4.5397 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6884   -0.4196    4.6472 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5993   -0.0277    5.2177 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6837    0.7482    5.9673 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4397   -0.5667    4.6941 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0702   -0.1484    5.0239 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8773    0.7249    5.8569 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0285   -0.6755    4.3459 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1230   -0.3686    4.4957 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7326   -1.4630    3.7760 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 39  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 30  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 37  1  0  0  0  0
+ 32 38  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  1  0  0  0  0
+ 33 36  1  0  0  0  0
+ 34 48  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 46  1  0  0  0  0
+ 40 47  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 44  1  0  0  0  0
+ 41 45  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 48 49  2  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  2  0  0  0  0
+ 50 60  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  2  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 60  1  0  0  0  0
+ 56 57  2  0  0  0  0
+ 56 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.675996 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 -0.487617 0.131568 0.091016 -0.678898 0.393692 0.089542 0.089542 0.088386 0.088386 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.286061 0.186438 0.237786 0.721842 -0.503795 -0.694297 0.401527 -0.212053
+
+> <metadata>
+{0: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$
+
+  -OEChem-02292414053D
+
+ 60 62  0     0  0  0  0  0  0999 V2000
+   19.3065   -0.3022   18.9670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9632   -0.8577   18.0987 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4673    0.8551   18.6462 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7884    1.5901   19.5955 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7989    1.4502   20.6675 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0643    2.5170   18.9046 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3860    3.2471   19.3241 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3243    2.2865   17.5705 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6165    2.9748   16.4850 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8181    2.6768   15.3163 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1839    1.2962   17.4352 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6205    3.8298   16.8418 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5209    4.1791   16.0854 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2405    3.7726   16.8385 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1592    2.3953   16.9489 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3727    4.1191   16.2394 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1850    4.2561   17.8386 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5278    5.2768   15.9325 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5293    3.6822   15.0891 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9055    1.6396   17.7962 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1117    2.0038   18.9442 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5662    0.4424   17.2618 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4282    0.0164   15.9667 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7991    0.4466   15.2004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2763   -1.0453   15.8336 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4011   -1.5987   14.9385 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9139   -1.2092   17.0481 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9916   -2.1855   17.3998 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2244   -2.3337   18.5875 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4422   -0.3117   17.8963 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7654   -2.8849   16.5147 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8056   -2.8227   15.1292 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3050   -1.4613   14.6073 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0693   -1.3808   13.2406 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3850   -1.3249   14.8261 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7706   -0.6441   15.1367 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4954   -3.6050   14.7475 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8145   -3.0965   14.7322 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2136   -0.8149   20.2230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8599   -1.9337   20.7005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2836   -1.5838   21.1148 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9064   -2.6910   21.7041 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1206   -3.3198   20.9665 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2455   -0.7635   21.8645 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8737   -1.2195   20.2449 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3127   -2.2832   21.6035 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8357   -2.7552   19.9503 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1395   -0.5129   12.7671 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3203    0.6918   12.8665 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7894   -1.0315   12.5106 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4652   -2.3593   12.3100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1476   -3.1946   12.2249 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0917   -2.4131   12.3020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4804   -3.3009   12.2059 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6620   -1.1166   12.5119 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2680   -0.6909   12.6979 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3614   -1.5080   12.6347 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9980    0.5924   13.0185 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0958    0.8839   13.2129 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6962   -0.3089   12.6130 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 39  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 30  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 37  1  0  0  0  0
+ 32 38  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  1  0  0  0  0
+ 33 36  1  0  0  0  0
+ 34 48  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 46  1  0  0  0  0
+ 40 47  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 44  1  0  0  0  0
+ 41 45  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 48 49  2  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  2  0  0  0  0
+ 50 60  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  2  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 60  1  0  0  0  0
+ 56 57  2  0  0  0  0
+ 56 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.675996 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 -0.487617 0.131568 0.091016 -0.678898 0.393692 0.089542 0.089542 0.088386 0.088386 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.286061 0.186438 0.237786 0.721842 -0.503795 -0.694297 0.401527 -0.212053
+
+> <metadata>
+{0: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$
+
+  -OEChem-02292414053D
+
+ 60 62  0     0  0  0  0  0  0999 V2000
+   17.3264   16.2640    3.8387 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4329   16.6761    3.5233 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1192   16.7960    3.2013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8402   16.4523    3.5862 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5503   15.7974    4.3961 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0037   17.0807    2.7108 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9247   17.0130    2.6902 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8163   17.7584    1.8272 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3076   18.4403    0.6315 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0735   18.9554   -0.1706 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0837   17.5910    2.1486 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9760   18.3297    0.3770 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3611   18.4082   -0.8555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6267   17.0844   -1.1384 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5322   16.0460   -1.2709 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0911   17.1958   -2.1042 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8748   16.8588   -0.3504 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6295   19.2406   -0.8361 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0935   18.5987   -1.6719 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2003   15.4632   -0.2412 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6328   15.2113    0.8112 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6486   15.2640   -0.3758 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3550   15.5860   -1.5050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9605   15.9638   -2.4376 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6665   15.3628   -1.1977 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4704   15.5206   -1.8699 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7078   14.9348    0.1151 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9124   14.6309    0.9487 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7156   14.0222    1.9868 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4701   14.8603    0.5732 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1974   15.0133    0.6774 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6892   15.8062   -0.3496 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1920   17.2628   -0.2693 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5023   17.9181   -1.4542 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6441   17.7886    0.5979 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0937   17.2696   -0.1043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7986   15.8242   -0.2991 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4543   15.3257   -1.3134 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1769   15.2055    4.6791 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1854   14.5193    5.3189 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6120   15.2621    6.5788 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5569   14.5129    7.2906 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4093   14.5817    6.7864 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7200   15.4069    7.2267 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0164   16.2683    6.3305 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7832   13.5274    5.6214 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0420   14.3423    4.6310 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5076   18.2873   -2.3005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7070   19.1480   -1.9654 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1874   17.3837   -3.4133 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0303   16.4197   -3.9314 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0637   16.2415   -3.6651 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2690   15.6901   -4.8131 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5879   14.8252   -5.3801 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0043   16.2452   -4.7687 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8129   15.7298   -5.4574 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8959   14.7459   -6.1776 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6101   16.2987   -5.2288 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8002   15.9370   -5.6160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9887   17.2675   -3.9400 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 39  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 30  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 37  1  0  0  0  0
+ 32 38  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  1  0  0  0  0
+ 33 36  1  0  0  0  0
+ 34 48  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 46  1  0  0  0  0
+ 40 47  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 44  1  0  0  0  0
+ 41 45  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 48 49  2  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  2  0  0  0  0
+ 50 60  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  2  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 60  1  0  0  0  0
+ 56 57  2  0  0  0  0
+ 56 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.675996 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 -0.487617 0.131568 0.091016 -0.678898 0.393692 0.089542 0.089542 0.088386 0.088386 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.286061 0.186438 0.237786 0.721842 -0.503795 -0.694297 0.401527 -0.212053
+
+> <metadata>
+{0: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$
+
+  -OEChem-02292414053D
+
+ 60 62  0     0  0  0  0  0  0999 V2000
+   14.6635   14.0033   19.0615 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6245   14.6242   18.8928 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5137   13.6425   17.9242 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6391   12.8530   18.0347 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0253   12.3787   18.9262 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1957   12.8171   16.7898 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1110   12.3150   16.5082 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3920   13.6017   15.9905 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7326   13.9491   14.6061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0336   14.7183   13.9620 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3759   14.0742   16.6847 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9326   13.5126   14.1372 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6899   14.0912   13.1397 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0594   14.4961   13.7162 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9115   15.4969   14.6607 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6699   14.9009   12.8822 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5964   13.6210   14.1442 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8344   13.3510   12.3274 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1944   14.9926   12.7141 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4294   15.3124   15.9176 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7665   14.3438   16.5820 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3951   16.2317   16.4077 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9269   17.2982   15.6858 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2729   17.6361   14.7193 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9082   17.8274   16.4252 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3370   18.6709   16.1334 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7823   17.0472   17.5583 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7648   17.1623   18.6490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9951   16.5444   19.6746 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7129   16.1089   17.5294 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5861   17.8533   18.5818 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0159   18.5336   17.5154 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6229   17.6002   16.3537 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3116   18.3657   15.2370 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7647   16.9551   16.6366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4688   16.9174   16.1261 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0953   19.0499   17.8608 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6977   19.3419   17.2039 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1435   13.7494   20.3082 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5360   14.0735   21.5012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4868   13.0286   21.8597 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9467   13.2934   23.1243 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3427   14.0736   23.0152 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9741   12.0296   21.8895 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6837   12.9902   21.0910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3165   14.0663   22.2935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1043   15.0983   21.4599 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1275   18.3386   14.1527 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2355   17.3148   13.4937 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1401   19.3957   14.0335 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0975   20.6221   14.6679 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2901   21.0220   15.2670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3184   21.2085   14.4336 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6594   22.1639   14.8107 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0363   20.2979   13.6820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4444   20.4304   13.2831 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0773   21.4319   13.5832 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0599   19.4072   12.6531 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0033   19.4415   12.4400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3018   19.2328   13.4405 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 39  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 30  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 37  1  0  0  0  0
+ 32 38  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  1  0  0  0  0
+ 33 36  1  0  0  0  0
+ 34 48  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 40 46  1  0  0  0  0
+ 40 47  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 41 44  1  0  0  0  0
+ 41 45  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 48 49  2  0  0  0  0
+ 48 50  1  0  0  0  0
+ 50 51  2  0  0  0  0
+ 50 60  1  0  0  0  0
+ 51 52  1  0  0  0  0
+ 51 53  1  0  0  0  0
+ 53 54  1  0  0  0  0
+ 53 55  2  0  0  0  0
+ 55 56  1  0  0  0  0
+ 55 60  1  0  0  0  0
+ 56 57  2  0  0  0  0
+ 56 58  1  0  0  0  0
+ 58 59  1  0  0  0  0
+M  END
+> <charge_method>
+Espaloma-AM1-BCC
+
+> <atom.dprop.PartialCharge>
+0.675996 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.282636 0.186438 0.230153 0.676233 -0.515869 -0.209396 -0.491364 0.151228 0.151228 -0.491364 0.081372 0.081372 0.081372 0.081372 -0.487617 0.131568 0.091016 -0.678898 0.393692 0.089542 0.089542 0.088386 0.088386 0.676233 -0.515869 0.230153 -0.282636 0.186438 -0.286061 0.186438 0.237786 0.721842 -0.503795 -0.694297 0.401527 -0.212053
+
+> <metadata>
+{0: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 1: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 2: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 3: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 4: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 5: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 6: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 7: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 8: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 9: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 10: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 11: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 12: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 13: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 14: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 15: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 16: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 17: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 18: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 19: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 20: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 21: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 22: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 23: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 24: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 25: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 26: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 27: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 28: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 29: {'residue_name': 'furan-2,5-dicarboxylic acid_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 30: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 31: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 32: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 33: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 34: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 35: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 36: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 37: {'residue_name': 'ethane-1,2-diol_MID', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 38: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 39: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 40: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 41: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 42: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 43: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 44: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 45: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 46: {'residue_name': 'ethane-1,2-diol_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 47: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 48: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 49: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 50: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 51: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 52: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 53: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 54: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 55: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 56: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 57: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 58: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}, 59: {'residue_name': 'furan-2,5-dicarboxylic acid_TERM', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A'}}
+
+$$$$

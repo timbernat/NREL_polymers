@@ -1,0 +1,22 @@
+{
+    "mechanism": "polyamide",
+    "polymer_name": "poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-4-[2-(4-carboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]benzoic acid)",
+    "exper_density": 1.22,
+    "lattice_size": "1x1x1",
+    "oligomer_type": "trimer",
+    "n_atoms_in_topology": 378,
+    "unique_elems_in_topology": [
+        "C",
+        "H",
+        "F",
+        "N",
+        "O"
+    ],
+    "directory": "polymer_benchmark/polyamide/poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-4-[2-(4-carboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]benzoic acid)/trimer/1x1x1",
+    "topology_path": "polymer_benchmark/polyamide/poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-4-[2-(4-carboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]benzoic acid)/trimer/1x1x1/1x1x1_poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-4-[2-(4-carboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]benzoic acid).sdf",
+    "topology_time": 0.4973890781402588,
+    "interchange_path": "polymer_benchmark/polyamide/poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-4-[2-(4-carboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]benzoic acid)/trimer/1x1x1/1x1x1_poly(4-[4-[6'-[4-(4-aminophenyl)-2-(trifluoromethyl)phenoxy]spiro[fluorene-9,9'-xanthene]-3'-yl]oxy-3-(trifluoromethyl)phenyl]aniline-co-4-[2-(4-carboxyphenyl)-1,1,1,3,3,3-hexafluoropropan-2-yl]benzoic acid).pkl",
+    "interchange_time": 1.6089208126068115,
+    "lammps_time": 0.9268593788146973,
+    "openmm_time": 2.3984920978546143
+}

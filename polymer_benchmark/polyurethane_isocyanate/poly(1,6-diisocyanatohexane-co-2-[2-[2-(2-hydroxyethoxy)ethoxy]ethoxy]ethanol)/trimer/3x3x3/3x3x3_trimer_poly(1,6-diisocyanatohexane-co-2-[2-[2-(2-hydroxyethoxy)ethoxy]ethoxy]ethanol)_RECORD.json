@@ -1,0 +1,21 @@
+{
+    "mechanism": "polyurethane_isocyanate",
+    "polymer_name": "poly(1,6-diisocyanatohexane-co-2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethanol)",
+    "exper_density": 1.22,
+    "lattice_size": "3x3x3",
+    "oligomer_type": "trimer",
+    "n_atoms_in_topology": 4455,
+    "unique_elems_in_topology": [
+        "C",
+        "H",
+        "N",
+        "O"
+    ],
+    "directory": "polymer_benchmark/polyurethane_isocyanate/poly(1,6-diisocyanatohexane-co-2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethanol)/trimer/3x3x3",
+    "topology_path": "polymer_benchmark/polyurethane_isocyanate/poly(1,6-diisocyanatohexane-co-2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethanol)/trimer/3x3x3/3x3x3_poly(1,6-diisocyanatohexane-co-2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethanol).sdf",
+    "topology_time": 5.3350560665130615,
+    "interchange_path": "polymer_benchmark/polyurethane_isocyanate/poly(1,6-diisocyanatohexane-co-2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethanol)/trimer/3x3x3/3x3x3_poly(1,6-diisocyanatohexane-co-2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethanol).pkl",
+    "interchange_time": 11.772982597351074,
+    "lammps_time": 71.79337668418884,
+    "openmm_time": 36.61280536651611
+}
