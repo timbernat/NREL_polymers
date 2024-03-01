@@ -1,0 +1,217 @@
+,ncalls,tottime,percall_tottime,cumtime,percall_cumtime,file_name,line_number
+interchange_to_lammps,1,0.0,0.0,71.793,71.793,/tmp/ipykernel_716758/2270275521.py,21
+to_lammps,1,0.0,0.0,71.79,71.79,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,13
+_write_propers,1,62.913,62.913,63.318,63.318,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,366
+_write_impropers,1,4.79,4.79,4.932,4.932,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,394
+_write_atoms,1,0.598,0.598,1.848,1.848,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,267
+_write_angles,1,0.717,0.717,0.927,0.927,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,339
+to,9051,0.033,0.0,0.776,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,510
+_write_bonds,1,0.546,0.546,0.611,0.611,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,306
+_convert_magnitude_not_inplace,9191,0.014,0.0,0.499,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,472
+convert,9191,0.021,0.0,0.485,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,889
+_convert,4457,0.059,0.0,0.25,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,924
+__new__,6,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/enum.py,1091
+__getattr__,81,0.001,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,1539
+m_as,4458,0.007,0.0,0.185,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,304
+__init__,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2831
+_validate_and_extract,8914,0.026,0.0,0.141,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/nonmultiplicative/registry.py,122
+atom_index,193806,0.127,0.0,0.139,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/topology.py,725
+<dictcomp>,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,112
+parse_units,9048,0.029,0.0,0.125,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,1051
+propers,27,0.0,0.0,0.105,0.004,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,3271
+<genexpr>,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,822
+__instancecheck__,85223,0.055,0.0,0.113,0.0,<frozen abc>,117
+__getitem__,25,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/components/interchange.py,747
+_construct_torsions,54,0.081,0.002,0.105,0.002,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,5028
+<listcomp>,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,814
+angles,27,0.0,0.0,0.094,0.003,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,3247
+__hash__,8856,0.008,0.0,0.011,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/models.py,75
+_construct_angles,27,0.023,0.001,0.093,0.003,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,5011
+<method 'format' of 'str' objects>,32509,0.091,0.0,0.091,0.0,~,0
+parent,65260,0.06,0.0,0.079,0.0,<frozen importlib._bootstrap>,405
+_get_dimensionality,8988,0.018,0.0,0.077,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,656
+__eq__,4461,0.011,0.0,0.037,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,669
+is_upcast_type,13583,0.028,0.0,0.062,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/compat.py,217
+__truediv__,4457,0.028,0.0,0.062,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,504
+<built-in method builtins.isinstance>,162532,0.04,0.0,0.061,0.0,~,0
+<built-in method _abc._abc_instancecheck>,85223,0.058,0.0,0.058,0.0,~,0
+_parse_units,9048,0.014,0.0,0.046,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,1082
+_construct_bonded_atoms_list,54,0.016,0.0,0.056,0.001,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,5069
+__contains__,17962,0.032,0.0,0.052,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/collections/__init__.py,1020
+_is_multiplicative,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/nonmultiplicative/objects.py,15
+__iter__,13441,0.008,0.0,0.011,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,407
+molecule_atom_index,77679,0.031,0.0,0.037,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,530
+getattr_maybe_raise,8981,0.023,0.0,0.036,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,955
+to_units_container,27433,0.027,0.0,0.036,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,876
+_get_root_units,4527,0.008,0.0,0.035,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,757
+<method 'write' of '_io.TextIOWrapper' objects>,32630,0.034,0.0,0.034,0.0,~,0
+check_upcast_type,13583,0.012,0.0,0.031,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/compat.py,202
+<built-in method builtins.hash>,67822,0.029,0.0,0.029,0.0,~,0
+_to_magnitude,13582,0.02,0.0,0.029,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/compat.py,54
+_handle_fromlist,13582,0.017,0.0,0.023,0.0,<frozen importlib._bootstrap>,1207
+<method 'index' of 'list' objects>,13311,0.022,0.0,0.022,0.0,~,0
+<built-in method builtins.hasattr>,58990,0.022,0.0,0.022,0.0,~,0
+atom1_index,4428,0.005,0.0,0.021,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,708
+fully_qualified_name,13583,0.019,0.0,0.019,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/compat.py,192
+<method 'rpartition' of 'str' objects>,65260,0.019,0.0,0.019,0.0,~,0
+items,13371,0.01,0.0,0.018,0.0,<frozen _collections_abc>,790
+<built-in method builtins.any>,22420,0.01,0.0,0.018,0.0,~,0
+copy,4612,0.004,0.0,0.004,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,311
+<built-in method __new__ of type object at 0x557de3bb7060>,49887,0.017,0.0,0.017,0.0,~,0
+atom2_index,4428,0.005,0.0,0.015,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,712
+__copy__,4612,0.008,0.0,0.014,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,468
+_build_atom_index_cache,1,0.002,0.002,0.012,0.012,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/topology.py,1189
+<lambda>,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2465
+<method 'add' of 'set' objects>,74304,0.012,0.0,0.012,0.0,~,0
+impropers,27,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,3286
+atoms,4456,0.002,0.0,0.002,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/topology.py,713
+__len__,13652,0.007,0.0,0.01,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,410
+<method 'mro' of 'type' objects>,27433,0.009,0.0,0.009,0.0,~,0
+<method 'items' of 'dict' objects>,44237,0.008,0.0,0.008,0.0,~,0
+_write_proper_coeffs,1,0.0,0.0,0.008,0.008,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,194
+<built-in method builtins.len>,41489/41422,0.008,0.0,0.008,0.0,~,0
+is_multiplicative,9072,0.002,0.0,0.002,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/converters.py,26
+force_ndarray,13582,0.005,0.0,0.005,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,158
+<built-in method io.open>,4,0.004,0.001,0.004,0.001,~,0
+force_ndarray_like,13582,0.004,0.0,0.004,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,162
+<method 'endswith' of 'str' objects>,8981,0.004,0.0,0.004,0.0,~,0
+__bool__,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,1747
+get,13582,0.004,0.0,0.004,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/registry.py,183
+__int__,70,0.0,0.0,0.004,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,927
+<method 'startswith' of 'str' objects>,8983,0.004,0.0,0.004,0.0,~,0
+<built-in method builtins.iter>,13445,0.003,0.0,0.003,0.0,~,0
+<method 'values' of 'dict' objects>,13584,0.003,0.0,0.003,0.0,~,0
+dimensionless,70,0.0,0.0,0.003,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,333
+<method 'replace' of 'str' objects>,9057,0.003,0.0,0.003,0.0,~,0
+molecule,8856,0.002,0.0,0.002,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,753
+magnitude,9049,0.002,0.0,0.002,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,294
+<method 'lstrip' of 'str' objects>,8981,0.002,0.0,0.002,0.0,~,0
+to_root_units,70,0.0,0.0,0.002,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,542
+metadata,4455,0.002,0.0,0.002,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,295
+atom1,4428,0.002,0.0,0.002,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,700
+bonds,27,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,3226
+_write_pair_coeffs,1,0.0,0.0,0.002,0.002,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,139
+_write_bond_coeffs,1,0.0,0.0,0.002,0.002,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,156
+from_interchange,1,0.0,0.0,0.001,0.001,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/components/mdconfig.py,76
+_write_angle_coeffs,1,0.0,0.0,0.001,0.001,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,175
+<built-in method numpy.core._multiarray_umath.implement_array_function>,6/4,0.0,0.0,0.001,0.0,~,0
+atom2,4428,0.001,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,704
+amin,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/numpy/core/fromnumeric.py,2802
+__array_function__,1,0.0,0.0,0.001,0.001,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/quantity.py,63
+numpy_wrap,1,0.0,0.0,0.001,0.001,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,988
+implementation,1,0.0,0.0,0.001,0.001,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,808
+__missing__,4612,0.001,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,308
+UnitsContainer,209,0.0,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,385
+atom,11,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,3174
+write_lammps_input,1,0.0,0.0,0.001,0.001,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/components/mdconfig.py,191
+validate_type,2,0.0,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/models/types.py,35
+add,155,0.0,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,360
+dimensionality,74,0.0,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,342
+deepcopy,33/3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/copy.py,128
+_write_improper_coeffs,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/internal/lammps.py,217
+parse_expression,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,1220
+<method 'reduce' of 'numpy.ufunc' objects>,2,0.0,0.0,0.0,0.0,~,0
+_wrapreduction,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/numpy/core/fromnumeric.py,69
+__deepcopy__,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,269
+<method '__exit__' of '_io._IOBase' objects>,4,0.0,0.0,0.0,0.0,~,0
+n_atoms,934,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,3129
+signature,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3278
+from_callable,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3024
+_signature_from_callable,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2428
+open,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/pathlib.py,1036
+_reconstruct,6/3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/copy.py,259
+get_name,157,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,584
+build_eval_tree,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/pint_eval.py,130
+_signature_from_function,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2333
+molecules,728,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/topology.py,675
+tokenizer,8,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/compat.py,34
+unwrap_and_wrap_consistent_units,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,119
+_deepcopy_tuple,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/copy.py,210
+evaluate,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/pint_eval.py,89
+string_preprocessor,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,777
+convert_to_consistent_units,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,101
+_eval_token,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,1127
+convert_arg,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,74
+bind,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3207
+<method 'sub' of 're.Pattern' objects>,20,0.0,0.0,0.0,0.0,~,0
+_tokenize,10,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/tokenize.py,433
+_bind,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3076
+non_int_type,276,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,405
+diag,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/numpy/lib/twodim_base.py,240
+<method 'read' of '_io.TextIOWrapper' objects>,1,0.0,0.0,0.0,0.0,~,0
+tokenize,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/tokenize.py,408
+<method 'pop' of 'dict' objects>,284,0.0,0.0,0.0,0.0,~,0
+_get_non_multiplicative_units,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/nonmultiplicative/objects.py,20
+detect_encoding,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/tokenize.py,299
+diagonal,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/numpy/core/fromnumeric.py,1552
+__fspath__,4,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/pathlib.py,546
+<method '__reduce_ex__' of 'object' objects>,6,0.0,0.0,0.0,0.0,~,0
+unwrap,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,735
+_keep_alive,12,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/copy.py,243
+_subx,18,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/re/__init__.py,315
+_get_first_input_units,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,63
+__str__,5,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/pathlib.py,536
+args,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2839
+<method 'all' of 'numpy.ndarray' objects>,1,0.0,0.0,0.0,0.0,~,0
+<method 'get' of 'dict' objects>,79,0.0,0.0,0.0,0.0,~,0
+<built-in method builtins.getattr>,21,0.0,0.0,0.0,0.0,~,0
+_all,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/numpy/core/_methods.py,60
+__call__,6,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/enum.py,686
+_get_unit_definition,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,1777
+_infer_constraints,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/components/mdconfig.py,308
+kwargs,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2862
+<method 'strip' of 'str' objects>,69,0.0,0.0,0.0,0.0,~,0
+<method 'match' of 're.Pattern' objects>,6,0.0,0.0,0.0,0.0,~,0
+units,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,318
+mass,11,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,437
+<built-in method builtins.id>,59,0.0,0.0,0.0,0.0,~,0
+__newobj__,6,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/copyreg.py,104
+find_cookie,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/tokenize.py,329
+<built-in method builtins.round>,2,0.0,0.0,0.0,0.0,~,0
+get_annotations,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,167
+<method 'diagonal' of 'numpy.ndarray' objects>,2,0.0,0.0,0.0,0.0,~,0
+_is_wrapper,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,755
+kind,27,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2751
+decode,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/encodings/ascii.py,25
+_is_quantity,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/numpy/numpy_func.py,26
+m,16,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,299
+_format_parsed_parts,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/pathlib.py,523
+<built-in method builtins.all>,1,0.0,0.0,0.0,0.0,~,0
+<method 'append' of 'list' objects>,17,0.0,0.0,0.0,0.0,~,0
+name,14,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2739
+<method 'translate' of 'str' objects>,2,0.0,0.0,0.0,0.0,~,0
+atomic_number,11,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,421
+__setstate__,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,428
+_deepcopy_atomic,21,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/copy.py,182
+<built-in method numpy.zeros>,1,0.0,0.0,0.0,0.0,~,0
+<method 'isidentifier' of 'str' objects>,8,0.0,0.0,0.0,0.0,~,0
+read_or_stop,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/tokenize.py,323
+<built-in method builtins.issubclass>,12,0.0,0.0,0.0,0.0,~,0
+<method '__contains__' of 'frozenset' objects>,6,0.0,0.0,0.0,0.0,~,0
+<method 'join' of 'str' objects>,3,0.0,0.0,0.0,0.0,~,0
+__getstate__,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,425
+<method 'decode' of 'bytes' objects>,6,0.0,0.0,0.0,0.0,~,0
+isfunction,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,378
+<built-in method numpy.asanyarray>,4,0.0,0.0,0.0,0.0,~,0
+<method 'startswith' of 'bytes' objects>,2,0.0,0.0,0.0,0.0,~,0
+<built-in method builtins.next>,4,0.0,0.0,0.0,0.0,~,0
+charges,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/smirnoff/_nonbonded.py,283
+<method 'items' of 'mappingproxy' objects>,2,0.0,0.0,0.0,0.0,~,0
+<built-in method _codecs.ascii_decode>,1,0.0,0.0,0.0,0.0,~,0
+<method 'encode' of 'str' objects>,2,0.0,0.0,0.0,0.0,~,0
+default,4,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2743
+<method 'split' of 'str' objects>,1,0.0,0.0,0.0,0.0,~,0
+parameters,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3032
+<method 'values' of 'mappingproxy' objects>,1,0.0,0.0,0.0,0.0,~,0
+_amin_dispatcher,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/numpy/core/fromnumeric.py,2797
+<method 'span' of 're.Match' objects>,2,0.0,0.0,0.0,0.0,~,0
+_diagonal_dispatcher,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/numpy/core/fromnumeric.py,1548
+_diag_dispatcher,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/numpy/lib/twodim_base.py,236
+<method 'lower' of 'str' objects>,4,0.0,0.0,0.0,0.0,~,0
+<built-in method builtins.callable>,2,0.0,0.0,0.0,0.0,~,0
+<method 'readline' of '_io.BytesIO' objects>,2,0.0,0.0,0.0,0.0,~,0
+<built-in method io.text_encoding>,2,0.0,0.0,0.0,0.0,~,0
+<method 'disable' of '_lsprof.Profiler' objects>,1,0.0,0.0,0.0,0.0,~,0
+<method 'keys' of 'dict' objects>,4,0.0,0.0,0.0,0.0,~,0
+<built-in method sys.getrecursionlimit>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method builtins.abs>,1,0.0,0.0,0.0,0.0,~,0

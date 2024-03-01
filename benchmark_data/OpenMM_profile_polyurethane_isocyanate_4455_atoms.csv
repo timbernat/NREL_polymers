@@ -1,0 +1,284 @@
+,ncalls,tottime,percall_tottime,cumtime,percall_cumtime,file_name,line_number
+interchange_to_openmm,1,0.0,0.0,36.551,36.551,/tmp/ipykernel_716758/2270275521.py,36
+to_openmm,3,0.0,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/units/openmm.py,179
+_process_nonbonded_forces,1,0.0,0.0,17.291,17.291,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,43
+_create_multiple_nonbonded_forces,1,11.826,11.826,17.27,17.27,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,565
+m_as,84214,0.147,0.0,10.297,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,304
+to,84214,0.346,0.0,10.121,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,510
+_process_torsion_forces,1,0.0,0.0,8.937,8.937,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_valence.py,184
+_process_proper_torsion_forces,1,0.919,0.919,8.937,8.937,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_valence.py,191
+_convert_magnitude_not_inplace,116938,0.158,0.0,7.641,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,472
+convert,116938,0.28,0.0,7.483,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,889
+_convert,65016,0.415,0.0,3.299,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,924
+_process_angle_forces,1,0.505,0.505,4.2,4.2,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_valence.py,100
+__getattr__,129223,0.302,0.0,3.645,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,335
+_set_particle_parameters,1,0.888,0.888,3.203,3.203,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,887
+__init__,2,0.0,0.0,0.0,0.0,<frozen codecs>,186
+_validate_and_extract,130032,0.368,0.0,2.722,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/nonmultiplicative/registry.py,122
+__new__,7,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/enum.py,1091
+_process_bond_forces,1,0.286,0.286,2.419,2.419,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_valence.py,47
+<listcomp>,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,576
+parse_units,129223,0.447,0.0,2.061,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,1051
+<built-in method openmm._openmm.new_Context>,1,1.81,1.81,1.81,1.81,~,0
+__truediv__,45009,0.163,0.0,0.976,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/unit.py,151
+__call__,7,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/enum.py,686
+str_path_wrapper,2,0.0,0.0,1.39,0.695,/home/timber/Documents/Python/NREL_polymers/polymerist/genutils/decorators/functional.py,58
+_is_multiplicative,220050,0.411,0.0,1.292,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/nonmultiplicative/registry.py,107
+_get_dimensionality,146394,0.301,0.0,1.236,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,656
+__eq__,40932,0.063,0.0,0.104,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/unit.py,175
+__int__,16362,0.073,0.0,1.194,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,927
+_parse_units,129223,0.316,0.0,0.895,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,1082
+serialize_state_from_context,1,0.0,0.0,1.014,1.014,/home/timber/Documents/Python/NREL_polymers/polymerist/openmmtools/serialization.py,105
+__contains__,349273,0.601,0.0,0.984,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/collections/__init__.py,1020
+getState,1,0.0,0.0,0.958,0.958,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,3629
+<built-in method openmm._openmm.Context_getState>,1,0.958,0.958,0.958,0.958,~,0
+dimensionless,16362,0.039,0.0,0.936,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,333
+<built-in method builtins.isinstance>,2407200/2407197,0.59,0.0,0.909,0.0,~,0
+__iter__,254802,0.171,0.0,0.234,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,407
+to_root_units,16362,0.06,0.0,0.736,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,542
+addBond,4428,0.01,0.0,0.022,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,6794
+<built-in method openmm._openmm.CustomBondForce_addBond>,20466,0.108,0.0,0.685,0.0,~,0
+_get_root_units,81378,0.152,0.0,0.672,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,757
+__hash__,8910,0.01,0.0,0.013,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/models.py,50
+value_in_unit_system,20466,0.031,0.0,0.511,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/quantity.py,629
+_process_improper_torsion_forces,1,0.049,0.049,0.501,0.501,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_valence.py,274
+getattr_maybe_raise,129223,0.311,0.0,0.478,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,955
+in_unit_system,20466,0.05,0.0,0.469,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/quantity.py,639
+_change_units_with_factor,40935,0.1,0.0,0.43,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/quantity.py,663
+to_units_container,318090,0.325,0.0,0.429,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,876
+copy,114453,0.104,0.0,0.104,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,311
+serialize,2,0.0,0.0,0.418,0.209,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,9900
+is_upcast_type,100576,0.201,0.0,0.418,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/compat.py,217
+__mul__,40932/20466,0.116,0.0,0.404,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/quantity.py,353
+serialize_system,1,0.0,0.0,0.376,0.376,/home/timber/Documents/Python/NREL_polymers/polymerist/openmmtools/serialization.py,91
+__instancecheck__,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/ast.py,531
+serializeSystem,1,0.004,0.004,0.364,0.364,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,9817
+getExceptionParameters,22734,0.123,0.0,0.363,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,12199
+<built-in method openmm._openmm.XmlSerializer_serializeSystem>,1,0.36,0.36,0.36,0.36,~,0
+__copy__,114453,0.203,0.0,0.344,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,468
+<built-in method builtins.any>,414289,0.206,0.0,0.342,0.0,~,0
+UnitsContainer,47466,0.108,0.0,0.3,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,385
+_get_14_pairs,10234,0.101,0.0,0.284,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/components/toolkit.py,25
+items,240060,0.195,0.0,0.269,0.0,<frozen _collections_abc>,790
+is_quantity,397674,0.167,0.0,0.235,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/quantity.py,787
+_to_magnitude,100576,0.171,0.0,0.233,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/compat.py,54
+is_dimensionless,51168,0.08,0.0,0.212,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/unit.py,338
+<built-in method builtins.hasattr>,609620,0.212,0.0,0.212,0.0,~,0
+__len__,6,0.0,0.0,0.0,0.0,<frozen _collections_abc>,815
+<built-in method __new__ of type object at 0x557de3bb7060>,623492,0.206,0.0,0.206,0.0,~,0
+<genexpr>,7,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3019
+_handle_fromlist,100579,0.156,0.0,0.2,0.0,<frozen importlib._bootstrap>,1207
+is_multiplicative,220050,0.047,0.0,0.047,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/converters.py,26
+check_upcast_type,100576,0.095,0.0,0.193,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/compat.py,202
+parent,118396,0.137,0.0,0.187,0.0,<frozen importlib._bootstrap>,405
+getParticleParameters,20466,0.017,0.0,0.038,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,9051
+_unit_class_mul,32970,0.113,0.0,0.171,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/unit_operators.py,80
+bonded_atoms,252801,0.13,0.0,0.169,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,480
+<built-in method _abc._abc_instancecheck>,375904,0.165,0.0,0.165,0.0,~,0
+dimensionality,16362,0.025,0.0,0.149,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,342
+<built-in method builtins.len>,662948/648200,0.138,0.0,0.147,0.0,~,0
+__getitem__,5,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/components/interchange.py,747
+setExceptionParameters,22734,0.064,0.0,0.134,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,12232
+<lambda>,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,11768
+<method 'mro' of 'type' objects>,318090,0.104,0.0,0.104,0.0,~,0
+fully_qualified_name,100576,0.098,0.0,0.098,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/compat.py,192
+reduce_unit,10233,0.046,0.0,0.083,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/quantity.py,294
+addTorsion,15552,0.038,0.0,0.083,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,14800
+deepcopy,20467,0.06,0.0,0.081,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/copy.py,128
+__pow__,4428,0.016,0.0,0.044,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,493
+is_unit,114834,0.052,0.0,0.07,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/unit.py,703
+is_compatible,20469,0.046,0.0,0.066,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/unit.py,308
+__bool__,65016,0.042,0.0,0.066,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/collections/__init__.py,1023
+<built-in method builtins.iter>,254802,0.063,0.0,0.063,0.0,~,0
+conversion_factor_to,20469,0.045,0.0,0.063,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/unit.py,354
+_create_electrostatics_force,1,0.002,0.002,0.059,0.059,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,813
+<built-in method builtins.hash>,190863,0.057,0.0,0.057,0.0,~,0
+<method 'endswith' of 'str' objects>,129223,0.056,0.0,0.056,0.0,~,0
+_serializeState,1,0.0,0.0,0.054,0.054,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,9885
+<built-in method openmm._openmm.XmlSerializer__serializeState>,1,0.054,0.054,0.054,0.054,~,0
+addExclusion,22734,0.03,0.0,0.054,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,9082
+_check,45009,0.04,0.0,0.053,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,824
+<method 'rpartition' of 'str' objects>,118396,0.05,0.0,0.05,0.0,~,0
+<method 'startswith' of 'str' objects>,129227,0.048,0.0,0.048,0.0,~,0
+<method 'items' of 'dict' objects>,213252,0.046,0.0,0.046,0.0,~,0
+_create_exceptions,1,0.0,0.0,0.044,0.044,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,454
+force_ndarray,100576,0.041,0.0,0.041,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,158
+atoms,108,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,3167
+addAngle,8073,0.017,0.0,0.039,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,17226
+<method 'replace' of 'str' objects>,129224,0.039,0.0,0.039,0.0,~,0
+force_ndarray_like,100576,0.035,0.0,0.035,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,162
+get,100576,0.034,0.0,0.034,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/registry.py,183
+<method 'lstrip' of 'str' objects>,129223,0.033,0.0,0.033,0.0,~,0
+express_unit,20466,0.023,0.0,0.03,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/unit.py,666
+atom_index,58698,0.028,0.0,0.028,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/topology.py,725
+magnitude,84214,0.028,0.0,0.028,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,294
+setParticleParameters,4455,0.005,0.0,0.017,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,9068
+<method 'values' of 'dict' objects>,100580,0.024,0.0,0.024,0.0,~,0
+<built-in method openmm._openmm.CustomNonbondedForce_addExclusion>,22734,0.024,0.0,0.024,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_getExceptionParameters>,22734,0.023,0.0,0.023,0.0,~,0
+<built-in method openmm._openmm.PeriodicTorsionForce_addTorsion>,15552,0.023,0.0,0.023,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_setExceptionParameters>,22734,0.023,0.0,0.023,0.0,~,0
+__missing__,114453,0.023,0.0,0.023,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,308
+<built-in method openmm._openmm.CustomNonbondedForce_getParticleParameters>,20466,0.022,0.0,0.022,0.0,~,0
+_add_particles_to_system,1,0.008,0.008,0.021,0.021,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,151
+createExceptionsFromBonds,1,0.0,0.0,0.019,0.019,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,12266
+non_int_type,62208,0.019,0.0,0.019,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,405
+<built-in method openmm._openmm.NonbondedForce_createExceptionsFromBonds>,1,0.019,0.019,0.019,0.019,~,0
+get_name,14742,0.007,0.0,0.007,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/registry.py,584
+<built-in method builtins.sorted>,4431,0.006,0.0,0.017,0.0,~,0
+<method 'pop' of 'dict' objects>,63828,0.017,0.0,0.017,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_getParticleParameters>,20466,0.014,0.0,0.014,0.0,~,0
+<built-in method builtins.getattr>,45048,0.013,0.0,0.013,0.0,~,0
+<method 'write' of '_io.TextIOWrapper' objects>,2,0.013,0.006,0.013,0.006,~,0
+addParticle,4455,0.002,0.0,0.006,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,9034
+<built-in method openmm._openmm.CustomNonbondedForce_setParticleParameters>,4455,0.012,0.0,0.012,0.0,~,0
+_is_constrained,12501,0.011,0.0,0.011,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_valence.py,312
+<built-in method openmm._openmm.HarmonicAngleForce_addAngle>,8073,0.011,0.0,0.011,0.0,~,0
+_create_vdw_force,1,0.004,0.004,0.011,0.011,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,739
+<method 'get' of 'dict' objects>,40949,0.01,0.0,0.01,0.0,~,0
+<built-in method builtins.id>,20471,0.007,0.0,0.007,0.0,~,0
+<built-in method openmm._openmm.HarmonicBondForce_addBond>,4428,0.006,0.0,0.006,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_setParticleParameters>,4455,0.006,0.0,0.006,0.0,~,0
+<built-in method openmm._openmm.CustomNonbondedForce_addParticle>,4455,0.004,0.0,0.004,0.0,~,0
+_deepcopy_atomic,20466,0.004,0.0,0.004,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/copy.py,182
+<method 'strip' of 'str' objects>,14742,0.004,0.0,0.004,0.0,~,0
+mass,4455,0.002,0.0,0.003,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,437
+<method 'intersection' of 'set' objects>,10233,0.002,0.0,0.002,0.0,~,0
+bonds,54,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,3226
+<method 'append' of 'list' objects>,10241,0.002,0.0,0.002,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_addParticle>,4455,0.002,0.0,0.002,0.0,~,0
+<built-in method openmm._openmm.System_addParticle>,4455,0.001,0.0,0.001,0.0,~,0
+open,2,0.0,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/pathlib.py,1036
+<built-in method io.open>,2,0.001,0.0,0.001,0.0,~,0
+atom1,4428,0.001,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,700
+atom2,4428,0.001,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,704
+atomic_number,4455,0.001,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/molecule.py,421
+m,4459,0.001,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,299
+default_parameter_values,4455,0.001,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/smirnoff/_nonbonded.py,164
+molecule_index,54,0.0,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/topology.py,753
+wrapper,4/3,0.0,0.0,0.001,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/utilities/utilities.py,69
+allow_string_paths,2,0.0,0.0,0.001,0.0,/home/timber/Documents/Python/NREL_polymers/polymerist/genutils/decorators/functional.py,52
+to_openmm_inner,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/units/openmm.py,206
+signature,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3278
+molecules,978,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/toolkit/topology/topology.py,675
+from_callable,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3024
+_signature_from_callable,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2428
+setPositions,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,3464
+<built-in method openmm._openmm.Context_setPositions>,1,0.0,0.0,0.0,0.0,~,0
+to_openmm_positions,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_positions.py,15
+_signature_from_function,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2333
+__str__,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/pathlib.py,536
+__format__,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/util.py,462
+_to_openmm,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/units/units.py,45
+string_to_openmm_unit,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/units/openmm.py,117
+format_unit,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/formatting.py,413
+format_default,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/formatting.py,244
+value_in_unit,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/quantity.py,619
+getForces,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,17732
+in_units_of,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/unit/quantity.py,647
+formatter,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/formatting.py,272
+modify_param_annotation_by_index,2,0.0,0.0,0.0,0.0,/home/timber/Documents/Python/NREL_polymers/polymerist/genutils/decorators/signatures.py,26
+label_forces,1,0.0,0.0,0.0,0.0,/home/timber/Documents/Python/NREL_polymers/polymerist/openmmtools/preparation.py,19
+parse,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/ast.py,33
+<built-in method builtins.compile>,3,0.0,0.0,0.0,0.0,~,0
+addForce,7,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,17595
+getForce,12,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,17632
+import_module,4,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/importlib/__init__.py,108
+<built-in method openmm._openmm.System_getForce>,12,0.0,0.0,0.0,0.0,~,0
+_ast_eval,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/units/openmm.py,73
+units,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/facets/plain/quantity.py,318
+<method '__exit__' of '_io._IOBase' objects>,2,0.0,0.0,0.0,0.0,~,0
+_gcd_import,4,0.0,0.0,0.0,0.0,<frozen importlib._bootstrap>,1192
+__fspath__,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/pathlib.py,546
+_prepare_input_data,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,198
+replace,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3040
+update_wrapper,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/functools.py,35
+setCutoffDistance,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,11850
+_find_and_load,4,0.0,0.0,0.0,0.0,<frozen importlib._bootstrap>,1165
+<method '__deepcopy__' of 'numpy.ndarray' objects>,1,0.0,0.0,0.0,0.0,~,0
+unwrap,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,735
+_join,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/pint/formatting.py,24
+setName,4,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,2107
+_process_constraints,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_valence.py,14
+get_annotations,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,167
+setForceGroup,7,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,2088
+_process_gbsa,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_gbsa.py,7
+setDefaultPeriodicBoxVectors,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,17681
+<built-in method openmm._openmm.Force_setName>,4,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.Context_swiginit>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.System_addForce>,7,0.0,0.0,0.0,0.0,~,0
+getNumExceptions,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,11790
+_format_parsed_parts,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/pathlib.py,523
+getNumForces,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,17625
+inner,4,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/typing.py,352
+<built-in method openmm._openmm.Force_setForceGroup>,7,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.PeriodicTorsionForce_swiginit>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.new_CustomBondForce>,2,0.0,0.0,0.0,0.0,~,0
+_apply_switching_function,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,994
+_sanity_check,4,0.0,0.0,0.0,0.0,<frozen importlib._bootstrap>,1101
+<built-in method openmm._openmm.new_CustomNonbondedForce>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.System_setDefaultPeriodicBoxVectors>,1,0.0,0.0,0.0,0.0,~,0
+addPerBondParameter,3,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,5820
+setNonbondedMethod,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,11825
+<method 'join' of 'str' objects>,5,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_swiginit>,1,0.0,0.0,0.0,0.0,~,0
+get_positions_with_virtual_sites,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/_virtual_sites.py,36
+addPerParticleParameter,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,8876
+<method 'own' of 'SwigPyObject' objects>,14,0.0,0.0,0.0,0.0,~,0
+<built-in method builtins.setattr>,10,0.0,0.0,0.0,0.0,~,0
+<method 'search' of 're.Pattern' objects>,3,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.CustomBondForce_swiginit>,2,0.0,0.0,0.0,0.0,~,0
+_is_wrapper,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,755
+getNonbondedMethod,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,11818
+<built-in method openmm._openmm.HarmonicBondForce_swiginit>,1,0.0,0.0,0.0,0.0,~,0
+isfunction,4,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,378
+<method 'isidentifier' of 'str' objects>,7,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.HarmonicAngleForce_swiginit>,1,0.0,0.0,0.0,0.0,~,0
+name,12,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2739
+setUsesPeriodicBoundaryConditions,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,6047
+charges,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/smirnoff/_nonbonded.py,283
+aspath,2,0.0,0.0,0.0,0.0,/home/timber/Documents/Python/NREL_polymers/polymerist/genutils/fileutils/pathutils.py,33
+<built-in method openmm._openmm.System_swiginit>,1,0.0,0.0,0.0,0.0,~,0
+<method '__contains__' of 'frozenset' objects>,7,0.0,0.0,0.0,0.0,~,0
+wraps,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/functools.py,65
+<built-in method openmm._openmm.CustomNonbondedForce_swiginit>,1,0.0,0.0,0.0,0.0,~,0
+setUseLongRangeCorrection,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,8869
+_get_14_scaling_factors,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/interop/openmm/_nonbonded.py,980
+setEwaldErrorTolerance,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,11931
+setUseDispersionCorrection,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,12508
+_keep_alive,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/copy.py,243
+<built-in method openmm._openmm.CustomBondForce_addPerBondParameter>,3,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_getNumExceptions>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.System_getNumForces>,2,0.0,0.0,0.0,0.0,~,0
+setUseSwitchingFunction,1,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openmm/openmm.py,8829
+<built-in method openmm._openmm.new_HarmonicAngleForce>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.new_HarmonicBondForce>,1,0.0,0.0,0.0,0.0,~,0
+kind,7,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2751
+default,7,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,2743
+<built-in method openmm._openmm.CustomNonbondedForce_addPerParticleParameter>,2,0.0,0.0,0.0,0.0,~,0
+<method 'values' of 'mappingproxy' objects>,2,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.new_PeriodicTorsionForce>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.new_System>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method builtins.callable>,4,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.new_NonbondedForce>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method sys.getrecursionlimit>,2,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.CustomNonbondedForce_setNonbondedMethod>,1,0.0,0.0,0.0,0.0,~,0
+potential_parameters,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/site-packages/openff/interchange/smirnoff/_nonbonded.py,169
+<built-in method openmm._openmm.NonbondedForce_setCutoffDistance>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method io.text_encoding>,2,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.CustomNonbondedForce_setCutoffDistance>,1,0.0,0.0,0.0,0.0,~,0
+<method 'update' of 'dict' objects>,2,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_setNonbondedMethod>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.CustomBondForce_setUsesPeriodicBoundaryConditions>,2,0.0,0.0,0.0,0.0,~,0
+<method 'disable' of '_lsprof.Profiler' objects>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.CustomNonbondedForce_getNonbondedMethod>,1,0.0,0.0,0.0,0.0,~,0
+parameters,2,0.0,0.0,0.0,0.0,/home/timber/miniconda3/envs/polymerist-env/lib/python3.11/inspect.py,3032
+<built-in method openmm._openmm.CustomNonbondedForce_setUseLongRangeCorrection>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_getNonbondedMethod>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_setEwaldErrorTolerance>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.NonbondedForce_setUseDispersionCorrection>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method builtins.all>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method openmm._openmm.CustomNonbondedForce_setUseSwitchingFunction>,1,0.0,0.0,0.0,0.0,~,0
+<method 'lower' of 'str' objects>,1,0.0,0.0,0.0,0.0,~,0
+<method 'keys' of 'dict' objects>,1,0.0,0.0,0.0,0.0,~,0
+<built-in method builtins.issubclass>,1,0.0,0.0,0.0,0.0,~,0
