@@ -1,0 +1,106 @@
+#-------------------INITIALIZATION-------------------------
+
+units 				real
+atom_style 			full
+dimension 			3
+boundary 			p p p
+
+#---------------------VARIABLES----------------------------
+
+variable	       		Temperature equal  300
+variable	       		Pressure equal  1
+variable    			cod1 equal 9.0
+variable 			tempdamp equal 100
+variable 			pressdamp equal 1000
+variable			cod equal 9.0
+
+#--------------------FORCE FIELD---------------------------
+
+bond_style 			hybrid harmonic
+angle_style 			hybrid harmonic
+dihedral_style 			hybrid fourier
+improper_style 			cvff
+special_bonds 			lj 0.0 0.0 0.5 coul 0.0 0.0 0.8333333333 
+pair_style 			lj/cut/coul/long ${cod1} ${cod1}
+pair_modify 			mix arithmetic tail yes
+kspace_style 			pppm 1e-4
+
+#------------------SIMULATION SETTINGS---------------------
+
+read_data 			data.data
+
+bond_coeff			1 harmonic	366.7408841747	1.425895053732
+bond_coeff			2 harmonic	300.03137914615	1.451203938761
+bond_coeff			3 harmonic	264.62148576755	1.52190126495
+bond_coeff			4 harmonic	370.04670688625	1.093899492634
+bond_coeff			5 harmonic	301.15400723785	1.345741232799
+bond_coeff			6 harmonic	582.698766451	1.225198386222
+bond_coeff			7 harmonic	279.1350963404	1.454628925034
+bond_coeff			8 harmonic	399.1592953295	1.371688562017
+bond_coeff			9 harmonic	369.34270398985	1.364116986116
+bond_coeff			10 harmonic	397.2545789619	1.085358495916
+bond_coeff			11 harmonic	329.96998057905	1.427343958716
+bond_coeff			12 harmonic	543.5267831885	0.9716763312559
+bond_coeff			13 harmonic	385.7604595587	1.369745182308
+
+angle_coeff			1 harmonic	53.20531626545	116.5475862634
+angle_coeff			2 harmonic	65.09061609600001	110.3538806181
+angle_coeff			3 harmonic	201.41175231035	127.4691416191
+angle_coeff			4 harmonic	57.8982893754	126.8062420451
+angle_coeff			5 harmonic	48.776492647595	115.6030999533
+angle_coeff			6 harmonic	39.628116874445	129.8027304608
+angle_coeff			7 harmonic	79.1895422237	112.4630193006
+
+dihedral_coeff			1 fourier 1	-0.0309670556842	3	0
+dihedral_coeff			2 fourier 1	0.4598191477945	2	0
+dihedral_coeff			3 fourier 1	0.1115525666802	3	0
+dihedral_coeff			4 fourier 1	0.3432490222662	1	0
+dihedral_coeff			5 fourier 1	0.0473758381877	3	0
+dihedral_coeff			6 fourier 1	0.457973137376	1	0
+dihedral_coeff			7 fourier 1	0.1918272375143	3	0
+dihedral_coeff			8 fourier 1	0.9202179876409	1	180
+dihedral_coeff			9 fourier 1	1.163809172478	2	180
+dihedral_coeff			10 fourier 1	0.1679186987369	1	180
+dihedral_coeff			11 fourier 1	2.779853741805	2	180
+dihedral_coeff			12 fourier 1	0.9974165607242	2	180
+dihedral_coeff			13 fourier 1	0.1911926717192	3	0
+dihedral_coeff			14 fourier 1	5.294842998052	2	180
+dihedral_coeff			15 fourier 1	1.659715194912	2	180
+dihedral_coeff			16 fourier 1	0.2347635637734	2	180
+dihedral_coeff			17 fourier 1	0.4747469131102	3	0
+dihedral_coeff			18 fourier 1	1.163235555439	2	180
+dihedral_coeff			19 fourier 1	0.3445382149273	3	0
+dihedral_coeff			20 fourier 1	0.1364556373303	1	0
+dihedral_coeff			21 fourier 1	0.3026390167484	3	0
+dihedral_coeff			22 fourier 1	2.687457892086	2	180
+dihedral_coeff			23 fourier 1	2.772607909663	2	180
+dihedral_coeff			24 fourier 1	0.09692684957115	1	0
+
+#replicate 			5 5 5
+#variable                	Lx equal lx
+#variable                	Ly equal ly
+#variable               	Lz equal lz
+#change_box              	all x final 0.0 ${Lx} y final 0.0 ${Ly} z final 0.0 ${Lz}
+
+neighbor        		2.0 bin
+neigh_modify    		delay 0 every 1 check yes page 1000000 one 20000
+
+timestep 			1.0
+
+thermo_style 			custom step density etotal pe ke enthalpy lx ly lz cpu temp press ebond eangle edihed eimp epair evdwl ecoul elong etail
+thermo         			1000
+thermo_modify			flush yes
+
+velocity 			all create ${Temperature} 4928459 dist gaussian
+minimize 			0.0 1.0e-8 1000 100000
+
+dump 				traj all dcd 1000 traj.dcd
+dump_modify 			traj sort id
+
+#-----------------ENSEMBLE SETUP: NPT ENSEMBLE--------------
+
+fix           			NPT all npt temp ${Temperature} ${Temperature} ${tempdamp} iso ${Pressure} ${Pressure} ${pressdamp}
+
+run 				100000
+write_data 			data1.data
+write_restart			restart.*
