@@ -16,6 +16,7 @@ Topologies/**/5x5x5/**/*
 Interchanges/*
 
 # testing files
+testing.ipynb
 amine_symmetry.ipynb
 log.lammps
 cubane.mol
@@ -29,3 +30,6 @@ gif_frames/*
 **/__pycache__/*
 .model.pt
 tqdm_test.py
+
+out.lmp
+tmp.in
