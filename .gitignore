@@ -16,7 +16,6 @@ Topologies/**/5x5x5/**/*
 Interchanges/*
 
 # testing files
-testing.ipynb
 amine_symmetry.ipynb
 log.lammps
 cubane.mol
