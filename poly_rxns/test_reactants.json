@@ -7,7 +7,10 @@
         "NCCCCCCN",
         "O=C(O)CCCCC(=O)O"
     ],
-    "polyimide": [],
+    "polyimide": [
+        "O(c1ccc(N)cc1)c2ccc(cc2)N",
+        "C1=C2C(=CC3=C1C(=O)OC3=O)C(=O)OC2=O"
+    ],
     "polycarbonate_phosgene": [
         "Oc1ccc(cc1)C(c2ccc(O)cc2)(C)C",
         "ClC(=O)Cl"
