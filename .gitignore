@@ -2,14 +2,9 @@
 polymerist/*
 
 # large data directories
-monomer_files/*
-pdb_files/*
 polymer_structures/*
-polymer_structures_timed/*
-polymer_validation/*
 polymer_update/*
-polymer_filtered/*
-polymer_revision/*
+polymer_improved/*
 
 OpenMM/*
 Topologies/**/5x5x5/**/*
@@ -24,6 +19,7 @@ cubane.mol
 sdf_testing/*
 energy_tables/*
 gif_frames/*
+C60.*
 
 # stray files
 **/__pycache__/*
