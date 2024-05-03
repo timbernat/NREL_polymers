@@ -5,6 +5,7 @@ polymerist/*
 polymer_structures/*
 polymer_update/*
 polymer_improved/*
+polymers_atom_limited*/*
 
 OpenMM/*
 Topologies/**/5x5x5/**/*
