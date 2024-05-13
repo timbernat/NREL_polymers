@@ -2,30 +2,20 @@
 polymerist/*
 
 # large data directories
-polymer_structures/*
-polymer_update/*
-polymer_improved/*
-polymers_atom_limited*/*
-
-OpenMM/*
-Topologies/**/5x5x5/**/*
-Interchanges/*
+polymer_*/*
+polymers_*/*
 
 # testing files
 amine_symmetry.ipynb
-log.lammps
-cubane.mol
 
 # testing dirs
 sdf_testing/*
 energy_tables/*
-gif_frames/*
-C60.*
 
 # stray files
 **/__pycache__/*
 .model.pt
-tqdm_test.py
 
+log.lammps
 out.lmp
 tmp.in
