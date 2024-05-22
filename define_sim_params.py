@@ -1,6 +1,6 @@
 '''Define simulation parameters to be used for OpenMM validation'''
 
-from polymerist.openmmtools.parameters import SimulationParameters, IntegratorParameters, ThermoParameters, ReporterParameters
+from polymerist.mdtools.openmmtools.parameters import SimulationParameters, IntegratorParameters, ThermoParameters, ReporterParameters
 from openmm.unit import kelvin, atmosphere
 from openmm.unit import femtosecond, picosecond, nanosecond
 
