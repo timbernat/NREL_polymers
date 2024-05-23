@@ -4,6 +4,7 @@ polymerist/*
 # large data directories
 polymer_*/*
 polymers_*/*
+plasticizer*/*
 
 # testing files
 amine_symmetry.ipynb
